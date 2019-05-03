@@ -2,8 +2,8 @@
 + Date : Friday, July 26, 2019
 + Venue : TBA
 - Agenda : 
-  - 08:30 - 08:50 : Registration & Lucky Draw
-  - 08:50 - 09:10 : Opening Speech, Microsoft MVP
+  - 08:30 - 08:50 : Registration
+  - 08:50 - 09:10 : Opening Speech (& Lucky Draw), Microsoft MVP
   - 09:10 - 10:00 : Session 1
   - 10:00 - 10:20 : Break
   - 10:20 - 11:10 : Session 2
