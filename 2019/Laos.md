@@ -3,7 +3,7 @@
 + Venue : TBA
 - Agenda : 
   - 08:30 - 08:50 : **Registration**
-  - 08:50 - 09:10 : **Opening Speech (& Lucky Draw)**, *Maykin Warasart*, (Microsoft MVP, #VolunteXTH Founder)
+  - 08:50 - 09:10 : **Opening Speech (*& Lucky Draw*)**, *Maykin Warasart*, (Microsoft MVP, #VolunteXTH Founder)
   - 09:10 - 10:00 : **Session 1**
   - 10:00 - 10:20 : ***Break***
   - 10:20 - 11:10 : **Session 2**
@@ -14,5 +14,5 @@
   - 14:40 - 15:00 : ***Break***
   - 15:00 - 15:50 : **SysAdmin's hobby : How to make money from Microstock?**, *Siraphum Pechto* (#VolunteXTH)
   - 15:50 - 16:40 : **Volunteering connects you to others**, *Pemika Limpittaya* (#VolunteXTH)
-  - 16:40 - 17:00 : **Closing (& Lucky Draw)**
+  - 16:40 - 17:00 : **Closing (*& Lucky Draw*)**
  
