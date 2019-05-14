@@ -12,7 +12,7 @@
   - 13:00 - 13:50 : **TBD**, *Pongpat Rakdej* (#MiSSv9)
   - 13:50 - 14:40 : **Session 5**
   - 14:40 - 15:00 : ***Break***
-  - 15:00 - 15:50 : **Session 6**
+  - 15:00 - 15:50 : **SysAdmin's hobby : How to make money from Microstock?**, *Siraphum Pechto* (#VolunteXTH)
   - 15:50 - 16:40 : **Volunteering connects you to others**, *Pemika Limpittaya* (#VolunteXTH)
   - 16:40 - 17:00 : **Closing**
  
