@@ -16,5 +16,5 @@
   - 15:50 - 16:40 : **Volunteering connects you to others**, *Pemika Limpittaya* (#VolunteXTH)
   - 16:40 - 17:00 : **Closing (*& Lucky Draw*)**
  
-  **During Lunch Workshop :** 
-   - **How to make your site more stable like ____Hub.**, *Maykin Warasart*, (#VolunteXTH Founder)
+  **During Lunch Workshop :**
+  - **How to make your site more stable like ____Hub.**, *Maykin Warasart*, (#VolunteXTH Founder)
