@@ -8,7 +8,7 @@
   - 10:00 - 10:20 : ***Break***
   - 10:20 - 11:10 : **Session 2**
   - 11:10 - 12:00 : **Why SysAdmin need to concern about ISO27001 ?**, *Angkarn Pummarin* (Triple Nine Professional)
-  - 12:00 - 13:00 : ***Lunch***
+  - 12:00 - 13:00 : ***Lunch*** 
   - 13:00 - 13:50 : **TBD**, *Pongpat Rakdej* (#MiSSv9)
   - 13:50 - 14:40 : **Session 5**
   - 14:40 - 15:00 : ***Break***
@@ -16,3 +16,4 @@
   - 15:50 - 16:40 : **Volunteering connects you to others**, *Pemika Limpittaya* (#VolunteXTH)
   - 16:40 - 17:00 : **Closing (*& Lucky Draw*)**
  
+  **During Lunch Workshop :** **How to make your site more stable like ____Hub.**, *Maykin Warasart*, (Microsoft MVP, #VolunteXTH Founder)
