@@ -9,7 +9,7 @@
   - 10:20 - 11:10 : **Session 2**
   - 11:10 - 12:00 : **Why SysAdmin need to concern about ISO27001 ?**, *Angkarn Pummarin* (Triple Nine Professional)
   - 12:00 - 13:00 : ***Lunch*** 
-  - 13:00 - 13:50 : **TBD**, *Pongpat Rakdej* (#MiSSv9)
+  - 13:00 - 13:50 : **Security Best Practices for Windows SysAdmin**, *Jedsada Thongkanluang* (#MiSSv3)
   - 13:50 - 14:40 : **Session 5**
   - 14:40 - 15:00 : ***Break***
   - 15:00 - 15:50 : **SysAdmin's hobby : How to make money from Microstock?**, *Siraphum Pechto* (#VolunteXTH)
