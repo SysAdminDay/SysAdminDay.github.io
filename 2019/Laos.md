@@ -3,7 +3,7 @@
 + Venue : **LAO Airlines Building, Wattay International Airport**
 - Agenda : 
   - 08:30 - 08:50 : **Registration**
-  - 08:50 - 09:10 : **Opening Speech (*& Lucky Draw*)**, *Maykin Warasart*, (Microsoft MVP)
+  - 08:50 - 09:10 : **Welcome Note (*& Lucky Draw*)**, *Maykin Warasart*, (Microsoft MVP)
   - 09:10 - 10:00 : **Session 1 - TBA**
   - 10:00 - 10:20 : ***Break***
   - 10:20 - 11:10 : **Session 2 - TBA**
