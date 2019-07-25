@@ -1,6 +1,6 @@
 ## ***Laos*** : System Administrator Appreciation Day ***2019***
 + Date : **Friday, July 26, 2019**
-+ Venue : **LAO Airlines Building, Wattay International Airport**
++ Venue : **Carlsberg Sports Bar by SunTara Escape**
 - Agenda : 
   - 08:30 - 08:50 : **Registration**
   - 08:50 - 09:10 : **Welcome Note (*& Lucky Draw*)**, *Maykin Warasart*, (Microsoft MVP)
