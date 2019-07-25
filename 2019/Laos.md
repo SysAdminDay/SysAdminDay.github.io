@@ -11,8 +11,9 @@
   - 17:51 - 18:00 : **Closing (*& Lucky Draw*)**
  
  <a name="GitHubPages"></a>
-- During Lunch Workshop :
+- Workshop Session :
   - **How to make your site more stable like ____Hub.**, *Maykin Warasart*, (#VolunteXTH Founder)
+  - **Vulnerability Assessment**, *Jedsada Thongkanluang* (T-NET Security)
 
   <br/><br/>
   <br/><br/>
