@@ -17,9 +17,11 @@
 
 - Official Supporters :
 
+![](Supporters/Mangkone.jpg "Thank you to our supporters")
+
 ![](Supporters/C-Inspire.jpg "Thank you to our supporters")
 
-![](Supporters/Mangkone.jpg "Thank you to our supporters")
+![](Supporters/LaoDC.jpg "Thank you to our supporters")
 
 ![](Supporters/OoPx.png "Thank you to our supporters")
 
