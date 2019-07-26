@@ -22,14 +22,5 @@
 ![](Supporters/Mangkone.jpg "Thank you to our sponsors")
 
 ![](Supporters/OoPx.png "Thank you to our sponsors")
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <br/>
+
+![](Supporters/VolunteXTH.jpg "Thank you to our sponsors")
