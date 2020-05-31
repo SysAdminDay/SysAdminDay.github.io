@@ -1,4 +1,7 @@
-## ***Thailand*** : System Administrator Appreciation Day ***2020***
+
+![](../2017/img/GroupPhoto.jpg "Thank you to our supporters")
+
+## ***Virtual Event*** : System Administrator Appreciation Day ***2020***
 # **(*Friday*) July 31, 2020**
 
 ## #CallForSpeaker[s]
