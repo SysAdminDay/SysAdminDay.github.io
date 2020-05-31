@@ -1,5 +1,5 @@
 
-![](../2017/img/GroupPhoto.jpg "Thank you to our supporters")
+![](../2017/img/GroupPhoto.jpg "SysAdminDay 2017")
 
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2020***
 # **(*Friday*) July 31, 2020**
