@@ -1,4 +1,4 @@
-## Welcome to SysAdminDay GitHub Pages
+## SysAdminDay
 
 + [Virtual Event - 2020](/2020/) (July 31, 2020)
 + [Laos - 2019](/2019/Laos)
