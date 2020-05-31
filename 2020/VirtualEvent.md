@@ -4,7 +4,7 @@
 ## #CallForSpeaker[s]
 ## #CallForSponsor[s]
 
-### More info. : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
+### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
 
 ![](Supporters/OoPx.png "Thank you to our supporters")
