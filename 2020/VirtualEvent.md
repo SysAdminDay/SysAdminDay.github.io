@@ -3,3 +3,5 @@
 
 ## #CallForSpeaker[s]
 ## #CallForSponsor[s]
+
+### For more info : maykin@owasp.org
