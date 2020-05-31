@@ -1,5 +1,5 @@
 ## ***Thailand*** : System Administrator Appreciation Day ***2020***
-# **(*Friday*) July 31, 2020** Please SAVE THE DATE !!!
+# **(*Friday*) July 31, 2020**
 
 ## #CallForSpeaker[s]
 ## #CallForSponsor[s]
