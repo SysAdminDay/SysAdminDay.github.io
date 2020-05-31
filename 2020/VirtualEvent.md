@@ -2,5 +2,5 @@
 # **(*Friday*) July 31, 2020**
 # Please SAVE THE DATE !!!
 
-# #CallForSpeaker[s]
-# #CallForSponsor[s]
+## #CallForSpeaker[s]
+## #CallForSponsor[s]
