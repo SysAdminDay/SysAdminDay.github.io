@@ -4,4 +4,4 @@
 ## #CallForSpeaker[s]
 ## #CallForSponsor[s]
 
-### For more info : maykin@owasp.org
+### More info. : [maykin@owasp.org](maykin@owasp.org), [@maykin](https://line.me/R/ti/p/%40missconf)
