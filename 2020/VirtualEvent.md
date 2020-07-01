@@ -6,6 +6,10 @@
 
 ## #CallForSpeaker[s]
 
+### Confirmed Speaker[s]
++ Khun [Narate Ketram](https://www.facebook.com/koonnarate)
++ Khun [Pongpat Rakdej](https://www.facebook.com/pongpatrakdej)
+
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
 
