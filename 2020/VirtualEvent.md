@@ -11,6 +11,7 @@
 + Khun [Pongpat Rakdej](https://www.facebook.com/pongpatrakdej)
 + Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) - NGINX
 + Khun [Chonlatit Rujiphut](https://www.facebook.com/Tsunakun27)
++ Dr. [Pongpisit Wuttidittachotti](https://www.facebook.com/pongpisitwutti)
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
