@@ -5,7 +5,6 @@
 # **(*Friday*) July 31, 2020**
 
 ## #CallForSpeaker[s]
-## #CallForSponsor[s]
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
