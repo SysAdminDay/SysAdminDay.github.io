@@ -14,7 +14,8 @@
 + Dr. [Pongpisit Wuttidittachotti](https://www.facebook.com/pongpisitwutti)
 + Khun [SK Somphop](https://www.facebook.com/SK.Unavailable)
 + Khun [Kumton Suttiraksiri](https://www.facebook.com/kumton.s)
-◽ Khun [Natthakan Puangroi](https://www.facebook.com/natthapete)
++ Khun [Natthakan Puangroi](https://www.facebook.com/natthapete)
++ คุณ[บุญเพิ่ม มาร์ค อัครเดช](https://www.facebook.com/howdoyoufeel.kenji)
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
