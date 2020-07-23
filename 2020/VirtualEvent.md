@@ -4,7 +4,7 @@
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2020***
 # **(*Friday*) July 31, 2020**
 
-# #CallForSpeaker[s] !!!
+![](../Assets/SysAdminDay-2020.png "SysAdminDay2020(#VirtualEvent, #COVID19)")
 
 ### Confirmed Speaker[s]
 + Khun [Narate Ketram](https://www.facebook.com/koonnarate)
