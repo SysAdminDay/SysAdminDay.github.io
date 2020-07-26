@@ -6,7 +6,7 @@
 
 ![](../Assets/SysAdminDay-2020.png "SysAdminDay2020(#VirtualEvent, #COVID19)")
 
-### Confirmed Speaker[s] [ [***Time Table***](https://bit.ly/SysAdminDay2020VE) ]
+### Confirmed Speaker[s] [ [***Time Table : https://bit.ly/SysAdminDay2020VE***](https://bit.ly/SysAdminDay2020VE) ]
 + Khun [Narate Ketram](https://www.facebook.com/koonnarate)
 + Khun [Pongpat Rakdej](https://www.facebook.com/pongpatrakdej)
 + Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) - NGINX
