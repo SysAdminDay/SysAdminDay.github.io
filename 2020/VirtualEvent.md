@@ -20,7 +20,7 @@
 | From      |      To       |  Topic    |
 |----------:|:--------------|:----------:|
 | 08:00     |  08:30        | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  |
-| 08:30     |    09:00      | bbbbbbbbbbbb     |
+| 08:30     |    09:00      | bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbb     |
 | 09:00     | 09:30         |    ccc     |
 
 
