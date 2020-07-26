@@ -17,6 +17,8 @@
 + Khun [Natthakan Puangroi](https://www.facebook.com/natthapete)
 + คุณ[บุญเพิ่ม มาร์ค อัครเดช](https://www.facebook.com/howdoyoufeel.kenji)
 
+### Time table : https://bit.ly/SysAdminDay2020VE
+
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
 
