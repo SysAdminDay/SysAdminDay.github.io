@@ -18,11 +18,9 @@
 + คุณ[บุญเพิ่ม มาร์ค อัครเดช](https://www.facebook.com/howdoyoufeel.kenji)
 
 
-| From      |      To       |  Topic    |
-|----------:|:--------------|:----------:|
-| 08:00     |  08:30        | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  |
-| 08:30     |    09:00      | bbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbbbb     |
-| 09:00     | 09:30         |    ccc     |
+| From      |      To      |  Topic    |
+|:---------:|:------------:|:----------|
+| 09:00 PM  |  10:00 PM    | The Three Lines of Defense for Cybersecurity |
 
 
 ![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")
