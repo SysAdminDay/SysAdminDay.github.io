@@ -18,12 +18,15 @@
 + คุณ[บุญเพิ่ม มาร์ค อัครเดช](https://www.facebook.com/howdoyoufeel.kenji)
 
 
-| From      |      To      |  Topic    |
-|:---------:|:------------:|:----------|
-| 09:00 PM  |  10:00 PM    | The Three Lines of Defense for Cybersecurity |
+| From      |      To    |  Topic                                       |
+|:---------:|:----------:|:---------------------------------------------|
+| 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana   |
+| 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity |
 
 
 ![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")
+
+![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
