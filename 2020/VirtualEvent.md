@@ -20,6 +20,7 @@
 
 | From      |      To    |  Topic                                       |
 |:---------:|:----------:|:---------------------------------------------|
+| 10:00 AM  |  10:30 AM  | IT Management 101                            |
 | 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana   |
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity |
 
@@ -27,6 +28,8 @@
 ![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")
 
 ![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")
+
+![](Topics/IT-Management-101.png "IT Management 101")
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
