@@ -21,9 +21,8 @@
 | From      |      To    |  Topic                                                   |
 |:---------:|:----------:|:---------------------------------------------------------|
 | 10:00 AM  |  10:30 AM  | IT Management 101                                        |
-| 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana ([Zoom Link](https://us02web.zoom.us/j/4949499449))   |
-| 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity ([Zoom Link](https://us02web.zoom.us/j/4949499449)) |
-
+| 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana               |
+| 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
 
 ![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")
 
