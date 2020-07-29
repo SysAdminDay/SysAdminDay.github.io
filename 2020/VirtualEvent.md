@@ -23,6 +23,7 @@
 | 10:00 AM  |  10:30 AM  | IT Management 101                                        |
 | 11:00 AM  |  11:30 AM  | Introduction to Vulnerability Assessment for SysAdmin    |
 | 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana               |
+| 07:30 PM  |  08:30 PM  | NGINX Ingress Controller for Kubernetes                  |
 | 08:30 PM  |  09:00 PM  | Introduction to NIST Cybersecurity Framework             |
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
 
