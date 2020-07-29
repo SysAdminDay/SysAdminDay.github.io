@@ -31,11 +31,11 @@
 
 ![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")
 
-![](Topics/IT-Management-101.png "IT Management 101")
+[![](Topics/IT-Management-101.png "IT Management 101")](https://www.facebook.com/photo.php?fbid=10221038007513758)
 
-![](Topics/NGINX.jpg "NGINX Ingress Controller for Kubernetes")
+[![](Topics/NGINX.jpg "NGINX Ingress Controller for Kubernetes")](https://www.facebook.com/photo.php?fbid=10221041373357902)
 
-![](Topics/NIST.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")
+[![](Topics/NIST.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221041586643234)
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
