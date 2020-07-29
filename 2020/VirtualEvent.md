@@ -33,6 +33,8 @@
 
 ![](Topics/IT-Management-101.png "IT Management 101")
 
+![](Topics/NGINX.jpg "NGINX Ingress Controller for Kubernetes")
+
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
