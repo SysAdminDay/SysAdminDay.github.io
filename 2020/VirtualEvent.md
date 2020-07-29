@@ -15,7 +15,7 @@
 + Khun [Somphop Krittayaworagul](https://www.facebook.com/SK.Unavailable)
 + Khun [Kumton Suttiraksiri](https://www.facebook.com/kumton.s)
 + Khun [Natthakan Puangroi](https://www.facebook.com/natthapete)
-+ คุณ[บุญเพิ่ม มาร์ค อัครเดช](https://www.facebook.com/howdoyoufeel.kenji)
++ Khun [Warunyou Sunpachit](https://www.facebook.com/howdoyoufeel.kenji)
 
 
 | From      |      To    |  Topic                                                   |
