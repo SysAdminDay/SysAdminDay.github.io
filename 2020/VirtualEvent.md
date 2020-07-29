@@ -18,11 +18,11 @@
 + คุณ[บุญเพิ่ม มาร์ค อัครเดช](https://www.facebook.com/howdoyoufeel.kenji)
 
 
-| From      |      To    |  Topic                                       |
-|:---------:|:----------:|:---------------------------------------------|
-| 10:00 AM  |  10:30 AM  | IT Management 101                            |
-| 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana   |
-| 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity |
+| From      |      To    |  Topic                                                   |
+|:---------:|:----------:|:---------------------------------------------------------|
+| 10:00 AM  |  10:30 AM  | IT Management 101                                        |
+| 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana (Zoom Link)   |
+| 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity (Zoom Link) |
 
 
 ![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")
