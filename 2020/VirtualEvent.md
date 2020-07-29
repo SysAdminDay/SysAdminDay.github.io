@@ -27,9 +27,9 @@
 | 08:30 PM  |  09:00 PM  | The Framework for Improving Critical Infrastructure Cybersecurity |
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
 
-![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")
+[![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221024530736847)
 
-![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")
+[![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")](https://www.facebook.com/photo.php?fbid=10221030009953824)
 
 [![](Topics/IT-Management-101.png "IT Management 101")](https://www.facebook.com/photo.php?fbid=10221037766267727)
 
