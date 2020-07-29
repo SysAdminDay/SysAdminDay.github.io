@@ -31,7 +31,7 @@
 
 ![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")
 
-[![](Topics/IT-Management-101.png "IT Management 101")](https://www.facebook.com/photo.php?fbid=10221038007513758)
+[![](Topics/IT-Management-101.png "IT Management 101")](https://www.facebook.com/photo.php?fbid=10221037766267727)
 
 [![](Topics/NGINX.jpg "NGINX Ingress Controller for Kubernetes")](https://www.facebook.com/photo.php?fbid=10221041373357902)
 
