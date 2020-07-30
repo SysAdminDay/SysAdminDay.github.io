@@ -26,7 +26,7 @@
 | 07:30 PM  |  08:30 PM  | NGINX Ingress Controller for Kubernetes                  |
 | 08:30 PM  |  09:00 PM  | The Framework for Improving Critical Infrastructure Cybersecurity |
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
-| 10:30 PM  |  11:00 PM  | SSH Tips and Tricks for System Admin                     |
+| 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ | SSH Tips and Tricks for System Admin    |
 
 [![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221024530736847)
 
