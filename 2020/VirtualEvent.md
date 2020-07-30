@@ -45,7 +45,7 @@
 
 [![](Topics/NIST.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221041586643234)
 
-![](Topics/PDPA.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")
+![](Topics/PDPA.jpg "The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101")
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
