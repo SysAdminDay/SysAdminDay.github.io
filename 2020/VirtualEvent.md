@@ -57,7 +57,7 @@
 
 [![](Topics/SSH-Tips.jpg "เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin")](https://www.facebook.com/photo.php?fbid=10217376311587208)
 
-![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")
+[![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")](https://www.facebook.com/maeklong/posts/10221047004578679)
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
