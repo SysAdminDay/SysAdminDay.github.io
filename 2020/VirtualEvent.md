@@ -25,11 +25,12 @@
 |:---------:|:----------:|:---------------------------------------------------------|
 | 10:00 AM  |  10:30 AM  | IT Management 101                                        |
 | 11:00 AM  |  11:30 AM  | Introduction to Vulnerability Assessment for SysAdmin    |
+| 01:00 PM  |  01:30 PM  | Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง      |
 | 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana               |
 | 07:30 PM  |  08:30 PM  | NGINX Ingress Controller for Kubernetes                  |
 | 08:30 PM  |  09:00 PM  | The Framework for Improving Critical Infrastructure Cybersecurity |
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
-| 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ - SSH Tips and Tricks for System Admin    |
+| 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ | SSH Tips and Tricks for System Admin    |
 
 ## Thread 2's ([Room](https://us02web.zoom.us/j/82581964962?pwd=dVZlRzBvT3FNS1dCM0NNMHEva1dTdz09))
 + Meeting ID: 825 8196 4962
@@ -52,6 +53,10 @@
 [![](Topics/NIST.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221041586643234)
 
 [![](Topics/PDPA.jpg "The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101")](https://www.facebook.com/photo.php?fbid=10221045554862437)
+
+[![](Topics/SSH-Tips.jpg "เอสเอสเฮ็ด อิหยังวะ | SSH Tips and Tricks for System Admin")](https://www.facebook.com/photo.php?fbid=10217376311587208)
+
+![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
