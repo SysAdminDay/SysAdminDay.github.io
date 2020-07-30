@@ -58,7 +58,7 @@
 
 [![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")](https://www.facebook.com/maeklong/posts/10221047004578679)
 
-[![](Topics/o365.jpg "จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365")]
+![](Topics/o365.jpg "จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365")
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
