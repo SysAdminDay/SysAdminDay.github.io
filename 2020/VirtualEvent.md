@@ -55,7 +55,7 @@
 
 [![](Topics/PDPA.jpg "The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101")](https://www.facebook.com/photo.php?fbid=10221045554862437)
 
-[![](Topics/SSH-Tips.jpg "เอสเอสเฮ็ด อิหยังวะ | SSH Tips and Tricks for System Admin")](https://www.facebook.com/photo.php?fbid=10217376311587208)
+[![](Topics/SSH-Tips.jpg "เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin")](https://www.facebook.com/photo.php?fbid=10217376311587208)
 
 ![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")
 
