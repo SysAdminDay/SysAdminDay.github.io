@@ -31,7 +31,7 @@
 | 07:30 PM  |  08:30 PM  | NGINX Ingress Controller for Kubernetes                  |
 | 08:30 PM  |  09:00 PM  | The Framework for Improving Critical Infrastructure Cybersecurity |
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
-| 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ | SSH Tips and Tricks for System Admin    |
+| 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
 
 ## Thread 2's ([Room](https://us02web.zoom.us/j/82581964962?pwd=dVZlRzBvT3FNS1dCM0NNMHEva1dTdz09))
 + Meeting ID: 825 8196 4962
