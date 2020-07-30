@@ -40,8 +40,6 @@
 |:---------:|:----------:|:---------------------------------------------------------|
 | 09:00 PM  |  N/A       | The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101 |
 
-[![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")](https://www.facebook.com/maeklong/posts/10221047004578679)
-
 [![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/maeklong/posts/10221024530736847)
 
 [![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")](https://www.facebook.com/maeklong/posts/10221030009953824)
