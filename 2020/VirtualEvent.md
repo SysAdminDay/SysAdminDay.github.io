@@ -17,7 +17,7 @@
 + Khun [Natthakan Puangroi](https://www.facebook.com/natthapete)
 + Khun [Warunyou Sunpachit](https://www.facebook.com/howdoyoufeel.kenji)
 
-
+### Thread 1
 | From      |      To    |  Topic                                                   |
 |:---------:|:----------:|:---------------------------------------------------------|
 | 10:00 AM  |  10:30 AM  | IT Management 101                                        |
@@ -28,6 +28,13 @@
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
 | 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ | SSH Tips and Tricks for System Admin    |
 
+### Thread 2
+| From      |      To    |  Topic                                                   |
+|:---------:|:----------:|:---------------------------------------------------------|
+| 09:00 PM  |  N/A       | The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101 |                                        |
+
+
+
 [![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221024530736847)
 
 [![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")](https://www.facebook.com/photo.php?fbid=10221030009953824)
@@ -37,6 +44,8 @@
 [![](Topics/NGINX.jpg "NGINX Ingress Controller for Kubernetes")](https://www.facebook.com/photo.php?fbid=10221041373357902)
 
 [![](Topics/NIST.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221041586643234)
+
+![](Topics/PDPA.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
