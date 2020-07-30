@@ -32,30 +32,31 @@
 | 08:30 PM  |  09:00 PM  | The Framework for Improving Critical Infrastructure Cybersecurity |
 | 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
 | 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
+| 11:00 PM  |  12:00 AM  | จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365          |
 
 ## Thread 2's ([Room](https://meet.google.com/syx-xxzr-ytx))(Google Meet)
 
 | From      |      To    |  Topic                                                   |
 |:---------:|:----------:|:---------------------------------------------------------|
-| 09:00 PM  |  N/A       | The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101 |                                        |
+| 09:00 PM  |  N/A       | [![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")](https://www.facebook.com/maeklong/posts/10221047004578679)
 
+[![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/maeklong/posts/10221024530736847)
 
+[![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")](https://www.facebook.com/maeklong/posts/10221030009953824)
 
-[![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221024530736847)
+[![](Topics/IT-Management-101.png "IT Management 101")](https://www.facebook.com/maeklong/posts/10221037766267727)
 
-[![](Topics/Monitoring-System.png "Monitoring System - Prometheus and Grafana")](https://www.facebook.com/photo.php?fbid=10221030009953824)
+[![](Topics/NGINX.jpg "NGINX Ingress Controller for Kubernetes")](https://www.facebook.com/maeklong/posts/10221041373357902)
 
-[![](Topics/IT-Management-101.png "IT Management 101")](https://www.facebook.com/photo.php?fbid=10221037766267727)
+[![](Topics/NIST.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")](https://www.facebook.com/maeklong/posts/10221041586643234)
 
-[![](Topics/NGINX.jpg "NGINX Ingress Controller for Kubernetes")](https://www.facebook.com/photo.php?fbid=10221041373357902)
-
-[![](Topics/NIST.jpg "The Framework for Improving Critical Infrastructure Cybersecurity")](https://www.facebook.com/photo.php?fbid=10221041586643234)
-
-[![](Topics/PDPA.jpg "The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101")](https://www.facebook.com/photo.php?fbid=10221045554862437)
+[![](Topics/PDPA.jpg "The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101")](https://www.facebook.com/pmaeklong/posts/10221045554862437)
 
 [![](Topics/SSH-Tips.jpg "เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin")](https://www.facebook.com/photo.php?fbid=10217376311587208)
 
 [![](Topics/Active-Shooter.jpg "Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง")](https://www.facebook.com/maeklong/posts/10221047004578679)
+
+[![](Topics/o365.jpg "จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365")]
 
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
