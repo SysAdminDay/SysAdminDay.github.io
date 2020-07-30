@@ -16,6 +16,7 @@
 + Khun [Kumton Suttiraksiri](https://www.facebook.com/kumton.s)
 + Khun [Natthakan Puangroi](https://www.facebook.com/natthapete)
 + Khun [Warunyou Sunpachit](https://www.facebook.com/howdoyoufeel.kenji)
++ Pol.Lt.Col. [Manupat Sriboonlue](https://www.facebook.com/toto.innovation)
 
 ## Thread 1's ([Room](https://us02web.zoom.us/j/4949499449?pwd=RE5Hc1QvTUZIbTFvZWtobEJNQlRmZz09))
 + Meeting ID: 494 949 9449
