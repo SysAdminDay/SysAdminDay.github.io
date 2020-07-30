@@ -17,7 +17,9 @@
 + Khun [Natthakan Puangroi](https://www.facebook.com/natthapete)
 + Khun [Warunyou Sunpachit](https://www.facebook.com/howdoyoufeel.kenji)
 
-### Thread 1
+## ([Thread 1](https://us02web.zoom.us/j/4949499449?pwd=RE5Hc1QvTUZIbTFvZWtobEJNQlRmZz09))
++ Meeting ID: 494 949 9449
++ Passcode: 2020-07-31
 
 | From      |      To    |  Topic                                                   |
 |:---------:|:----------:|:---------------------------------------------------------|
