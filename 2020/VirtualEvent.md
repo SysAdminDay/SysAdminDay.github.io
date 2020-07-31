@@ -58,6 +58,7 @@
 
 ![](Topics/o365.jpg "จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365")
 
+![](Topics/Intro-to-VA.jpg "Introduction to Vulnerability Assessment for SysAdmin")
 
 ### [more info] : <maykin@owasp.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
