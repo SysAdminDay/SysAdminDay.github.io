@@ -22,8 +22,8 @@
 + Meeting ID: 494 949 9449
 + Passcode: 2020-07-31
 
-| From      |      To    |  Topic                                                   |
-|:---------:|:----------:|:---------------------------------------------------------|
+| From    |    To    |  Topic                                                   |
+|:-------:|:--------:|:---------------------------------------------------------|
 | 10:00   |  10:30   | IT Management 101                                        |
 | 11:00   |  11:30   | Introduction to Vulnerability Assessment for SysAdmin    |
 | 13:00   |  13:30   | Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง      |
@@ -36,9 +36,9 @@
 
 ## Thread 2's ([Room](https://meet.google.com/syx-xxzr-ytx))(Google Meet)
 
-| From      |      To    |  Topic                                                   |
-|:---------:|:----------:|:---------------------------------------------------------|
-| 09:00 PM  |  N/A       | The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101 |
+| From    |    To    |  Topic                                                   |
+|:-------:|:--------:|:---------------------------------------------------------|
+| 21:00   |  N/A     | The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101 |
 
 [![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/maeklong/posts/10221024530736847)
 
