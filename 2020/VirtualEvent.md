@@ -25,14 +25,14 @@
 | From      |      To    |  Topic                                                   |
 |:---------:|:----------:|:---------------------------------------------------------|
 | 10:00   |  10:30   | IT Management 101                                        |
-| 11:00 AM  |  11:30 AM  | Introduction to Vulnerability Assessment for SysAdmin    |
-| 01:00 PM  |  01:30 PM  | Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง      |
-| 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana               |
-| 07:30 PM  |  08:30 PM  | NGINX Ingress Controller for Kubernetes                  |
-| 08:30 PM  |  09:00 PM  | The Framework for Improving Critical Infrastructure Cybersecurity |
-| 09:00 PM  |  10:00 PM  | The Three Lines of Defense for Cybersecurity             |
-| 10:30 PM  |  11:00 PM  | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
-| 11:00 PM  |  11:30 PM  | จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365          |
+| 11:00   |  11:30   | Introduction to Vulnerability Assessment for SysAdmin    |
+| 13:00   |  13:30   | Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง      |
+| 14:00   |  15:00   | Monitoring System - Prometheus and Grafana               |
+| 19:30   |  20:30   | NGINX Ingress Controller for Kubernetes                  |
+| 20:30   |  21:00   | The Framework for Improving Critical Infrastructure Cybersecurity |
+| 21:00   |  22:00   | The Three Lines of Defense for Cybersecurity             |
+| 22:30   |  23:00   | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
+| 23:00   |  23:30   | จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365          |
 
 ## Thread 2's ([Room](https://meet.google.com/syx-xxzr-ytx))(Google Meet)
 
