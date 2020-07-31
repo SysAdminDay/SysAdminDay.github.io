@@ -25,8 +25,8 @@
 | From      |      To    |  Topic                                                   |
 |:---------:|:----------:|:---------------------------------------------------------|
 | 10:00   |  10:30   | IT Management 101                                        |
-| 11:00 AM  |  11:30 AM  | Introduction to Vulnerability Assessment for SysAdmin    |
-| 01:00 PM  |  01:30 PM  | Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง      |
+| 11:00   |  11:30   | Introduction to Vulnerability Assessment for SysAdmin    |
+| 13:00   |  13:30   | Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง      |
 | 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana               |
 | 07:30 PM  |  08:30 PM  | NGINX Ingress Controller for Kubernetes                  |
 | 08:30 PM  |  09:00 PM  | The Framework for Improving Critical Infrastructure Cybersecurity |
