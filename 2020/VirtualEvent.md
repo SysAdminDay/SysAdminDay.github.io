@@ -34,7 +34,7 @@
 | 22:30   |  23:00   | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
 | 23:00   |  23:30   | จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365          |
 
-## Thread 2's ([Room](https://meet.google.com/syx-xxzr-ytx))(Google Meet)
+## Thread 2's ([Room](https://xxxxxxxx))(Microsoft Teams)
 
 | From    |    To    |  Topic                                                   |
 |:-------:|:--------:|:---------------------------------------------------------|
