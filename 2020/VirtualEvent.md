@@ -18,9 +18,7 @@
 + Khun [Warunyou Sunpachit](https://www.facebook.com/howdoyoufeel.kenji)
 + Pol.Lt.Col. [Manupat Sriboonlue](https://www.facebook.com/toto.innovation)
 
-## Thread 1's ([Room](https://us02web.zoom.us/j/4949499449?pwd=RE5Hc1QvTUZIbTFvZWtobEJNQlRmZz09))([Zoom](https://zoom.us/support/download))
-+ Meeting ID: 494 949 9449
-+ Passcode: 2020-07-31
+## Thread 1
 
 | From    |    To    |  Topic                                                   |
 |:-------:|:--------:|:---------------------------------------------------------|
@@ -34,7 +32,7 @@
 | 22:30   |  23:00   | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
 | 23:00   |  23:30   | จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365          |
 
-## Thread 2's ([Room](https://meet.google.com/syx-xxzr-ytx))(Google Meet)
+## Thread 2
 
 | From     |    To    |  Topic                                                   |
 |:--------:|:--------:|:---------------------------------------------------------|
