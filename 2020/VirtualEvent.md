@@ -24,7 +24,7 @@
 
 | From      |      To    |  Topic                                                   |
 |:---------:|:----------:|:---------------------------------------------------------|
-| 10:00 AM  |  10:30 AM  | IT Management 101                                        |
+| 10:00   |  10:30   | IT Management 101                                        |
 | 11:00 AM  |  11:30 AM  | Introduction to Vulnerability Assessment for SysAdmin    |
 | 01:00 PM  |  01:30 PM  | Active Shooter Survival - วิธีเอาตัวรอดจากสถานการณ์กราดยิง      |
 | 02:00 PM  |  03:00 PM  | Monitoring System - Prometheus and Grafana               |
