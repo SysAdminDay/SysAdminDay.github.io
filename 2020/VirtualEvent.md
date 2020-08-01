@@ -30,15 +30,11 @@
 | 13:45   |  15:15   | [Monitoring System - Prometheus and Grafana](https://youtu.be/eIwDH1wqMkg)               |
 | 19:30   |  20:30   | [NGINX Ingress Controller for Kubernetes](https://youtu.be/mxxNtGhe0ao)                  |
 | 20:30   |  21:00   | [The Framework for Improving Critical Infrastructure Cybersecurity](https://youtu.be/NzMf66W_2n8) |
+| 21:00   |  22:00   | [The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101](https://youtu.be/8CB_wGkOehY) |
 | 21:00   |  22:00   | [The Three Lines of Defense for Cybersecurity](https://youtu.be/JIPvu21Lk3g)             |
 | 22:30   |  23:00   | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
 | 23:00   |  23:30   | จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365          |
 
-## Thread 2
-
-| From    |    To    |  Topic                                                   |
-|:--------:|:-------:|:---------------------------------------------------------|
-| 21:00   |  22:00   | [The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of Thailand 101](https://youtu.be/8CB_wGkOehY) |
 
 [![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/maeklong/posts/10221024530736847)
 
