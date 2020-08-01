@@ -32,8 +32,8 @@
 | 20:30   |  21:00   | [The Framework for Improving Critical Infrastructure Cybersecurity](https://youtu.be/NzMf66W_2n8) |
 | 21:00   |  22:00   | [The Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) of TH 101](https://youtu.be/8CB_wGkOehY) |
 | 21:00   |  22:00   | [The Three Lines of Defense for Cybersecurity](https://youtu.be/JIPvu21Lk3g)             |
-| 22:15   |  23:00   | เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin    |
-| 23:00   |  23:30   | จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365          |
+| 22:15   |  23:00   | [เอสเอสเฮ็ด อิหยังวะ \| SSH Tips and Tricks for System Admin](https://youtu.be/2-iXMkhrgeY)    |
+| 23:00   |  23:30   | [จัดการคนลาออกอย่างไรดี ในยุคที่หลายบริษัทใช้ Microsoft 365](https://youtu.be/I4j76NY1v6Y)          |
 
 
 [![](Topics/Three-line-of-defense.png "The Three Lines of Defense for Cybersecurity")](https://www.facebook.com/maeklong/posts/10221024530736847)
