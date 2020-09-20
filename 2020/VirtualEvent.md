@@ -1,8 +1,6 @@
 
 ![](Group-of-2020.jpg "SysAdminDay 2020 Virtual Event")
 
-![](../2017/img/GroupPhoto.jpg "SysAdminDay 2017")
-
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2020***
 # **(*Friday*) July 31, 2020**
 
