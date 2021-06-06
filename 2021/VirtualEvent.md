@@ -1,6 +1,5 @@
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2021***
-# **(*Friday*) July 30, 2021**
-# #DuringCOVID19
+# **(*Friday*) July 30, 2021** --- *#DuringCOVID19*
 
 ### [***Time Table : https://bit.ly/SysAdminDay2021***](https://bit.ly/SysAdminDay2021)
 + ???
