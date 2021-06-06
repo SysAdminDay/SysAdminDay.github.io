@@ -1,3 +1,6 @@
+
+![](../2020/Group-of-2020.jpg "SysAdminDay 2020 Virtual Event")
+
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2021***
 # **(*Friday*) July 30, 2021** --- *#DuringCOVID19*
 
