@@ -12,7 +12,7 @@
 
 | From  |    To    |  Topic                                                   |
 |:-----:|:--------:|:---------------------------------------------------------|
-| 09:00 |  09:30   | **"How to build Gitlab-Runner on Docker"** by **Khun Natthakan Puangroi**|
+| 09:00 |  09:30   | **"How to build Gitlab-Runner on Docker"** by **Natthakan Puangroi**|
 
 ## Thread 2
 
