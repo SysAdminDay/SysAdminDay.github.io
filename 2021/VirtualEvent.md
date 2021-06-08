@@ -2,7 +2,7 @@
 ![](../2020/Group-of-2020.jpg "From SysAdminDay 2020 Virtual Event")
 
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2021***
-# **(*Friday*) July 30, 2021** --- *#DuringCOVID19*
+# **(*Friday*) July 30, 2021**
 
 ### Confirmed Speaker[s] [***Time Table : https://bit.ly/SysAdminDay2021***](https://bit.ly/SysAdminDay2021)
 + Khun [Thanyapon Sananakin](https://www.facebook.com/thanyapon) - **"PowerShell: Automation Strategy for Cloud Environment"**
