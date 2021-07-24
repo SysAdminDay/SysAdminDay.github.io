@@ -13,4 +13,8 @@
 
 ---
 
+[SysAdminDay 2020](/2020/VirtualEvent)
+
+---
+
 [![](Supporters/VolunteXTH.jpg "Thank you to our supporters")](https://VolunteX.github.io)
