@@ -13,9 +13,9 @@
 
 ---
 
-* [SysAdminDay 2020](/2020/VirtualEvent) 
+* [SysAdminDay 2020](/2020/VirtualEvent), Virtual Event
 * [SysAdminDay 2019](/2019/Laos) at Lao PDR
-* [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648) Powered by [Netway Communication](https://netway.co.th/)
+* [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
 
 ---
 
