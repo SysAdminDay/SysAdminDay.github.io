@@ -5,7 +5,7 @@
 
 ### Confirmed Speaker[s] 
 + **[09:30 - 10:00]** - **"PowerShell: Automation Strategy for Cloud Environment"**, <br>Khun [Thanyapon Sananakin](https://www.facebook.com/thanyapon), *Link will be provided soon*
-[![](Topics/PowerShell-Automation-Strategy-for-Cloud-Env.png "PowerShell : Automation Strategy for Cloud Environment")](#)
+[![](Topics/PowerShell-Automation-Strategy-for-Cloud-Env.png "PowerShell : Automation Strategy for Cloud Environment")](https://www.facebook.com/maeklong/posts/10223546732750321)
 + **[10:00 - 11:00]** - **"TLS in K8S"**, *PKI, Certificate Authority (CA), How to generate key pair, TLS, Mutual Authentication, Key Pair in K8S component, Authentication in K8S)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak), *Link will be provided soon*
 + **[Cancelled]** - **"How to build Gitlab-Runner on Docker"**, <br>Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete) 
 
