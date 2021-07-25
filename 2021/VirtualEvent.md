@@ -9,7 +9,7 @@
 + **[10:00 - 11:00]** - **"Transport Layer Security in Kubernetes"**, *TLS applied in every Kubernetes component. Deep dive in each component and see how it works.)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak), *Link will be provided soon*
 [![](Topics/TLS-in-K8S.png "Transport Layer Security in Kubernetes - TLS applied in every Kubernetes component. Deep dive in each component and see how it works.")](https://www.facebook.com/maeklong/posts/10223546930715270) <br>
 + **[11:00 - 12:00]** - **"NGINX Logs and OpenTracing"**, <br>Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion), *Link will be provided soon*
-+ **[14:00 - 17:00]** - ***Not Available***
+<!--+ **[14:00 - 17:00]** - ***Not Available***-->
 + **[Cancelled due to pandemic]** - **"How to build Gitlab-Runner on Docker"**, <br>Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)
 
 ### [more info] : <maykin@owasp.org>, <maykin@ieee.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
