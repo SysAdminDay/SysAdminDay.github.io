@@ -12,6 +12,8 @@
 <!--+ **[14:00 - 17:00]** - ***Not Available***-->
 + **[Cancelled due to pandemic]** - **"How to build Gitlab-Runner on Docker"**, <br>Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)
 
+---
+
 ### [more info] : <maykin@owasp.org>, <maykin@ieee.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
 ---
