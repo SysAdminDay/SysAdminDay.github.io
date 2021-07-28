@@ -18,6 +18,7 @@ Passcode: ***SysAdmin21***
 Passcode: ***SysAdmin21***
 [![](Topics/NGINX-Logs.jpg "NGINX Logs and OpenTracing - Get the most out of NGINX Access Logs, NGINX Error Logs. Request tracing with NGINX Logs and OpenTracing.")](https://www.facebook.com/maeklong/posts/10223557491939294) <br>
 + **[14:00 - 17:00]** - ***Not Available***
++ **[18:00 - 19:00]** - **"The Future of Cybersecurity in 2021 and Beyond (Open Session)"**
 + **[19:00 - 20:00]** - **"Record of Processing Activities (ROPA)"**, <br>
 Khun [Suwannachot Sirimahasal](https://www.facebook.com/discovery.kwang)
 <br>\[**[Zoom](https://us02web.zoom.us/j/4949499449?pwd=Qk1TdW9qc2RKL2dGby9lQlZOZmxLUT09)**\] Meeting ID: ***494 949 9449***
