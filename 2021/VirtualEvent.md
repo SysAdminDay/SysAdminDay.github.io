@@ -25,11 +25,11 @@ Passcode: ***SysAdmin21***
 + **[14:00 - 17:00]** - ***Break***<br>
 
 <a name="Future-of-Cybersec">
-+ **[18:00 - 19:00]** - **"The Future of Cybersecurity Trends for 2021 and Beyond *(Open Discussion)*"**<br>
++ **[18:00 - 19:00]** - **"The Future of Cybersecurity Trends for 2021 and Beyond *(Open Discussion)*"**, <br>
 Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins), [Maykin Warasart](https://www.facebook.com/maeklong), bla bla bla
 <br>\[**[Zoom](https://us02web.zoom.us/j/4949499449?pwd=Qk1TdW9qc2RKL2dGby9lQlZOZmxLUT09)**\] Meeting ID: ***494 949 9449***
 Passcode: ***SysAdmin21***
-[![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity Trends for 2021 and Beyond (Open Session)")](#)
+[![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity Trends for 2021 and Beyond (Open Session)")](https://www.facebook.com/maeklong/posts/10223578270978757)
 <br>
 
 + **[19:00 - 20:00]** - **"Record of Processing Activities (ROPA)"**, <br>
