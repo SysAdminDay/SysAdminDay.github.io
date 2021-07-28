@@ -27,7 +27,7 @@ Passcode: ***SysAdmin21***
 + **[14:00 - 17:00]** - ***Not Available***<br><br>
 
 + **[18:00 - 19:00]** - **"The Future of Cybersecurity in 2021 and Beyond (Open Session)"**
-[![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity in 2021 and Beyond (Open Session)")]
+[![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity in 2021 and Beyond (Open Session)")](#)
 <br><br>
 
 + **[19:00 - 20:00]** - **"Record of Processing Activities (ROPA)"**, <br>
