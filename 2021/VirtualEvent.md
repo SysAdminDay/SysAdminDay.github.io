@@ -23,7 +23,8 @@ Passcode: ***SysAdmin21***
 Khun [Suwannachot Sirimahasal](https://www.facebook.com/discovery.kwang)
 <br>\[**[Zoom](https://us02web.zoom.us/j/4949499449?pwd=Qk1TdW9qc2RKL2dGby9lQlZOZmxLUT09)**\] Meeting ID: ***494 949 9449***
 Passcode: ***SysAdmin21***
-[![](Topics/ROPA.jpg "Record of Processing Activities (ROPA)")](https://www.facebook.com/maeklong/posts/10223577246113136) <br><br>
+<br>
+<center>[![](Topics/ROPA.jpg "Record of Processing Activities (ROPA)")](https://www.facebook.com/maeklong/posts/10223577246113136)</center> <br><br>
 + **[20:00 - 21:00]** - **"Something about tuning"**, <br>Khun [Narate Ketram](https://www.facebook.com/koonnarate), *Link will be provided soon*
 + **[Cancelled due to pandemic]** - **"How to build Gitlab-Runner on Docker"**, <br>Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)
 
