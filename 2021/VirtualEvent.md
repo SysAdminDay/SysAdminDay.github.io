@@ -26,7 +26,7 @@ Passcode: ***SysAdmin21***
 
 + **[14:00 - 17:00]** - ***Break***<br>
 
-+ **[18:00 - 19:00]** - **"The Future of Cybersecurity in 2021 and Beyond *(Open Discussion)*"**<br>
++ **[18:00 - 19:00]** - **"The Future of Cybersecurity Trends for 2021 and Beyond *(Open Discussion)*"**<br>
 Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins), [Maykin Warasart](https://www.facebook.com/maeklong), bla bla bla<br>
 [![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity in 2021 and Beyond (Open Session)")](#)
 <br>
