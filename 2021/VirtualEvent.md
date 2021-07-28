@@ -1,9 +1,7 @@
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2021***
 # **(*Friday*) July 30, 2021**
-
 ![](../Assets/SysAdminDay-2021.png "SysAdminDay2021(#VirtualEvent, #COVID19)")
-
-### Schedule <!--https://bit.ly/SysAdminDay2021-->
+## \[Schedule\] <!--https://bit.ly/SysAdminDay2021-->
 + **[04:00 - 04:30]** - **"IT Pro Appreciation Happy Hour"**, *Announce the winners of the MV(IT)P Sweeps.*<br>
 CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.youtube.com/watch?v=9lSXMG66MyE)<br>
 
