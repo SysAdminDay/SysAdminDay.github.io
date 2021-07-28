@@ -5,7 +5,7 @@
 
 ### Schedule <!--https://bit.ly/SysAdminDay2021-->
 + **[04:00 - 04:30]** - **"IT Pro Appreciation Happy Hour"**, *Announce the winners of the MV(IT)P Sweeps.*<br>
-CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.youtube.com/watch?v=9lSXMG66MyE)<br><br>
+CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.youtube.com/watch?v=9lSXMG66MyE)<br>
 
 + **[09:15 - 09:30]** - **"Opening"**, ***[Maykin Warasart](https://www.facebook.com/maeklong)***<br><br>
 
