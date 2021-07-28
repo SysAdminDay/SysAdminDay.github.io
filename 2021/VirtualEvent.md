@@ -12,8 +12,9 @@ CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.
 [![](Topics/TLS-in-K8S.png "Transport Layer Security in Kubernetes - TLS applied in every Kubernetes component. Deep dive in each component and see how it works.")](https://www.facebook.com/maeklong/posts/10223546930715270) <br>
 + **[11:00 - 12:00]** - **"NGINX Logs and OpenTracing"**, *Get the most out of NGINX Access Logs, NGINX Error Logs. Request tracing with NGINX Logs and OpenTracing.*, <br>Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion), *Link will be provided soon*[![](Topics/NGINX-Logs.jpg "NGINX Logs and OpenTracing - Get the most out of NGINX Access Logs, NGINX Error Logs. Request tracing with NGINX Logs and OpenTracing.")](https://www.facebook.com/maeklong/posts/10223557491939294) <br>
 + **[14:00 - 17:00]** - ***Not Available***
-+ **[19:00 - 20:00]** - **"Record of Processing Activities"**, <br>
++ **[19:00 - 20:00]** - **"Record of Processing Activities (ROPA)"**, <br>
 Khun [Suwannachot Sirimahasal](https://www.facebook.com/discovery.kwang), *Link will be provided soon*
+[![](Topics/ROPA.jpg "Record of Processing Activities (ROPA)")](#) <br>
 + **[20:00 - 21:00]** - **"Something about tuning"**, <br>Khun [Narate Ketram](https://www.facebook.com/koonnarate), *Link will be provided soon*
 + **[Cancelled due to pandemic]** - **"How to build Gitlab-Runner on Docker"**, <br>Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)
 
