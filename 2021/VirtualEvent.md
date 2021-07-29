@@ -28,7 +28,8 @@ Passcode: ***SysAdmin21***
 <a name="Future-of-Cybersec">
 + **[18:00 - 19:00]** - **"The Future of Cybersecurity Trends for 2021 and Beyond *(Open Discussion)*"**, <br>
 Dr.[Pongpisit Wuttidittachotti](https://www.facebook.com/pongpisitwutti),
-Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins), [Maykin Warasart](https://www.facebook.com/maeklong), bla bla bla
+Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins), Khun [Ammarit Thongthua](https://www.facebook.com/Shellcodenoob), Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin),
+[Maykin Warasart](https://www.facebook.com/maeklong) & bla bla bla
 <br>\[**[Zoom](https://us02web.zoom.us/j/4949499449?pwd=Qk1TdW9qc2RKL2dGby9lQlZOZmxLUT09)**\] Meeting ID: ***494 949 9449***
 Passcode: ***SysAdmin21***
 [![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity Trends for 2021 and Beyond (Open Session)")](https://www.facebook.com/maeklong/posts/10223578270978757)
@@ -47,7 +48,7 @@ Passcode: ***SysAdmin21***
 
 ---
 
-### [more info] : <maykin@ieee.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
+### [more info] : <maykin@owasp.org>, <maykin@ieee.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
 
 ---
 
