@@ -41,7 +41,7 @@ Passcode: ***SysAdmin21***
 [![](Topics/ROPA.jpg "Record of Processing Activities (ROPA)")](https://www.facebook.com/maeklong/posts/10223577246113136)<br>
 
 + **[20:00 - 21:00]** - **"จูนนิ่งยังไง ไม่ให้เว็บล่มง่ายๆ"**, <br>Khun [Narate Ketram](https://www.facebook.com/koonnarate) \[**[Google Meet](https://meet.google.com/syx-xxzr-ytx)**\]
-[![](Topics/Tuning.png "จูนนิ่งยังไง ไม่ให้เว็บล่มง่ายๆ")](#)<br>
+[![](Topics/Tuning.png "จูนนิ่งยังไง ไม่ให้เว็บล่มง่ายๆ")](https://www.facebook.com/maeklong/posts/10223581855468367)<br>
 
 + **[Cancelled due to pandemic]** - **"How to build Gitlab-Runner on Docker"**, <br>Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)
 
