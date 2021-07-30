@@ -26,8 +26,7 @@ Dr.[Pongpisit Wuttidittachotti](https://www.facebook.com/pongpisitwutti)<br>Khun
 
 + **[19:00 - 20:00]** - **"Record of Processing Activities (ROPA)"**, <br>
 Khun [Suwannachot Sirimahasal](https://www.facebook.com/discovery.kwang)
-<br>\[**[Zoom](https://us02web.zoom.us/j/4949499449?pwd=Qk1TdW9qc2RKL2dGby9lQlZOZmxLUT09)**\] Meeting ID: ***494 949 9449***
-Passcode: ***SysAdmin21***
+<br>\[**[Video](https://youtu.be/cpoNftgGFhM)**\]
 [![](Topics/ROPA.jpg "Record of Processing Activities (ROPA)")](https://www.facebook.com/maeklong/posts/10223577246113136)<br>
 
 + **[20:00 - 21:00]** - **"จูนนิ่งยังไง ไม่ให้เว็บล่มง่ายๆ"**, <br>Khun [Narate Ketram](https://www.facebook.com/koonnarate) \[**[Google Meet](https://meet.google.com/syx-xxzr-ytx)**\] \[**[GitHub](https://github.com/narate/sys-admin-day-2021)**\]
