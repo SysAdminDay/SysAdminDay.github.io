@@ -10,7 +10,7 @@ CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.
 + **[09:30 - 10:00]** - **"PowerShell: Automation Strategy for Cloud Environment"**, <br>Khun [Thanyapon Sananakin](https://www.facebook.com/thanyapon) \[**[Video](https://youtu.be/SnUgWSVOcXg)**\], \[**[PowerShell Scripts](Topics/PowerShell.zip)**\]
 [![](Topics/PowerShell-Automation-Strategy-for-Cloud-Env.png "PowerShell : Automation Strategy for Cloud Environment")](https://www.facebook.com/maeklong/posts/10223546732750321)<br>
 
-+ **[10:00 - 11:00]** - **"Transport Layer Security in Kubernetes"**, *TLS applied in every Kubernetes component. Deep dive in each component and see how it works.)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) \[[แก้ไข](https://youtu.be/_WF-JoT5kUM)\]
++ **[10:00 - 11:00]** - **"Transport Layer Security in Kubernetes"**, *TLS applied in every Kubernetes component. Deep dive in each component and see how it works.)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) <!--\[**[Video](https://youtu.be/MNLyuAvh-tA)**\]--> \[[แก้ไข](https://youtu.be/_WF-JoT5kUM)\]
 [![](Topics/TLS-in-K8S.png "Transport Layer Security in Kubernetes - TLS applied in every Kubernetes component. Deep dive in each component and see how it works.")](https://www.facebook.com/maeklong/posts/10223546930715270)<br>
 
 + **[11:00 - 12:00]** - **"NGINX Logs and OpenTracing"**, *Get the most out of NGINX Access Logs, NGINX Error Logs. Request tracing with NGINX Logs and OpenTracing.*, <br>Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion)
