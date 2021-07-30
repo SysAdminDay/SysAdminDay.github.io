@@ -13,7 +13,7 @@ CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.
 + **[10:00 - 11:00]** - **"Transport Layer Security in Kubernetes"**, *TLS applied in every Kubernetes component. Deep dive in each component and see how it works.)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) <!--\[**[Video](https://youtu.be/MNLyuAvh-tA)**\]--> \[[แก้ไข](https://youtu.be/_WF-JoT5kUM)\]
 [![](Topics/TLS-in-K8S.png "Transport Layer Security in Kubernetes - TLS applied in every Kubernetes component. Deep dive in each component and see how it works.")](https://www.facebook.com/maeklong/posts/10223546930715270)<br>
 
-+ **[11:00 - 12:00]** - **"NGINX Logs and OpenTracing"**, *Get the most out of NGINX Access Logs, NGINX Error Logs. Request tracing with NGINX Logs and OpenTracing.*, <br>Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion)
++ **[11:00 - 12:00]** - **"NGINX Logs and OpenTracing"**, *Get the most out of NGINX Access Logs, NGINX Error Logs. Request tracing with NGINX Logs and OpenTracing.*, <br>Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) <!-- \[**[Video](https://youtu.be/DZmGrXsCu8c)**\] -->
 [![](Topics/NGINX-Logs.jpg "NGINX Logs and OpenTracing - Get the most out of NGINX Access Logs, NGINX Error Logs. Request tracing with NGINX Logs and OpenTracing.")](https://www.facebook.com/maeklong/posts/10223557491939294)<br>
 
 + **[14:00 - 17:00]** - ***Break***<br>
