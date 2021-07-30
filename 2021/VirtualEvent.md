@@ -7,7 +7,7 @@ CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.
 
 + **[08:15 - 08:30]** - **"Opening"**, [Maykin Warasart](https://www.facebook.com/maeklong)<br>
 
-+ **[09:30 - 10:00]** - **"PowerShell: Automation Strategy for Cloud Environment"**, <br>Khun [Thanyapon Sananakin](https://www.facebook.com/thanyapon) \[**[Video](https://youtu.be/SnUgWSVOcXg)**\], <!-- \[**PowerShell Scripts](Topics/PowerShell.zip)**\] -->
++ **[09:30 - 10:00]** - **"PowerShell: Automation Strategy for Cloud Environment"**, <br>Khun [Thanyapon Sananakin](https://www.facebook.com/thanyapon) \[**[Video](https://youtu.be/SnUgWSVOcXg)**\], \[**[PowerShell Scripts](Topics/PowerShell.zip)**\]
 [![](Topics/PowerShell-Automation-Strategy-for-Cloud-Env.png "PowerShell : Automation Strategy for Cloud Environment")](https://www.facebook.com/maeklong/posts/10223546732750321)<br>
 
 + **[10:00 - 11:00]** - **"Transport Layer Security in Kubernetes"**, *TLS applied in every Kubernetes component. Deep dive in each component and see how it works.)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) \[[แก้ไข](https://youtu.be/_WF-JoT5kUM)\]
