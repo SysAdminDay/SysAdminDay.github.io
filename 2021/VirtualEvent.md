@@ -20,8 +20,7 @@ CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.
 
 <a name="Future-of-Cybersec">
 + **[18:00 - 19:00]** - **"The Future of Cybersecurity Trends for 2021 and Beyond *(Open Discussion)*"**, <br>
-Dr.[Pongpisit Wuttidittachotti](https://www.facebook.com/pongpisitwutti)<br>Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) <br>Khun [Pongsak Yodjai](https://www.facebook.com/iampongsak)<br>Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin)<br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak)<br> Khun [Chonwat Ngamlertprasert](https://www.facebook.com/age.ngam)<br>& [Maykin Warasart](https://www.facebook.com/maeklong)
-<br>\[**[Video](https://youtu.be/2wyXR5yGvS4)**\]
+Dr.[Pongpisit Wuttidittachotti](https://www.facebook.com/pongpisitwutti)<br>Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) <br>Khun [Pongsak Yodjai](https://www.facebook.com/iampongsak)<br>Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin)<br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak)<br> Khun [Chonwat Ngamlertprasert](https://www.facebook.com/age.ngam)<br>& [Maykin Warasart](https://www.facebook.com/maeklong) \[**[Video](https://youtu.be/2wyXR5yGvS4)**\]
 [![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity Trends for 2021 and Beyond (Open Session)")](https://www.facebook.com/maeklong/posts/10223578270978757)
 <br>
 
