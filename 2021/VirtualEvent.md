@@ -21,8 +21,7 @@ CompTIA Youtube Live: [https://www.youtube.com/watch?v=9lSXMG66MyE](https://www.
 <a name="Future-of-Cybersec">
 + **[18:00 - 19:00]** - **"The Future of Cybersecurity Trends for 2021 and Beyond *(Open Discussion)*"**, <br>
 Dr.[Pongpisit Wuttidittachotti](https://www.facebook.com/pongpisitwutti),
-Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins), Khun [Ammarit Thongthua](https://www.facebook.com/Shellcodenoob), Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin),
-[Maykin Warasart](https://www.facebook.com/maeklong) & bla bla bla
+Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins), Khun [Pongsak Yodjai](https://www.facebook.com/iampongsak), Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin), Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak), [Maykin Warasart](https://www.facebook.com/maeklong) & bla bla bla
 <br>\[**[Zoom](https://us02web.zoom.us/j/4949499449?pwd=Qk1TdW9qc2RKL2dGby9lQlZOZmxLUT09)**\] Meeting ID: ***494 949 9449***
 Passcode: ***SysAdmin21***
 [![](Topics/Future-of-Cybersec.jpg "The Future of Cybersecurity Trends for 2021 and Beyond (Open Session)")](https://www.facebook.com/maeklong/posts/10223578270978757)
