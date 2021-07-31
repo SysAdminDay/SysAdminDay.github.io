@@ -4,7 +4,7 @@
 ## \[Schedule\] <!--https://bit.ly/SysAdminDay2021-->
 + **[04:00 - 04:30]** - **"IT Pro Appreciation Happy Hour"**, **[CompTIA Youtube Live](https://www.youtube.com/watch?v=9lSXMG66MyE)**<br>
 
-+ **[08:15 - 08:30]** - **"Opening"**, [Maykin Warasart](https://www.facebook.com/maeklong)<br>
++ **[08:15 - 08:30]** - **"Opening"**, [Maykin Warasart](http://bit.ly/microsoftMVP)<br>
 
 + **[09:30 - 10:00]** - **"PowerShell: Automation Strategy for Cloud Environment"**, <br>Khun [Thanyapon Sananakin](https://www.facebook.com/thanyapon) \[**[Video](https://youtu.be/SnUgWSVOcXg)**\], \[**[PowerShell Scripts](Topics/PowerShell.zip)**\]
 [![](Topics/PowerShell-Automation-Strategy-for-Cloud-Env.png "PowerShell : Automation Strategy for Cloud Environment")](https://www.facebook.com/maeklong/posts/10223546732750321)<br>
