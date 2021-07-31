@@ -10,7 +10,7 @@
 [![](Topics/PowerShell-Automation-Strategy-for-Cloud-Env.png "PowerShell : Automation Strategy for Cloud Environment")](https://www.facebook.com/maeklong/posts/10223546732750321)<br>
 
 <a name="TLS-in-K8s">
-+ **[10:00 - 11:00]** - **"Transport Layer Security in Kubernetes"**, *TLS applied in every Kubernetes component. Deep dive in each component and see how it works.)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) \[**[Video](https://youtu.be/MNLyuAvh-tA)**\] \[[แก้ไข](https://youtu.be/_WF-JoT5kUM)\]
++ **[10:00 - 11:00]** - **"Transport Layer Security in Kubernetes"**, *TLS applied in every Kubernetes component. Deep dive in each component and see how it works.)*, <br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) <!--\[**[Video](https://youtu.be/MNLyuAvh-tA)**\]--> \[**[Video](https://www.facebook.com/NungLenNGINX/videos/542475660429425)**\] \[[แก้ไข](https://youtu.be/_WF-JoT5kUM)\]
 [![](Topics/TLS-in-K8S.png "Transport Layer Security in Kubernetes - TLS applied in every Kubernetes component. Deep dive in each component and see how it works.")](https://www.facebook.com/maeklong/posts/10223546930715270)<br>
 
 <a name="NGINX-Logs">
