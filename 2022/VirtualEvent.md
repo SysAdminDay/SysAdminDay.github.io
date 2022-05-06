@@ -1,6 +1,6 @@
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2022***
 # **(*Friday*) July 29, 2022**
-![](../Assets/SysAdminDay-2021.png "SysAdminDay2021(#VirtualEvent, #COVID19)")
+![](../Assets/SysAdminDay-2022.png "SysAdminDay2022(#VirtualEvent, #COVID19)")
 
 
 ---
