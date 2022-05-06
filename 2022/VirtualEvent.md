@@ -5,7 +5,7 @@
 
 ---
 
-### [more info] : <maykin@owasp.org>, <maykin@ieee.org>, [@maykin](https://line.me/R/ti/p/%40maykin)
+### [more info] : [@maykin](https://line.me/R/ti/p/%40maykin)
 
 ---
 
