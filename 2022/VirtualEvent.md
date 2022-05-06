@@ -8,7 +8,7 @@
 | From    |    To    |  Topic                                                   |
 |:-------:|:--------:|:---------------------------------------------------------|
 | xx:xx   |  xx:xx   | xxxxxx        |
-| xx:xx   |  xx:xx   | xxxxxx    |
+| xx:xx   |  xx:xx   | xxxxxx        |
 
 ---
 
