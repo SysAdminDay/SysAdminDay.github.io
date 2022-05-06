@@ -10,9 +10,8 @@
 | xx:xx   |  xx:xx   | xxxxxx        |
 | xx:xx   |  xx:xx   | xxxxxx        |
 
----
 
-### [more info] : [@maykin](https://line.me/R/ti/p/%40maykin)
+### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
 ---
 
