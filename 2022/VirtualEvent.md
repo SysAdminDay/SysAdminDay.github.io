@@ -8,7 +8,7 @@
 | From    |    To    |  Topic                                                   |
 |:-------:|:--------:|:---------------------------------------------------------|
 | xx:xx   |  xx:xx   | xxxxxx        |
-| xx:xx   |  xx:xx   | xxxxxx        |
+| 20:00   |  20:30   | "Run GitLab Runner on Docker", Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)|
 
 
 #### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
