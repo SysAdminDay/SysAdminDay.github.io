@@ -8,9 +8,9 @@
 | From    |    To    |  Topic                                                   |
 |:-------:|:--------:|:---------------------------------------------------------|
 | xx:xx   |  xx:xx   | xxxxxx                                                   |
-| TBD     |  TBD     | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>",<br>Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
+| TBD     |  TBD     | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
 | xx:xx   |  xx:xx   | xxxxxx                                                   |
-| 20:00   |  20:30   | "<b>Run GitLab Runner on Docker</b>",<br>Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)|
+| 20:00   |  20:30   | "<b>Run GitLab Runner on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)|
 | xx:xx   |  xx:xx   | xxxxxx                                                   |
 
 
