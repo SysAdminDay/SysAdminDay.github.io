@@ -7,13 +7,13 @@
 
 | From    |    To    |  Topic                                                   |
 |:-------:|:--------:|:---------------------------------------------------------|
-| xx:xx   |  xx:xx   | xxxxxx                                                   |
+| TBD   |  TBD   | N/A                                                   |
 | TBD     |  TBD     | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framwork จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
-| xx:xx   |  xx:xx   | xxxxxx                                                   |
+| TBD   |  TBD   | N/A                                                   |
 | 11:00   |  12:00   | "<b>Isolate multiple ingress resourses and policies using ingress class</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion)                                  |
-| xx:xx   |  xx:xx   | xxxxxx                                                   |
+| TBD   |  TBD   | N/A                                                   |
 | 20:00   |  20:30   | "<b>Run GitLab Runner on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)|
-| xx:xx   |  xx:xx   | xxxxxx                                                   |
+| TBD   |  TBD   | N/A                                                   |
 
 
 #### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
