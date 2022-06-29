@@ -37,7 +37,6 @@
 * [<b>บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
 
 <p align="center">
-
 <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.jpg" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>
 <a href="https://iknex.or.th" target="blank"><img src="https://iknexth.github.io/assets/images/logo.png" title="iKNEX"></a>
 </p>
