@@ -22,7 +22,7 @@
 
 
 #### Our supporter(s)
-* [KIRS Corporation Company Limited](https://www.facebook.com/kirscorp/)
+* [<b>KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
 
 #### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
