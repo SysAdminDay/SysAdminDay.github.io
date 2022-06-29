@@ -21,9 +21,6 @@
 | 22:01   |  00:00   | N/A                                                   |
 
 
-#### Our supporter(s)
-* [<b>บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
-
 #### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
 ---
@@ -33,7 +30,8 @@
 * [SysAdminDay 2019](/2019/Laos) at Lao PDR
 * [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
 
----
+#### Our supporter(s)
+* [<b>บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
 
 [![](Kirs-Logo.jpg "บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited")](https://www.facebook.com/kirscorp)
 [![](https://iknexth.github.io/assets/images/logo.png "iKNEX")](https://iknex.or.th)
