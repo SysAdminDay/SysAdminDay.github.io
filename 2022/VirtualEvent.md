@@ -24,7 +24,7 @@
 | 22:01   |  00:00   | N/A                                                   |
 
 
-#### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
+#### More info -> [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
 ---
 
