@@ -21,6 +21,9 @@
 | 22:01   |  00:00   | N/A                                                   |
 
 
+#### Our supporter(s)
+* [KIRS Corporation Company Limited](https://www.facebook.com/kirscorp/)
+
 #### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
 ---
