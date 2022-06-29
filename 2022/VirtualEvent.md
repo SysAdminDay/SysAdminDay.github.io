@@ -36,4 +36,4 @@
 ---
 
 [![](Kirs-Logo.jpg "บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited")](https://www.facebook.com/kirscorp)
-[![](https://iknexth.github.io/assets/images/logo.png "Thank you to our supporters")](https://iknex.or.th)
+[![](https://iknexth.github.io/assets/images/logo.png "iKNEX")](https://iknex.or.th)
