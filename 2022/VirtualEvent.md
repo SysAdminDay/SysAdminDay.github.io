@@ -22,7 +22,7 @@
 
 
 #### Our supporter(s)
-* [<b>KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
+* [<b>บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
 
 #### More info ... [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
@@ -35,4 +35,5 @@
 
 ---
 
+[![](Kirs-Logo.jpg "บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited")](https://www.facebook.com/kirscorp)
 [![](https://iknexth.github.io/assets/images/logo.png "Thank you to our supporters")](https://iknex.or.th)
