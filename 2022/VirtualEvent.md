@@ -3,7 +3,7 @@
 ![](../Assets/SysAdminDay-2022.png "SysAdminDay2022(#VirtualEvent, #COVID19)")
 
 
-<!-- <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MTk0Z2ZnMGM5bXBxaGY1OXQ4MjRhOThic3Mgb3dhc3Aub3JnX2xhOTAxbXJyajMwMzZqN2FuY2szcTQ5bmQwQGc&amp;tmsrc=owasp.org_la901mrrj3036j7anck3q49nd0%40group.calendar.google.com"><img title="Add to Google Calendar" border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> -->
+<a target="_blank" href="https://calendar.google.com/calendar/r/eventedit?text=Virtual+Event+:+SysAdmin+Day+2022&dates=20220729T013000Z/20220729T151500Z&details=For+details,+link+here:+https://SysAdminDay.GitHub.io/2022/VirtualEvent&location=https://SysAdminDay.GitHub.io/2022/VirtualEvent"><img title="Add to Google Calendar" border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 | From    |    To    |  Topic                                                |
 |:-------:|:--------:|:------------------------------------------------------|
