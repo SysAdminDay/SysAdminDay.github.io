@@ -10,7 +10,7 @@
 
 | From    |    To    |  Topic                                                |
 |:-------:|:--------:|:------------------------------------------------------|
-| 08:45   |  09:00   | <b>Opening</b>, [iKNEX](https://www.iknex.or.th)   |
+| 08:45   |  09:00   | <b>Opening (& Lucky Draw)</b><br>-- Maykin Warasart & [iKNEX](https://www.iknex.or.th)   |
 | 09:01   |  10:00   | "<b>One day in a(n) SOC</b>"<br>-- Khun [Chaiyanath Chamoraman](https://www.facebook.com/BeetChamoraman) |
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) |
 | 11:01   |  12:00   | "<b>Isolate multiple ingress resources and policies using ingress class</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) |
@@ -22,7 +22,7 @@
 | 20:01   |  20:30   | "<b>Run GitLab Runner on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)|
 | 20:31   |  21:00   | "<b>Zero Trust Security</b>"<br>-- [Sec-Girl](https://www.facebook.com/InfoSecThaiGirl)|
 | 21:01   |  22:00   | "<b>System Monitoring</b>"<br> -- Khun [Narate Ketram](https://www.facebook.com/koonnarate) |
-| 22:01   |  00:00   | N/A                                                   |
+| 22:01   |  22:15   | <b>Closing (& Lucky Draw)</b>                                                   |
 
 
 #### More info -> [Maykin W.](https://line.me/R/ti/p/%40maykin)
