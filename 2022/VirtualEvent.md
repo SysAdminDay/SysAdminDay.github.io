@@ -15,9 +15,9 @@
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) |
 | 11:01   |  12:00   | "<b>Isolate multiple ingress resources and policies using ingress class</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) |
 | 12:01   |  13:00   | "<b>What is difference between pentest and smart contract audit</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) |                                                    |
-| 13:01   |  13:30   | "<b>PDPA: We Appreciate System Administrators But It Is Still Not Enough</b>"<br>-- Dr.[Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan) |
+| 13:01   |  13:30   | "<b>PDPA: We Appreciate System Administrators But It Is Still Not Enough</b>"<br>-- Dr. [Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan) |
 | 13:31   |  1x:00   | N/A                                                   |
-| TBD     |  TBD     | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c.[Charles Singh](https://www.facebook.com/JoeXSlovak)                                                  |
+| TBD     |  TBD     | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c. [Charles Singh](https://www.facebook.com/JoeXSlovak)                                                  |
 | 1x:x1   |  18:00   | N/A                                                   |
 | 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) |
 | 18:31   |  19:00   | N/A                                                   |
