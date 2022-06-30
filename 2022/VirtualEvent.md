@@ -14,7 +14,8 @@
 | 09:01   |  10:00   | "<b>One day in a(n) SOC</b>"<br>-- Khun [Chaiyanath Chamoraman](https://www.facebook.com/BeetChamoraman) |
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) |
 | 11:01   |  12:00   | "<b>Isolate multiple ingress resources and policies using ingress class</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) |
-| 12:01   |  18:00   | N/A                                                   |
+| 12:01   |  13:00   | "<b>What is difference between pentest and smart contract audit</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) |                                                    |
+| 13:01   |  18:00   | N/A
 | 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) |
 | 18:31   |  19:00   | N/A                                                   |
 | 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
