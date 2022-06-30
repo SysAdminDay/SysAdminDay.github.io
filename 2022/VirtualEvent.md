@@ -3,7 +3,7 @@
 <!-- ![](../Assets/SysAdminDay-2022-small.png "SysAdminDay2022(#VirtualEvent, #COVID19)")-->
 
 <p align="center">
-<img src="../Assets/SysAdminDay-2022-small.png" title="SysAdmin Day 2022 (#VirtualEvent, #COVID19)">
+<a href="../Assets/SysAdminDay-2022.png"><img src="../Assets/SysAdminDay-2022-small.png" title="SysAdmin Day 2022 (#VirtualEvent, #COVID19)"></a>
 </p>
     
 <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20220729T013000Z%2F20220729T151500Z&ctz=Asia/Bangkok&text=Virtual%20Event%20%3A%20SysAdmin%20Day%202022&location=&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.GitHub.io%2F2022%2FVirtualEvent"><img title="Add to Google Calendar" border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
@@ -15,7 +15,8 @@
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) |
 | 11:01   |  12:00   | "<b>Isolate multiple ingress resources and policies using ingress class</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) |
 | 12:01   |  13:00   | "<b>What is difference between pentest and smart contract audit</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) |                                                    |
-| 13:01   |  18:00   | N/A
+| 13:01   |  13:30   | "<b>PDPA: We Appreciate System Administrators But It Is Still Not Enough</b>"<br>-- [Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan) |
+| 13:31   |  18:00   | N/A                                                   |
 | 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) |
 | 18:31   |  19:00   | N/A                                                   |
 | 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
