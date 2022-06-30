@@ -3,7 +3,7 @@
 <!-- ![](../Assets/SysAdminDay-2022-small.png "SysAdminDay2022(#VirtualEvent, #COVID19)")-->
 
 <p align="center">
-    <a href="../Assets/SysAdminDay-2022.png"><img src="../Assets/SysAdminDay-2022-small.png" title="SysAdmin Day 2022 (#VirtualEvent, #COVID19)"></a>
+    <a href="../Assets/SysAdminDay-2022.png"><img src="../Assets/SysAdminDay-2022.png" width="50%" title="SysAdmin Day 2022 (#VirtualEvent, #COVID19)"></a>
 </p>
     
 <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20220729T013000Z%2F20220729T151500Z&ctz=Asia/Bangkok&text=Virtual%20Event%20%3A%20SysAdmin%20Day%202022&location=&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.GitHub.io%2F2022%2FVirtualEvent"><img title="Add to Google Calendar" border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
