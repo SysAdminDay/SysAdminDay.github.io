@@ -39,6 +39,6 @@
 
 <p align="center">
 <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.png" width="80%" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>
-<br>
+<br><br>
 <a href="https://iknex.or.th" target="blank"><img src="https://iknexth.github.io/assets/images/logo.png" width="80%" title="iKNEX"></a>
 </p>
