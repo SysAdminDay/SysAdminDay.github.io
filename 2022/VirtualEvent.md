@@ -27,6 +27,7 @@
 | 21:01   |  22:00   | "<b>System Monitoring</b>"<br> -- Khun [Narate Ketram](https://www.facebook.com/koonnarate) |
 | 22:01   |  22:15   | <b>Closing</b> (& <b>Lucky Draw</b>)                                                   |
 
+<a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20220729T013000Z%2F20220729T151500Z&ctz=Asia/Bangkok&text=Virtual%20Event%20%3A%20SysAdmin%20Day%202022&location=&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.GitHub.io%2F2022%2FVirtualEvent"><img title="Add to Google Calendar" border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 #### More info -> [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
