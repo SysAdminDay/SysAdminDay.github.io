@@ -19,7 +19,7 @@
 | 13:31   |  14:00   | N/A                                                   |
 | 14:01   |  14:30   | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c. [Charles Singh](https://www.facebook.com/JoeXSlovak)                                                  |
 | 14:31   |  17:00   | N/A                                                   |
-| 17:01   |  18:00   | "<b>Log</b>"<br>(2564 & PDPA เก็บอะไรเพิ่ม)<br> -- Khun [Jedsada Thongkanluang](https://www.facebook.com/tomcisco) |
+| 17:01   |  18:00   | "<b>Log</b>"<br>(2564 & PDPA preparation)<br> -- Khun [Jedsada Thongkanluang](https://www.facebook.com/tomcisco) |
 | 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) |
 | 18:31   |  19:00   | N/A                                                   |
 | 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
