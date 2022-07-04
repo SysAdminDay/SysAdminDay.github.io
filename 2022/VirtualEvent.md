@@ -13,7 +13,7 @@
 | 08:45   |  09:00   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- Maykin Warasart & [iKNEX](https://www.iknex.or.th)   |
 | 09:01   |  10:00   | "<b>One day in a(n) SOC</b>"<br>-- Khun [Chaiyanath Chamoraman](https://www.facebook.com/BeetChamoraman) |
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) |
-| 11:01   |  12:00   | "<b>Isolate multiple ingress resources and policies using ingress class</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) |
+| 11:01   |  12:00   | "<b>Isolate Multiple Ingress Resources and Policies Using Ingress Class in Kubernetes</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) |
 | 12:01   |  13:00   | "<b>What is difference between pentest and smart contract audit</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) |                                                    |
 | 13:01   |  13:30   | "<b>PDPA: We Appreciate System Administrators But It Is Still Not Enough</b>"<br>-- Dr. [Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan) |
 | 13:31   |  14:00   | N/A                                                   |
