@@ -18,7 +18,8 @@
 | 13:01   |  13:30   | "<b>PDPA: We Appreciate System Administrators But It Is Still Not Enough</b>"<br>-- Dr. [Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan) |
 | 13:31   |  14:00   | N/A                                                   |
 | 14:01   |  14:30   | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c. [Charles Singh](https://www.facebook.com/JoeXSlovak)                                                  |
-| 14:31   |  17:00   | N/A                                                   |
+| 14:31   |  15:30   | "<b>MySQL Performance Tuning</b>"<br> -- Khun [Kittirak Moungmingsuk](https://www.facebook.com/kittirak) |
+| 15:31   |  17:00   | N/A                                                   |
 | 17:01   |  18:00   | "<b>Log</b>"<br>(2564 & PDPA preparation)<br> -- Khun [Jedsada Thongkanluang](https://www.facebook.com/tomcisco) |
 | 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) |
 | 18:31   |  19:00   | N/A                                                   |
