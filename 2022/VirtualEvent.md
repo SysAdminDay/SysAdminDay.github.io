@@ -15,8 +15,7 @@
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) |
 | 11:01   |  12:00   | "<b>Isolate Multiple Ingress Resources and Policies Using Ingress Class in Kubernetes</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion)<br><img src="Topics/Isolate-Multiple-Ingress-Resources-and-Policies-Using-Ingress-Class-in-Kubernetes.jpg"> |
 | 12:01   |  13:00   | "<b>What is difference between pentest and smart contract audit</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) |                                                    |
-| 13:01   |  13:30   | "<b>PDPA: We Appreciate System Administrators But It Is Still Not Enough</b>"<br>-- Dr. [Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan) |
-| 13:31   |  14:00   | N/A                                                   |
+| 13:01   |  14:00   | N/A |
 | 14:01   |  14:30   | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c. [Charles Singh](https://www.facebook.com/JoeXSlovak)                                                  |
 | 14:31   |  15:30   | "<b>MySQL Performance Tuning</b>"<br> -- Khun [Kittirak Moungmingsuk](https://www.facebook.com/kittirak) |
 | 15:31   |  17:00   | N/A                                                   |
