@@ -20,7 +20,7 @@
 | 14:31   |  15:30   | "<b>MySQL Performance Tuning</b>"<br> -- Khun [Kittirak Moungmingsuk](https://www.facebook.com/kittirak) |
 | 15:31   |  17:00   | N/A                                                   |
 | 17:01   |  18:00   | "<b>Log</b>"<br>(2564 & PDPA preparation)<br> -- Khun [Jedsada Thongkanluang](https://www.facebook.com/tomcisco) |
-| 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) |
+| 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins)<br><img src="Topics/Into-the-Blue.jpg"> |
 | 18:31   |  19:00   | N/A                                                   |
 | 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
 | 20:01   |  20:30   | "<b>GitLab Runner on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)|
