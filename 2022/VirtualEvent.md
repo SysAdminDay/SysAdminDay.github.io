@@ -14,7 +14,7 @@
 | 09:01   |  10:00   | N/A                                                   |
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) [<b>Google Meet</b>]|
 | 11:01   |  12:00   | "<b>Isolate Multiple Ingress Resources and Policies Using Ingress Class in Kubernetes</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion)<br><img src="Topics/Isolate-Multiple-Ingress-Resources-and-Policies-Using-Ingress-Class-in-Kubernetes.jpg"> |
-| 12:01   |  13:00   | "<b>What is the difference between pentest and smart contract audit?</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) |                                                    |
+| 12:01   |  13:00   | "<b>What is the difference between pentest and smart contract audit?</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin)<br><img src="Topics/What-is-the-difference-between-pentest-and-smart-contract-audit.jpg">                                                    |
 | 13:01   |  14:00   | N/A |
 | 14:01   |  14:30   | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c. [Charles Singh](https://www.facebook.com/JoeXSlovak) [<b>Zoom</b>] |
 | 14:31   |  15:30   | "<b>MySQL Performance Tuning</b>"<br> -- Khun [Kittirak Moungmingsuk](https://www.facebook.com/kittirak) |
@@ -46,7 +46,7 @@
 * [<b>CompTIA Thailand</b>](https://www.facebook.com/comptiathailand/)
 
 <p align="center">
-    <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.png" width="80%" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>
+    <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.png" width="80%" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>What-is-the-difference-between-pentest-and-smart-contract-audit
     <br><br>
     <a href="https://www.facebook.com/comptiathailand/" target="_blank"><img src="Supporters/CompTIA.png" width="80%" title="We love #InformationTechnology & believe in advancing the global #tech workforce through #ITcertification + #ITtraining. We’re here for you, the #CompTIA #ITpro!"></a>
     <br><br><br><br><br><br>
