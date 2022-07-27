@@ -13,7 +13,7 @@
 | 08:45   |  09:00   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- Maykin Warasart & [iKNEX](https://www.iknex.or.th)   |
 | 09:01   |  10:00   | N/A                                                   |
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) [<b>Google Meet</b>]|
-| 11:01   |  12:00   | "<b>Isolate Multiple Ingress Resources and Policies Using Ingress Class in Kubernetes</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion)<br><img src="Topics/Isolate-Multiple-Ingress-Resources-and-Policies-Using-Ingress-Class-in-Kubernetes.jpg"> |
+| 11:01   |  12:00   | "<b>Isolate Multiple Ingress Resources and Policies Using Ingress Class in Kubernetes</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) [<b>Zoom</b>]<br><img src="Topics/Isolate-Multiple-Ingress-Resources-and-Policies-Using-Ingress-Class-in-Kubernetes.jpg"> |
 | 12:01   |  13:00   | "<b>What is the difference between penetration test and smart contract audit?</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin)<br><img src="Topics/What-is-the-difference-between-pentest-and-smart-contract-audit.jpg">                                                    |
 | 13:01   |  14:00   | N/A |
 | 14:01   |  14:30   | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c. [Charles Singh](https://www.facebook.com/JoeXSlovak) [<b>Zoom</b>] |
@@ -22,7 +22,7 @@
 | 17:01   |  18:00   | "<b>Log</b>"<br>(2564 & PDPA preparation)<br> -- Khun [Jedsada Thongkanluang](https://www.facebook.com/tomcisco) |
 | 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins)<br><img src="Topics/Into-the-Blue.jpg"> |
 | 18:31   |  19:00   | N/A                                                   |
-| 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) |
+| 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon] [<b>Zoom</b>](https://www.facebook.com/damrongsak) |
 | 20:01   |  20:30   | "<b>GitLab Runner on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete)|
 | 20:31   |  21:00   | "<b>Zero Trust Security</b>"<br>-- [Sec-Girl](https://www.facebook.com/InfoSecThaiGirl)|
 | 21:01   |  22:00   | "<b>System Monitoring</b>"<br> -- Khun [Narate Ketram](https://www.facebook.com/koonnarate) |
