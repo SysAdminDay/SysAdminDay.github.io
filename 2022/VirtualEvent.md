@@ -17,7 +17,7 @@
 | 12:01   |  13:00   | "<b>What is the difference between penetration test and smart contract audit?</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin)<br><img src="Topics/What-is-the-difference-between-pentest-and-smart-contract-audit.jpg">                                                    |
 | 13:01   |  14:00   | N/A |
 | 14:01   |  14:30   | "<b>Your Data-Driven Career Path: Turning data into information</b>"<br> -- Dr.h.c. [Charles Singh](https://www.facebook.com/JoeXSlovak) [<b>Zoom</b>] |
-| 14:31   |  15:30   | "<b>MySQL Performance Tuning</b>"<br> -- Khun [Kittirak Moungmingsuk](https://www.facebook.com/kittirak) |
+| 14:31   |  15:30   | "<b>MySQL Performance Tuning</b>"<br> -- Khun [Kittirak Moungmingsuk](https://www.facebook.com/kittirak) [<b>Zoom</b>]|
 | 15:31   |  17:00   | N/A                                                   |
 | 17:01   |  18:00   | "<b>Log</b>"<br>(2564 & PDPA preparation)<br> -- Khun [Jedsada Thongkanluang](https://www.facebook.com/tomcisco) |
 | 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) [<b>Google Meet</b>]<br><img src="Topics/Into-the-Blue.jpg"> |
