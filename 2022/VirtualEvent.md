@@ -24,7 +24,7 @@
 | 18:31   |  19:00   | N/A                                                   |
 | 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) [<b>Zoom</b>] |
 | 20:01   |  20:30   | "<b>GitLab Runner on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete) [<b>Zoom</b>]|
-| 20:31   |  21:00   | "<b>Zero Trust Security</b>"<br>-- [Sec-Girl](https://www.facebook.com/InfoSecThaiGirl) [<b>Zoom</b>]|
+| 20:31   |  21:00   | "<b>Zero Trust Security</b>"<br>-- [Sec-Girl](https://www.facebook.com/InfoSecThaiGirl) [<b>Zoom</b>]<br><img src="Topics/Zero-Trust-Security.jpg">|
 | 21:01   |  22:00   | "<b>System Monitoring</b>"<br> -- Khun [Narate Ketram](https://www.facebook.com/koonnarate) |
 | 22:01   |  22:15   | <b>Closing</b> (& <b>Lucky Draw</b>)                                                   |
 
