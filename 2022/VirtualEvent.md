@@ -51,7 +51,7 @@
 
 <p align="center">
     <br><br>
-    <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.png" width="73%" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>
+    <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.png" width="70%" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>
     <br><br>
     <a href="https://www.facebook.com/comptiathailand/" target="_blank"><img src="Supporters/CompTIA.png" width="78%" title="We love #InformationTechnology & believe in advancing the global #tech workforce through #ITcertification + #ITtraining. We’re here for you, the #CompTIA #ITpro!"></a>
     <br><br>
