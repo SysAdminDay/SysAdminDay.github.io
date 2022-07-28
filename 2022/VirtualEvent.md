@@ -11,7 +11,7 @@
 | From    |    To    |  Topic                                                |
 |:-------:|:--------:|:------------------------------------------------------|
 | 08:45   |  09:00   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- Maykin Warasart & [iKNEX](https://www.iknex.or.th) [<b>Zoom</b>] |
-| 09:01   |  09:20   | "<b>Boost your technical skills with Microsoft Learn and GitHub Skills</b>"<br>-- Khun [Phantip Kokilanon](https://www.facebook.com/phantipk) [[https://aka.ms/SysAdminDayTH](https://aka.ms/SysAdminDayTH)] |
+| 09:01   |  09:20   | "<b>Boost your technical skills with Microsoft Learn and GitHub Skills</b>"<br>-- Khun [Phantip Kokilanon](https://www.facebook.com/phantipk) [[<b>MS Teams</b>](https://aka.ms/SysAdminDayTH)] |
 | 09:21   |  10:00   | N/A
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) [<b>Google Meet</b>]|
 | 11:01   |  12:00   | "<b>Isolate Multiple Ingress Resources and Policies Using Ingress Class in Kubernetes</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) [<b>Zoom</b>]<br><br><img src="Topics/Isolate-Multiple-Ingress-Resources-and-Policies-Using-Ingress-Class-in-Kubernetes.jpg"> |
