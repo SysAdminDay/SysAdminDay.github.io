@@ -14,7 +14,7 @@
 | 08:45   |  09:00   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- [Maykin Warasart](https://fb.me/maeklong) & [iKNEX](https://www.iknex.or.th) |
 | 09:01   |  09:20   | "<b>Boost your technical skills with Microsoft Learn and GitHub Skills</b>"<br>-- Khun [Phantip Kokilanon](https://www.facebook.com/phantipk) [[<b>MS Teams</b>](https://aka.ms/SysAdminDayTH)]<br><br><img src="Topics/Boost-your-technical-skills-w-MS-Learn-n-GitHub-Skills.jpg">|
 | 09:21   |  10:00   | N/A
-| 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) [<b>Google Meet</b>]|
+| 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) [<b><a href="https://meet.google.com/ufo-hvvz-gba" target="_blank">Google Meet</a></b>]|
 | 11:01   |  12:00   | "<b>Isolate Multiple Ingress Resources and Policies Using Ingress Class in Kubernetes</b>"<br>(การใช้ Multiple Ingress และ Multiple separated policies ภายใต้ One Kubernetes Cluster) <br>-- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion) [<b>Zoom</b>]<br><br><img src="Topics/Isolate-Multiple-Ingress-Resources-and-Policies-Using-Ingress-Class-in-Kubernetes.jpg"> |
 | 12:01   |  13:00   | "<b>What is the difference between penetration test and smart contract audit?</b>"<br>-- Khun [Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin)<br><br><img src="Topics/What-is-the-difference-between-pentest-and-smart-contract-audit.jpg">                                                    |
 | 13:01   |  14:00   | N/A |
@@ -22,11 +22,11 @@
 | 14:31   |  15:30   | "<b>MySQL Performance Tuning</b>"<br> -- Khun [Kittirak Moungmingsuk](https://www.facebook.com/kittirak) [<b>Zoom</b>]|
 | 15:31   |  17:00   | N/A                                                   |
 | 17:01   |  18:00   | "<b>Log</b>"<br>(2564 & PDPA preparation)<br> -- Khun [Jedsada Thongkanluang](https://www.facebook.com/tomcisco) |
-| 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) [<b>Google Meet</b>]<br><br><img src="Topics/Into-the-Blue.jpg"> |
+| 18:01   |  18:30   | "<b>Into the blue</b>"<br>(พูดถึง Roles and Responsibilities ของ Blue Team และ Experience sharing การสอบ Blue Team Security LV1) <br>-- Khun [Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) [<b><a href="https://meet.google.com/ufo-hvvz-gba" target="_blank">Google Meet</a></b>]<br><br><img src="Topics/Into-the-Blue.jpg"> |
 | 18:31   |  19:00   | N/A                                                   |
 | 19:01   |  20:00   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) [<b>Zoom</b>] |
 | 20:01   |  20:30   | "<b>GitLab on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete) [<b>Zoom</b>]<br><br><img src="Topics/Gitlab-on-Docker.jpg">|
-| 20:31   |  21:00   | "<b>Zero Trust Security</b>"<br>-- Khun [Wilasinee Rueangaram](https://www.facebook.com/InfoSecThaiGirl) [<b>Google Meet</b>]<br><br><img src="Topics/Zero-Trust-Security.jpg">|
+| 20:31   |  21:00   | "<b>Zero Trust Security</b>"<br>-- Khun [Wilasinee Rueangaram](https://www.facebook.com/InfoSecThaiGirl) [<b><a href="https://meet.google.com/ufo-hvvz-gba" target="_blank">Google Meet</a></b>]<br><br><img src="Topics/Zero-Trust-Security.jpg">|
 | 21:01   |  22:00   | "<b>System Monitoring</b>"<br> -- Khun [Narate Ketram](https://www.facebook.com/koonnarate) |
 | 22:01   |  22:15   | <b>Closing</b> (& <b>Lucky Draw</b>)                                                   |
 
