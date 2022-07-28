@@ -45,7 +45,7 @@
 * [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
 
 #### Our supporter(s)
-* [<b>บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
+* [<b>KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
 * [<b>CompTIA Thailand</b>](https://www.facebook.com/comptiathailand/)
 * [<b>Microsoft Developer</b>](https://developer.microsoft.com/)
 
