@@ -11,7 +11,7 @@
 
 | From    |    To    |  Topic                                                |
 |:-------:|:--------:|:------------------------------------------------------|
-| 08:45   |  09:00   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- Maykin Warasart & [iKNEX](https://www.iknex.or.th) |
+| 08:45   |  09:00   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- [Maykin Warasart](https://fb.me/maeklong) & [iKNEX](https://www.iknex.or.th) |
 | 09:01   |  09:20   | "<b>Boost your technical skills with Microsoft Learn and GitHub Skills</b>"<br>-- Khun [Phantip Kokilanon](https://www.facebook.com/phantipk) [[<b>MS Teams</b>](https://aka.ms/SysAdminDayTH)]<br><br><img src="Topics/Boost-your-technical-skills-w-MS-Learn-n-GitHub-Skills.jpg">|
 | 09:21   |  10:00   | N/A
 | 10:01   |  11:00   | "<b>How CSA help shaping proper cloud services through CCSK and CCM</b>"<br>-- Khun [Tanat Tonguthaisri](https://www.facebook.com/epicure) [<b>Google Meet</b>]|
