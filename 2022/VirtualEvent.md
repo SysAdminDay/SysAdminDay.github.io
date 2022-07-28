@@ -55,6 +55,7 @@
     <br><br>
     <a href="https://www.facebook.com/comptiathailand/" target="_blank"><img src="Supporters/CompTIA.png" width="80%" title="We love #InformationTechnology & believe in advancing the global #tech workforce through #ITcertification + #ITtraining. We’re here for you, the #CompTIA #ITpro!"></a>
     <br><br><br><br>
-    <a href="https://developer.microsoft.com/" target="_blank"><img src="Supporters/Microsoft-logo_rgb_c-gray.png" width="100%" title="Microsoft Developer. Any platform. Your languages. Your tools.">
+    <a href="https://developer.microsoft.com/" target="_blank"><img src="Supporters/Microsoft-logo_rgb_c-gray.png" width="100%" title="Microsoft Developer. Any platform. Your languages. Your tools."></a>
     <br><br><br><br>
     <a href="https://iknex.or.th" target="blank"><img src="https://iknexth.github.io/assets/images/logo.png" width="80%" title="iKNEX"></a>
+</p>
