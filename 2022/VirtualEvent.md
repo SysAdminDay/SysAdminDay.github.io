@@ -53,8 +53,8 @@
     <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.png" width="80%" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>
     <br><br>
     <a href="https://www.facebook.com/comptiathailand/" target="_blank"><img src="Supporters/CompTIA.png" width="80%" title="We love #InformationTechnology & believe in advancing the global #tech workforce through #ITcertification + #ITtraining. We’re here for you, the #CompTIA #ITpro!"></a>
-    <br><br><br><br><br><br>
-    <a href="https://developer.microsoft.com/" target="_blank"><img src="Supporters/Microsoft-logo_rgb_c-gray.png" width="80%" title="Microsoft Developer. Any platform. Your languages. Your tools.">
+    <br><br><br><br>
+    <a href="https://developer.microsoft.com/" target="_blank"><img src="Supporters/Microsoft-logo_rgb_c-gray.png" width="90%" title="Microsoft Developer. Any platform. Your languages. Your tools.">
     <br><br><br><br>
     <a href="https://iknex.or.th" target="blank"><img src="https://iknexth.github.io/assets/images/logo.png" width="80%" title="iKNEX"></a>
 </p>
