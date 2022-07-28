@@ -1,6 +1,6 @@
 ## SysAdminDay
 
-+ [Virtual Event - 2022](/2022/VirtualEvent) (Friday, July 29)
++ [Virtual Event - 2022](/2022/VirtualEvent) (July 29, 2022)
 + [Virtual Event - 2021](/2021/VirtualEvent) (July 30, 2021)
 + [Virtual Event - 2020](/2020/VirtualEvent) (July 31, 2020)
 + [Laos - 2019](/2019/Laos)
