@@ -47,6 +47,7 @@
 #### Our supporter(s)
 * [<b>บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited</b>](https://www.facebook.com/kirscorp/)
 * [<b>CompTIA Thailand</b>](https://www.facebook.com/comptiathailand/)
+* [<b>Microsoft Developer</b>](https://developer.microsoft.com/)
 
 <p align="center">
     <a href="https://www.facebook.com/kirscorp" target="_blank"><img src="Supporters/Kirs-Logo.png" width="80%" title="บริษัท เคิร์ส คอร์ปอเรชั่น จำกัด - KIRS Corporation Company Limited"></a>
