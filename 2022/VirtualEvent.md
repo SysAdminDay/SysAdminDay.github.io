@@ -23,8 +23,9 @@
 | 19:01   |  20:05   | "<b>When you create the ClusterIP service in Kubernetes, what happens to the iptables rules?</b>"<br>(เรียนรู้การทำงานของ Netfilter Framework จาก iptables rules ของการเข้าถึง Pods ใน Kubernetes ผ่านจากทาง Services ชนิดต่าง ๆ) <br>-- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak) <!--[<a href="https://youtu.be/oTohRydEuKU" target="_blank">Video</a>]--> <br><br><img src="Topics/When-you-create-the-ClusterIP-service-in-Kubernetes-what-happens-to-the-iptables-rules.png">|
 | 20:06   |  20:30   | "<b>GitLab on Docker</b>"<br>-- Khun [Natthakan Puangroi](https://www.facebook.com/mayplepete) <!--[<a href="https://youtu.be/Cot3Fdl8vic" target="_blank">Video</a>]--> [<b><a href="Topics/docker-compose.txt">docker-compose</a></b>] <br><br><img src="Topics/Gitlab-on-Docker.jpg">|
 | 20:31   |  21:00   | "<b>Zero Trust Security</b>"<br>-- Khun [Wilasinee Rueangaram](https://www.facebook.com/belleeyyyy) <!--[<a href="https://youtu.be/Y5KxWhZ9GaQ" target="_blank">Video</a>]--> <br><br><img src="Topics/Zero-Trust-Security.jpg">|
-| 21:01   |  22:00   | "<b>System Monitoring</b>"<br> -- Khun [Narate Ketram](https://www.facebook.com/koonnarate) [<b><a href="https://us06web.zoom.us/j/4949499449?pwd=VmxjTkxDckFld2xDdUVGQkV2L0ZYQT09" target="_blank">Zoom</a></b>] ID: <a href="https://us06web.zoom.us/j/4949499449" target="_blank">494 949 9449</a>, Passcode: <i>SysAdmin22</i> <!--[<a href="#" target="_blank">Video</a>]--> <br><br><img src="Topics/System-Monitoring.jpg">|
-| 22:01   |  22:15   | <b>Closing</b> (& <b>Lucky Draw</b>)                                                   |
+| 21:01   |  21:05   | <b>Closing</b> (& <b>Lucky Draw</b>)                                                   |
+| 21:06   |  22:15   | "<b>System Monitoring</b>"<br> -- Khun [Narate Ketram](https://www.facebook.com/koonnarate) <!--[<a href="#" target="_blank">Video</a>]--> <br><br><img src="Topics/System-Monitoring.jpg">|
+
 
 <p align="right">
     [ <a target="_blank" href="./SysAdminDay2022.ics"><b>iCalendar</b></a> ]
