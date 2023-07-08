@@ -12,7 +12,7 @@
 | From  |  To   |  Topic                                                                                                                                     |
 |:-----:|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 | 09:15 | *<b>Registration & Lucky Draw</b>*                                                                                                         |
-| 09:15 | 09:30 | <b>SysAdmin Day 2023 - Kick Off</b><br>Maykin Warasart, Microsoft MVP (Security)<br>*Chief Technology Evangelist, MKS & UBSL*                         |
+| 09:15 | 09:30 | <b>SysAdmin Day 2023 - Kick Off</b><br>[Maykin Warasart, Microsoft MVP (Security)](https://mvp.microsoft.com/en-us/PublicProfile/5002869)<br>*Chief Technology Evangelist, MKS & UBSL*                         |
 | 09:30 | 09:40 | <b>Opening Keynote - "Building a Workforce for the Information Economy"</b><br>[Dr.Veerasith WONGKARN (Petch)](https://www.linkedin.com/in/veerasith/)<br>*Chief Revenue Officer, MKS & UBSL*|
 | 09:40 | 10:20 | "<b>Roadmap to Become a Network Specialist</b>"<br>[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)<br>*Network & Cybersecurity Consulting Specialist, UBSL*         |
 | 10:20 | 10:40 | *<b>Coffee Break</b>*                                                                                                                      |
