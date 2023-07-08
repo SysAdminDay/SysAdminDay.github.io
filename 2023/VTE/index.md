@@ -12,8 +12,8 @@
 | From  |  To   |  Topic                                                |
 |:-----:|:-----:|:------------------------------------------------------|
 | 09:00 | 09:15 | *<b>Registration & Lucky Draw</b>*                    |
-| 09:15 | 09:30 | "<b>SysAdmin Day 2023 - Kick Off</b>"                 |
-| 09:30 | 09:40 | "<b>Opening Keynote - Building a Workforce for the Information Economy</b>" |
+| 09:15 | 09:30 | <b>SysAdmin Day 2023 - Kick Off</b>                   |
+| 09:30 | 09:40 | <b>Opening Keynote - "Building a Workforce for the Information Economy</b>" |
 | 09:40 | 10:20 | "<b>Roadmap to Become a Network Specialist</b>"       |
 | 10:20 | 10:40 | *<b>Coffee Break</b>*                                 |
 | 10:40 | 11:20 | "<b>Identify and Solve Common Firewall Issues</b>"    |
@@ -23,7 +23,7 @@
 | 13:40 | 14:20 | "<b>Log Analysis: Definition, Methods, Benefits and More</b>" |
 | 14:20 | 14:35 | *<b>Coffee Break</b>*                                 |
 | 14:35 | 15:15 | "<b>DevOps and the Public Cloud</b>"                  |
-| 15:15 | 15:55 | "<b>TBD</b>"                                          |
+| 15:15 | 15:55 | <b>TBD</b>                                            |
 | 15:55 | 16:30 | "<b>Tech Stacks for Web App Development @ CSC</b>"    |
 | 16:30 | 16:45 | *<b>Lucky Draw & Closing</b>*                         |
 
