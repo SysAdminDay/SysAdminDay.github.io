@@ -24,7 +24,7 @@
 | 14:20 | 14:35 | *<b>Coffee Break</b>*                                                                                                                      |
 | 14:35 | 15:15 | "<b>DevOps and the Public Cloud</b>"<br>Pawat Tanavikrankoon<br>*CTO & Head of DevOps, AMN Corporation*                                    |
 | 15:15 | 15:55 | <b>TBD</b>                                                                                                                                 |
-| 15:55 | 16:30 | "<b>Tech Stacks for Web App Development @ CSC</b>"<br>Sengphachanh SIPHAXAI<br>*Application Solution Architect, CSC*                       |
+| 15:55 | 16:30 | "<b>Tech Stacks for Web App Development @ CSC</b>"<br>[Sengphachanh SIPHAXAI](https://www.linkedin.com/in/sengphachanh-siphaxai-622652254/)<br>*Application Solution Architect, CSC*                       |
 | 16:30 | 16:45 | *<b>Lucky Draw & Closing</b>*                                                                                                              |
 
 <p align="right">
