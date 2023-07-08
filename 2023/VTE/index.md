@@ -3,7 +3,7 @@
 # At International Cooperation and Training Center (ICTC) *[[location](https://goo.gl/maps/crqWGbgzDDJ4biyo9)]*
 
 <p align="center">
-    <a href="../../Assets/SysAdminDay-2023-VTE-White.png"><img src="../../Assets/SysAdminDay-2023-VTE-White.png" width="50%" title="SysAdmin Day 2023 - Live in Vientiane"></a>
+    <a href="../../Assets/SysAdminDay-2023-VTE-White.png"><img src="../../Assets/SysAdminDay-2023-VTE-Black.png" width="50%" title="SysAdmin Day 2023 - Live in Vientiane"></a>
 </p>
 
 | From  |  To   |  Topic                                                |
