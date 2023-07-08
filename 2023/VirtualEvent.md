@@ -1,4 +1,4 @@
-## System Administrator Appreciation Day ***2023***
+## ***Virtual Event*** : System Administrator Appreciation Day ***2023***
 # **(*Friday*) July 28, 2023**
 ![](https://iknexth.github.io/assets/images/SysAdminDay.jpg "SysAdminDay2023")
 
@@ -6,6 +6,14 @@
     <a href="../Assets/SysAdminDay-2023.png"><img src="../Assets/SysAdminDay-2023_bigger.png" width="50%" title="SysAdmin Day 2023"></a>
 </p>
 
+| From    |    To    |  Topic                                                |
+|:-------:|:--------:|:------------------------------------------------------|
+| 18:00   |  18:15   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- [Maykin Warasart](https://fb.me/maeklong) & [iKNEX](https://www.iknex.or.th)|
+| 18:16   |  18:50   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 19:01   |  20:05   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 20:06   |  20:30   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 20:31   |  21:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 21:01   |  21:05   | <b>Closing</b> (& <b>Lucky Draw</b>) |
 
 #### More info -> [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
