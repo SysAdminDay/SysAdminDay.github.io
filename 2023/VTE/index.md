@@ -19,7 +19,7 @@
 | ... | ... | ... |
 
 
-#### More info: [Maykin](https://wa.me/qr/EKEA5KT4F3SVK1), [Jack](https://wa.me/qr/ZIXUWJ53MMJBP1)
+#### More info: [Maykin - LiNE](https://line.me/R/ti/p/%40maykin), [Jack - WhatsApp](https://wa.me/qr/ZIXUWJ53MMJBP1)
 
 ---
 

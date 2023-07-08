@@ -15,7 +15,7 @@
 | 20:31   |  21:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
 | 21:01   |  21:05   | <b>Closing</b> (& <b>Lucky Draw</b>) |
 
-#### More info -> [Maykin W.](https://line.me/R/ti/p/%40maykin)
+#### More info: [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
 ---
 
