@@ -1,4 +1,4 @@
-## System Administrator Appreciation Day ***2023*** Live in Vientiane
+## System Administrator Appreciation Day ***2023*** - Live in Vientiane
 # **(*Friday*) July 28, 2023**
 ![](https://iknexth.github.io/assets/images/SysAdminDay.jpg "SysAdminDay2023")
 
