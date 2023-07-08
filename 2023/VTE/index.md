@@ -7,7 +7,7 @@
 </p>
 
 
-#### More info -> [Maykin W.](https://wa.me/qr/EKEA5KT4F3SVK1), [Jack](https://wa.me/qr/ZIXUWJ53MMJBP1)
+#### More info -> [Maykin W. - iNSTiLA](https://wa.me/qr/EKEA5KT4F3SVK1), [Jack - UBSL](https://wa.me/qr/ZIXUWJ53MMJBP1)
 
 ---
 
