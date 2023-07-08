@@ -1,10 +1,15 @@
 ## System Administrator Appreciation Day ***2023*** - Live in Vientiane
 # **(*Friday*) July 28, 2023**
-![](https://iknexth.github.io/assets/images/SysAdminDay.jpg "SysAdminDay2023")
 
 <p align="center">
     <a href="../../Assets/SysAdminDay-2023-VTE-White.png"><img src="../../Assets/SysAdminDay-2023-VTE-White.png" width="50%" title="SysAdmin Day 2023 - Live in Vientiane"></a>
 </p>
+
+| From  |  To   |  Topic                                                |
+|:-----:|:-----:|:------------------------------------------------------|
+| 09:00 | 09:15 | "<b>Registration & Lucky Draw</b>"                    |
+| 09:15 | 09:30 | "<b>SysAdmin Day 2023 - Kick Off</b>"                 |
+| 09:30 | 09:40 | "<b>Opening Keynote - Building a Workforce for the Information Economy</b>" |
 
 
 #### More info -> [Maykin W. - iNSTiLA](https://wa.me/qr/EKEA5KT4F3SVK1), [Jack - UBSL](https://wa.me/qr/ZIXUWJ53MMJBP1)
