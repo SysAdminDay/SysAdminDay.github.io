@@ -13,6 +13,10 @@
 | 09:30 | 09:40 | "<b>Opening Keynote - Building a Workforce for the Information Economy</b>" |
 | ... | ... | ... |
 | ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
 
 
 #### More info: [Maykin](https://wa.me/qr/EKEA5KT4F3SVK1), [Jack](https://wa.me/qr/ZIXUWJ53MMJBP1)
