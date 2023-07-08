@@ -3,7 +3,7 @@
 ![](https://iknexth.github.io/assets/images/SysAdminDay.jpg "SysAdminDay2023")
 
 <p align="center">
-    <a href="../Assets/SysAdminDay-2023.png"><img src="../Assets/SysAdminDay-2023.png" width="50%" title="SysAdmin Day 2023"></a>
+    <a href="../Assets/SysAdminDay-2023.png"><img src="../Assets/SysAdminDay-2023_bigger.png" width="50%" title="SysAdmin Day 2023"></a>
 </p>
 
 
