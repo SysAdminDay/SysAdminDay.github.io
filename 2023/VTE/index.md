@@ -14,7 +14,7 @@
 | 09:00 | 09:15 | *<b>Registration & Lucky Draw</b>*                    |
 | 09:15 | 09:30 | <b>SysAdmin Day 2023 - Kick Off</b>                   |
 | 09:30 | 09:40 | <b>Opening Keynote - "Building a Workforce for the Information Economy"</b> |
-| 09:40 | 10:20 | "<b>Roadmap to Become a Network Specialist</b>"       |
+| 09:40 | 10:20 | "<b>Roadmap to Become a Network Specialist</b>"<br>Souksawat SOULIVANH (Jack)<br>*NW & Cyber Security Consulting Specialist, UBSL*|
 | 10:20 | 10:40 | *<b>Coffee Break</b>*                                 |
 | 10:40 | 11:20 | "<b>Identify and Solve Common Firewall Issues</b>"    |
 | 11:20 | 12:00 | "<b>Connecting to Applications and APIs</b>"          |
