@@ -17,7 +17,7 @@
 | 09:40 | 10:20 | "<b>Roadmap to Become a Network Specialist</b>"<br>Souksawat SOULIVANH (Jack)<br>*NW & Cyber Security Consulting Specialist, UBSL* |
 | 10:20 | 10:40 | *<b>Coffee Break</b>*                                 |
 | 10:40 | 11:20 | "<b>Identify and Solve Common Firewall Issues</b>"<br>Saingeun KEOVANXAY<br>*IT Security Manager, Lao Airlines* |
-| 11:20 | 12:00 | "<b>Connecting to Applications and APIs</b>"          |
+| 11:20 | 12:00 | "<b>Connecting to Applications and APIs</b>"<br>Aeknarin Sirisub<br>*Thai Programmer Association*          |
 | 12:00 | 13:00 | *<b>Lunch Break</b>*                                  |
 | 13:00 | 13:40 | "<b>Digital Age Networking for Enterprises</b>"       |
 | 13:40 | 14:20 | "<b>Log Analysis: Definition, Methods, Benefits and More</b>" |
