@@ -10,6 +10,8 @@
 | 09:00 | 09:15 | "<b>Registration & Lucky Draw</b>"                    |
 | 09:15 | 09:30 | "<b>SysAdmin Day 2023 - Kick Off</b>"                 |
 | 09:30 | 09:40 | "<b>Opening Keynote - Building a Workforce for the Information Economy</b>" |
+| ... | ... | ... |
+| ... | ... | ... |
 
 
 #### More info -> [Maykin W. - iNSTiLA](https://wa.me/qr/EKEA5KT4F3SVK1), [Jack - UBSL](https://wa.me/qr/ZIXUWJ53MMJBP1)
