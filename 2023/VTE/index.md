@@ -23,7 +23,7 @@
 | 13:40 | 14:20 | "<b>Log Analysis: Definition, Methods, Benefits and More</b>" |
 | 14:20 | 14:35 | *<b>Coffee Break</b>*                                 |
 | 14:35 | 15:15 | "<b>DevOps and the Public Cloud</b>"                  |
-| 15:15 | 15:55 | "<b></b>"                                             |
+| 15:15 | 15:55 | "<b>TBD</b>"                                          |
 | 15:55 | 16:30 | "<b>Tech Stacks for Web App Development @ CSC</b>"    |
 | 16:30 | 16:45 | *<b>Lucky Draw & Closing</b>*                         |
 
