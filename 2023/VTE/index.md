@@ -32,5 +32,5 @@
 #### Our supporter(s)
 
 <p align="center">
-    <a href="https://ubslao.com" target="blank"><img src="https://ubslao.com/assets/img/ubsl-logo.webp" width="80%" title="UBSLAO"></a>
+    <a href="https://ubslao.com" target="blank"><img src="https://ubslao.com/assets/img/ubsl-logo.webp" title="UBSLAO"></a>
 </p>
