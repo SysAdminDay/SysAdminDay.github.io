@@ -1,9 +1,9 @@
-## System Administrator Appreciation Day ***2023***
+## System Administrator Appreciation Day ***2023*** Live in Vientiane
 # **(*Friday*) July 28, 2023**
 ![](https://iknexth.github.io/assets/images/SysAdminDay.jpg "SysAdminDay2023")
 
 <p align="center">
-    <a href="../Assets/SysAdminDay-2023.png"><img src="../Assets/SysAdminDay-2023.png" width="50%" title="SysAdmin Day 2023"></a>
+    <a href="../Assets/SysAdminDay-2023_VTE.png"><img src="../Assets/SysAdminDay-2023_VTE.png" width="50%" title="SysAdmin Day 2023 - Live in Vientiane"></a>
 </p>
 
 
@@ -20,5 +20,5 @@
 #### Our supporter(s)
 
 <p align="center">
-    <a href="https://iknex.or.th" target="blank"><img src="https://iknexth.github.io/assets/images/logo.png" width="80%" title="iKNEX"></a>
+    <a href="https://ubslao.com" target="blank"><img src="https://ubslao.com/assets/img/ubsl-logo.webp" width="80%" title="UBSLAO"></a>
 </p>
