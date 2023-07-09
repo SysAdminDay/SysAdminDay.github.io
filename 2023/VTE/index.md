@@ -32,15 +32,10 @@
     [ <a target="_blank" href="./SysAdminDay2023-VTE.ics"><b>iCalendar</b></a> ]
 </p>
 
-#### More info: [Maykin (LiNE)](https://line.me/R/ti/p/%40maykin), [Jack (WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
+#### More info: 
++ Maykin [(LiNE)](https://line.me/R/ti/p/%40maykin)
++ Jack [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
 
----
-
-* [SysAdminDay 2022](/2022/VirtualEvent), Virtual Event
-* [SysAdminDay 2021](/2021/VirtualEvent), Virtual Event
-* [SysAdminDay 2020](/2020/VirtualEvent), Virtual Event
-* [SysAdminDay 2019](/2019/Laos) at Lao PDR
-* [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
 
 #### Our supporter(s)
 
@@ -50,3 +45,11 @@
     <a href="https://insti.la" target="blank"><img src="Supporters/instila.png" width="318" title="iNSTiLA Academy"></a>
 </p>
  width="318"
+ 
+---
+
+* [SysAdminDay 2022](/2022/VirtualEvent), Virtual Event
+* [SysAdminDay 2021](/2021/VirtualEvent), Virtual Event
+* [SysAdminDay 2020](/2020/VirtualEvent), Virtual Event
+* [SysAdminDay 2019](/2019/Laos) at Lao PDR
+* [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
