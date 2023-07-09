@@ -44,7 +44,6 @@
     <a href="https://ubslao.com" target="blank"><img src="Supporters/ubsl.webp" title="UBS LAO"></a><br><br>
     <a href="https://insti.la" target="blank"><img src="Supporters/instila.png" width="318" title="iNSTiLA Academy"></a>
 </p>
- width="318"
  
 ---
 
