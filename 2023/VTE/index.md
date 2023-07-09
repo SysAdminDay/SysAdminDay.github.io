@@ -45,6 +45,6 @@
 #### Our supporter(s)
 
 <p align="center">
-    <a href="https://mangkone.com"><img src="https://mangkone.com/assets/img/mks-logo.png" width="318" title="MKS"></a><br><br>
-    <a href="https://ubslao.com" target="blank"><img src="https://ubslao.com/assets/img/ubsl-logo.webp" title="UBSLAO"></a>
+    <a href="https://mangkone.com"><img src="Supporters/mks.png" width="318" title="MKS"></a><br><br>
+    <a href="https://ubslao.com" target="blank"><img src="Supporters/ubsl.webp" title="UBS LAO"></a>
 </p>
