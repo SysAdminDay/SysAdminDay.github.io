@@ -14,17 +14,17 @@
 | 09:00 | 09:15 | *<b>Registration & Lucky Draw</b>*                                                                                                         |
 | 09:15 | 09:30 | <b>SysAdmin Day 2023 - Kick Off</b><br>[Maykin Warasart, Microsoft MVP (Security)](https://mvp.microsoft.com/en-us/PublicProfile/5002869)<br>*Chief Technology Evangelist, MKS & UBSL*                         |
 | 09:30 | 09:40 | <b>Opening Keynote - "Building a Workforce for the Information Economy"</b><br>[Dr.Veerasith WONGKARN (Petch)](https://www.linkedin.com/in/veerasith/)<br>*Chief Revenue Officer, MKS & UBSL*|
-| 09:40 | 10:20 | "<b>Roadmap to Become a Network Specialist</b>"<br>[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)<br>*Network & Cybersecurity Consulting Specialist, UBSL*   |
+| 09:40 | 10:20 | <b>"Roadmap to Become a Network Specialist"</b><br>[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)<br>*Network & Cybersecurity Consulting Specialist, UBSL*   |
 | 10:20 | 10:40 | *<b>Coffee Break</b>*                                                                                                                      |
-| 10:40 | 11:20 | "<b>Identify and Solve Common Firewall Issues</b>"<br>Saingeun KEOVANXAY<br>*IT Security Manager, Lao Airlines*                            |
-| 11:20 | 12:00 | "<b>Connecting to Applications and APIs</b>"<br>Aeknarin Sirisub<br>*Thai Programmer Association*                                          |
+| 10:40 | 11:20 | <b>"Identify and Solve Common Firewall Issues"</b><br>Saingeun KEOVANXAY<br>*IT Security Manager, Lao Airlines*                            |
+| 11:20 | 12:00 | <b>"Connecting to Applications and APIs"</b><br>Aeknarin Sirisub<br>*Thai Programmer Association*                                          |
 | 12:00 | 13:00 | *<b>Lunch Break</b>*                                                                                                                       |
-| 13:00 | 13:40 | "<b>Digital Age Networking for Enterprises</b>"<br>[Bounkong chanthavi (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)<br>*Telecommunication Consulting Specialist, MKS*             |
-| 13:40 | 14:20 | "<b>Log Analysis: Definition, Methods, Benefits and More</b>"<br>Jedsada Thongkanluang (Tomcisco)<br>*Managing Director, TNET IT Solution* | 
+| 13:00 | 13:40 | <b>"Digital Age Networking for Enterprises"</b><br>[Bounkong chanthavi (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)<br>*Telecommunication Consulting Specialist, MKS*             |
+| 13:40 | 14:20 | <b>"Log Analysis: Definition, Methods, Benefits and More"</b><br>Jedsada Thongkanluang (Tomcisco)<br>*Managing Director, TNET IT Solution* | 
 | 14:20 | 14:35 | *<b>Coffee Break</b>*                                                                                                                      |
-| 14:35 | 15:15 | "<b>DevOps and the Public Cloud</b>"<br>Pawat Tanavikrankoon (Nut)<br>*CTO & Head of DevOps, AMN Corporation*                              |
+| 14:35 | 15:15 | <b>"DevOps and the Public Cloud"</b><br>Pawat Tanavikrankoon (Nut)<br>*CTO & Head of DevOps, AMN Corporation*                              |
 | 15:15 | 15:55 | <b>"Protect Your Data from Cyberattacks"</b><br>Wannasak Phuriwongwanich<br>*Solution Consultant,  Sangfor (Thailand)*                     |
-| 15:55 | 16:30 | "<b>Tech Stacks for Web App Development @ CSC</b>"<br>[Sengphachanh SIPHAXAI (Ham)](https://www.linkedin.com/in/sengphachanh-siphaxai-622652254/)<br>*Application Solution Architect, CSC*                       |
+| 15:55 | 16:30 | <b>"Tech Stacks for Web App Development @ CSC"</b><br>[Sengphachanh SIPHAXAI (Ham)](https://www.linkedin.com/in/sengphachanh-siphaxai-622652254/)<br>*Application Solution Architect, CSC*                       |
 | 16:30 | 16:45 | *<b>Lucky Draw & Closing</b>*                                                                                                              |
 
 <p align="right">
