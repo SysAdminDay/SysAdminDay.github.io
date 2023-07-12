@@ -8,12 +8,11 @@
 
 | From    |    To    |  Topic                                                |
 |:-------:|:--------:|:------------------------------------------------------|
-| 18:00   |  18:15   | <b>Opening</b> (& <b>Lucky Draw</b>)<br>-- [Maykin Warasart](https://fb.me/maeklong) & [iKNEX](https://www.iknex.or.th)|
-| 18:16   |  18:50   | "<b>TBD</b>"<br>--Xxx Xxx  |
-| 19:01   |  20:05   | "<b>TBD</b>"<br>--Xxx Xxx  |
-| 20:06   |  20:30   | "<b>TBD</b>"<br>--Xxx Xxx  |
-| 20:31   |  21:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
-| 21:01   |  21:05   | <b>Closing</b> (& <b>Lucky Draw</b>) |
+| 18:00   |  19:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 19:00   |  20:00   | <b>"Domain Name System as Code with Terraform"</b><br>---- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak)  |
+| 20:00   |  20:30   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 20:30   |  21:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 21:00   |  22:00   | <b>Closing</b> (& <b>Lucky Draw</b>) |
 
 #### More info: [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
