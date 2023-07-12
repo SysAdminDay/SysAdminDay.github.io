@@ -20,6 +20,7 @@
 
 ---
 
+* [SysAdminDay 2023](/2023/VTE), Live in Vientiane
 * [SysAdminDay 2022](/2022/VirtualEvent), Virtual Event
 * [SysAdminDay 2021](/2021/VirtualEvent), Virtual Event
 * [SysAdminDay 2020](/2020/VirtualEvent), Virtual Event
