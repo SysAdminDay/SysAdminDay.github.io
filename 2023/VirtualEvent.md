@@ -11,7 +11,7 @@
 | 18:00   |  18:30   | "<b>TBD</b>"<br>--Xxx Xxx  |
 | 18:30   |  19:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
 | 19:00   |  20:00   | <b>"Domain Name System as Code with Terraform"</b><br>---- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak)  |
-| 20:00   |  20:30   | "<b>TBD</b>"<br>--Xxx Xxx  |
+| 20:00   |  20:30   | "<b>TBD</b>"<br>---- Khun [Busarin Visitsilp](https://www.facebook.com/koy.loveking), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl) |
 | 20:30   |  21:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
 | 21:30   |  22:00   | "<b>TBD</b>"<br>--Xxx Xxx  |
 | ...   |  ...   | <b>Closing</b> |
