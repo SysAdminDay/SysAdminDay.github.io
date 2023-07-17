@@ -14,6 +14,7 @@
 | 20:00   |  20:30   | <b id="Busarin">TBD</b><br>---- Khun [Busarin Visitsilp](https://www.facebook.com/koy.loveking), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl) |
 | 20:30   |  21:00   | <b id="Wilasinee">"Transform your hybrid work model with SASE"</b><br>---- Khun [Wilasinee Rueangaram](https://www.facebook.com/belleeyyyy), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl)  |
 | 21:30   |  22:00   | <b>Waiting...</b>  |
+| 22:00   |  22:30   | <b>Waiting...</b>  |
 | ...   |  ...   | <b>Closing</b> |
 
 #### More info: [Maykin W.](https://line.me/R/ti/p/%40maykin)
