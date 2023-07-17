@@ -49,7 +49,7 @@
  
 ---
 
-* [SysAdminDay 2023](/2023/VirtualEvent), Virtual Event
+* SysAdminDay 2023, [Virtual Event](/2023/VirtualEvent)
 * [SysAdminDay 2022](/2022/VirtualEvent), Virtual Event
 * [SysAdminDay 2021](/2021/VirtualEvent), Virtual Event
 * [SysAdminDay 2020](/2020/VirtualEvent), Virtual Event
