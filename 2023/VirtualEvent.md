@@ -8,16 +8,16 @@
 
 | From    |    To    |  Topic                                                |
 |:-------:|:--------:|:------------------------------------------------------|
-| ...     |  ...     | <b>Waiting...</b>  |
-| 18:00   |  18:30   | <b>Waiting...</b>  |
-| 18:30   |  19:00   | <b>Waiting...</b>  |
+| ...     |  ...     | <b>Waiting...</b>                                     |
+| 18:00   |  18:30   | <b>Waiting...</b>                                     |
+| 18:30   |  19:00   | <b>Waiting...</b>                                     |
 | 19:00   |  20:00   | <b id="Damrongsak">"Domain Name System as Code with Terraform"</b><br>---- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak), HashiCorp Ambassador  |
 | 20:00   |  20:30   | <b id="Busarin">TBD</b><br>---- Khun [Busarin Visitsilp](https://www.facebook.com/koy.loveking), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl) |
 | 20:30   |  21:00   | <b id="Wilasinee">"Transform your hybrid work model with SASE"</b><br>---- Khun [Wilasinee Rueangaram](https://www.facebook.com/belleeyyyy), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl)  |
-| 21:30   |  22:00   | <b>Waiting...</b>  |
-| 22:00   |  22:30   | <b>Waiting...</b>  |
-| ...     |  ...     | <b>Waiting...</b>  |
-| ...     |  ...     | <b>Closing</b> |
+| 21:30   |  22:00   | <b>Waiting...</b>                                     |
+| 22:00   |  22:30   | <b>Waiting...</b>                                     |
+| ...     |  ...     | <b>Waiting...</b>                                     |
+| ...     |  ...     | <b>Closing</b>                                        |
 
 #### More info: [Maykin W.](https://line.me/R/ti/p/%40maykin)
 
