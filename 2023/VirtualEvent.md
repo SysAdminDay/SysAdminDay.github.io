@@ -8,11 +8,11 @@
 
 | From    |    To    |  Topic                                                |
 |:-------:|:--------:|:------------------------------------------------------|
-| ...     |  ...     | <b>Waiting...</b>                                     |
+| 17:45   |  18:00   | <b id="Maykin">Greeting</b><br>---- Maykin W., iKNEX (Thailand)   |
 | 18:00   |  18:30   | <b id="Sukkarin">"Let Vault encrypt that for you, encryption as a service by Vault"</b><br>---- Khun [Sukkarin Ruensukont](https://www.facebook.com/lifescompanion), Vault Certified HashiCorp Implementation Partner, [MFEC](https://www.mfec.co.th/) |
 | 18:30   |  19:00   | <b id="Arnan">TBD</b><br>---- Khun [Arnan Mindang](https://www.facebook.com/toomtam.cpe), [Opsta (Thailand) Co., Ltd.](https://www.opsta.co.th/)|
 | 19:00   |  20:00   | <b id="Damrongsak">"Domain Name System as Code with Terraform"</b><br>---- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak), HashiCorp Ambassador<br><br><img src="./Slide/Damrongsak.jpg"> |
-| 20:00   |  20:30   | <b id="Busarin">TBD</b><br>---- Khun [Busarin Visitsilp](https://www.facebook.com/koy.loveking), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl) |
+| 20:00   |  20:30   | <b id="Busarin">"Data Governance in Cyber Security"</b><br>---- Khun [Busarin Visitsilp](https://www.facebook.com/koy.loveking), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl) |
 | 20:30   |  21:00   | <b id="Wilasinee">"Transform your hybrid work model with SASE"</b><br>---- Khun [Wilasinee Rueangaram](https://www.facebook.com/belleeyyyy), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl)<br><br><img src="./Slide/Wilasinee.jpg"> |
 | 21:30   |  22:00   | <b>Waiting...</b>                                     |
 | 22:00   |  22:30   | <b>Waiting...</b>                                     |
