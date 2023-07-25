@@ -46,6 +46,7 @@
     <a href="https://ubslao.com" target="blank"><img src="Supporters/ubsl.webp" title="UBS LAO"></a><br><br>
     <img src="Supporters/CSC.png" title="CSC" width="318"><br><br>
     <a href="https://maipu.com" target="blank"><img src="Supporters/Maipu.png" title="Maipu"></a><br><br>
+    <a href="https://sangoma.com" target="blank"><img src="Supporters/sangoma.svg" title="Sangoma"></a><br><br>
     <a href="https://insti.la" target="blank"><img src="Supporters/instila.png" width="318" title="iNSTiLA Academy"></a>
 </p>
  
