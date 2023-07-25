@@ -24,7 +24,7 @@
 | 14:15 | 14:25 | *<b>Coffee Break</b>*                                                                                                                      |
 | 14:25 | 15:05 | <b>"DevOps and the Public Cloud"</b><br>[Pawat Tanavikrankoon (Nut)](https://www.facebook.com/NutNutNutNutNut)<br>*CTO & Head of DevOps, AMN Corporation*                              |
 | 15:05 | 15:45 | <b>"Protect Your Data from Cyberattacks"</b><br>[Wannasak Phuriwongwanich (Aerk)](https://www.facebook.com/aerkwannasak)<br>*Solution Consultant,  Sangfor (Thailand)*                     |
-| 15:45 | 16:15 | <b>"Empower your Digital Transformation"</b><br>Ryan, MAIPU |
+| 15:45 | 16:15 | <b>"Empower your Digital Transformation"</b><br>[Ryan Yang](https://www.linkedin.com/in/ryan-yang-443993128/)<br>*Regional Sales Manager, Maipu Communication Technology* |
 | 16:15 | 16:50 | <b>"Tech Stacks for Web App Development @ CSC"</b><br>[Sengphachanh SIPHAXAI (Ham)](https://www.linkedin.com/in/sengphachanh-siphaxai-622652254/)<br>*Application Solution Architect, CSC*                       |
 | 16:50 | 17:00 | *<b>Lucky Draw & Closing</b>*                                                                                                              |
 
