@@ -16,7 +16,7 @@
 | 09:30 | 09:40 | <b>Opening Keynote - "Building a Workforce for the Information Economy"</b><br>[Dr.Veerasith WONGKARN (Petch)](https://www.linkedin.com/in/veerasith/)<br>*Chief Revenue Officer, MKS & UBSL*|
 | 09:40 | 10:20 | <b>"Roadmap to Become a Network Specialist"</b><br>[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)<br>*Network & Cybersecurity Consulting Specialist, UBSL*   |
 | 10:20 | 10:40 | *<b>Coffee Break</b>*                                                                                                                      |
-| 10:40 | 11:20 | <b>"Identify and Solve Common Firewall Issues"</b><br>Saingeun KEOVANXAY<br>*IT Security Manager, Lao Airlines*                            |
+| 10:40 | 11:20 | <b>"Identify and Solve Common Firewall Issues"</b><br>[Saingeun KEOVANXAY](https://www.facebook.com/profile.php?id=100084744435960)<br>*IT Security Manager, Lao Airlines*                            |
 | 11:20 | 12:00 | <b>"Connecting to Applications and APIs"</b><br>[Aeknarin Sirisub](https://www.facebook.com/swodsman)<br>*Thai Programmer Association*                                          |
 | 12:00 | 13:00 | *<b>Lunch Break</b>*                                                                                                                       |
 | 13:00 | 13:35 | <b>"Digital Age Networking for Enterprises"</b><br>[Bounkong chanthavi (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)<br>*Telecommunication Consulting Specialist, MKS*             |
