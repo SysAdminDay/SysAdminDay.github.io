@@ -50,7 +50,7 @@
     <a href="https://vrcomm.net" target="blank"><img src="Supporters/vrcomm.png" width="318" title="VRCOMM"></a><br>
     <a href="https://sangfor.com" target="blank"><img src="Supporters/Sangfor.png" width="418" title="Sangfor"></a><br>
     <a href="https://insti.la" target="blank"><img src="Supporters/instila.png" width="318" title="iNSTiLA Academy"></a><br><br>
-    <a href="https://VolunteX.github.io" target="_blank"><img src="https://voluntex.github.io/Assets/Logo-Orange-Text-Blue.png" width="320" title="Voluntary eXchange of Thailand"></a>
+    <a href="https://VolunteX.github.io" target="_blank"><img src="Supporters/VolunteX.png" width="320" title="Voluntary eXchange of Thailand"></a>
 </p>
  
 ---
