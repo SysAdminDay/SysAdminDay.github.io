@@ -47,8 +47,8 @@
     <img src="Supporters/CSC.png" title="CSC" width="318"><br><br>
     <a href="https://maipu.com" target="blank"><img src="Supporters/Maipu.png" title="Maipu"></a><br>
     <a href="https://sangoma.com" target="blank"><img src="Supporters/sangoma.svg" width="318" title="Sangoma"></a><br>
-    <a href="https://vrcomm.net" target="blank"><img src="Supporters/vrcomm.png" width="318" title="VRCOMM"></a><br>
-    <a href="https://sangfor.com" target="blank"><img src="Supporters/Sangfor.png" width="318" title="Sangfor"></a><br>
+    <a href="https://vrcomm.net" target="blank"><img src="Supporters/vrcomm.png" width="318" title="VRCOMM"></a><br><br>
+    <a href="https://sangfor.com" target="blank"><img src="Supporters/Sangfor.png" width="318" title="Sangfor"></a><br><br>
     <a href="https://insti.la" target="blank"><img src="Supporters/instila.png" width="318" title="iNSTiLA Academy"></a><br><br>
     <a href="https://VolunteX.github.io" target="_blank"><img src="Supporters/VolunteX.png" width="320" title="Voluntary eXchange of Thailand"></a>
 </p>
