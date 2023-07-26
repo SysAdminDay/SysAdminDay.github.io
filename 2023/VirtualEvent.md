@@ -14,7 +14,7 @@
 | 19:00   |  20:00   | <b id="Damrongsak">"Domain Name System as Code with Terraform"</b><br>---- Khun [Damrongsak Reetanon](https://www.facebook.com/damrongsak), HashiCorp Ambassador<br><br><img src="./Slide/Damrongsak.jpg"> |
 | 20:00   |  20:30   | <b id="Busarin">"Data Governance in Cyber Security"</b><br>---- Khun [Busarin Visitsilp](https://www.facebook.com/koy.loveking), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl)<br><br><img src="./Slide/Busarin.jpg"> |
 | 20:30   |  21:00   | <b id="Wilasinee">"Transform your hybrid work model with SASE"</b><br>---- Khun [Wilasinee Rueangaram](https://www.facebook.com/belleeyyyy), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl)<br><br><img src="./Slide/Wilasinee.jpg"> |
-| 21:30   |  22:00   | <b>Waiting...</b>                                     |
+| 21:30   |  22:00   | <b id="Narate">"สงครามเลข 6 - APISIX vs. K6 (API Gateway Load Testing)"</b><br>---- Khun [Narate Ketram](https://www.facebook.com/koonnarate), Dome Cloud<br><br><img src="./Slide/Narate.jpg">                                    |
 | 22:00   |  22:30   | <b>Waiting...</b>                                     |
 | ...     |  ...     | <b>Waiting...</b>                                     |
 | ...     |  ...     | <b>Closing</b>                                        |
