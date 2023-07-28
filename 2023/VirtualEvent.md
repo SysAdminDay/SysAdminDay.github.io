@@ -12,7 +12,7 @@
 | 20:30   |  21:00   | <b id="Wilasinee">"Transform your hybrid work model with SASE"</b> [<b>[Video]</b>](https://youtu.be/rErUob1eXvQ)<br>---- Khun [Wilasinee Rueangaram](https://www.facebook.com/belleeyyyy), [SEC-GIRL](https://www.facebook.com/InfoSecThaiGirl)<br><br><img src="./Slide/Wilasinee.jpg">                                                     |    
 | 21:00   |  22:00   | <b id="Narate">"สงครามเลข 6 - APISIX vs. K6 (API Gateway Load Testing)"</b> [<b>[Video]</b>](https://youtu.be/1a3LPNS_2NY)<br>---- Khun [Narate Ketram](https://www.facebook.com/koonnarate), [DomeCloud](https://dome.cloud/)<br><br><img src="./Slide/Narate.png">                                                                           |    
 
-#### More info: [Maykin W.](https://line.me/R/ti/p/%40maykin)
+#### More info: [Maykin Warasart](https://line.me/R/ti/p/%40maykin)
 
 ---
 
