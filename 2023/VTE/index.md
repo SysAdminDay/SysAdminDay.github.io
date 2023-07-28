@@ -8,6 +8,13 @@
 </p>
 <br>
 
+<br>
+<p align="center">
+    <img src="./Group.JPG" width="100%" title="SysAdmin Day 2023 - Live in Vientiane">
+</p>
+<br>
+
+
 [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20230728T020000Z%2F20230728T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=ICTC ສູນການຝຶກອົບຮົມຮ່ວມມືສາກົນ&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
 [ <a target="_blank" href="./SysAdminDay2023-VTE.ics"><b>iCalendar</b></a> ]
 
