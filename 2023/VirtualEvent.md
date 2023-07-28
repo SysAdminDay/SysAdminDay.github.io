@@ -2,12 +2,6 @@
 # **(*Friday*) July 28, 2023**
 ![](https://iknexth.github.io/assets/images/SysAdminDay.jpg "SysAdminDay2023")
 
-<p align="center">
-    <a href="../Assets/SysAdminDay-2023_bigger.png"><img src="../Assets/SysAdminDay-2023.png" width="50%" title="SysAdmin Day 2023"></a>
-</p>
-
-
-
 | From    |    To    |  Topic                                                                                                                                                                                                                                                                                         |    
 |:-------:|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|    
 | 17:45   |  18:00   | <b id="Maykin">Greeting</b><br>---- [Maykin Warasart](https://mvp.in.th), [iKNEX (Thailand)](https://iknex.or.th)                                                                                                                                                                              |    
