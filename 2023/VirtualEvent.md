@@ -1,6 +1,9 @@
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2023***
 # **(*Friday*) July 28, 2023**
-![](https://iknexth.github.io/assets/images/SysAdminDay.jpg "SysAdminDay2023")
+
+<p align="center">
+    <a href="../Assets/SysAdminDay-2023.png"><img src="../Assets/SysAdminDay-2023.png" width="50%" title="SysAdmin Day 2023 (#VirtualEvent)"></a>
+</p>
 
 | From    |    To    |  Topic                                                                                                                                                                                                                                                                                         |    
 |:-------:|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|    
