@@ -11,7 +11,7 @@
     Waiting...
 </p>
 
-[ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T020000Z%2F20240726T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=ICTC ສູນການຝຶກອົບຮົມຮ່ວມມືສາກົນ&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
+[ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T020000Z%2F20240726T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
 [ <a target="_blank" href="./SysAdminDay2024-VTE.ics"><b>iCalendar</b></a> ]
 
 | From  |  To   |  Topic                                                                                                                                     |
@@ -20,7 +20,7 @@
 | 16:50 | 17:00 | *<b>Lucky Draw & Closing</b>*                                                                                                              |
 
 <p align="right">
-    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T020000Z%2F20240726T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=ICTC ສູນການຝຶກອົບຮົມຮ່ວມມືສາກົນ&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T020000Z%2F20240726T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
     [ <a target="_blank" href="./SysAdminDay2024-VTE.ics"><b>iCalendar</b></a> ]
 </p>
 
