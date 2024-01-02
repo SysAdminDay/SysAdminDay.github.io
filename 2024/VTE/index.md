@@ -28,7 +28,7 @@
 + Maykin [(LiNE)](https://line.me/R/ti/p/%40maykin)
 + Jack [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
 
-<a href="../../2023/VTE/Group.JPG" target="_parent"><img src="../../2023/VTE/Group.JPG" width="50%" title="SysAdmin Day 2023 - Live in Vientiane"></a>
+<a href="../../2023/VTE/Group.JPG" target="_parent"><img src="../../2023/VTE/Group.JPG" title="SysAdmin Day 2023 - Live in Vientiane"></a>
 
 #### Our supporter(s)
 
