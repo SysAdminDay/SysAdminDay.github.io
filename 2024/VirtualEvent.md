@@ -2,7 +2,7 @@
 # **(*Friday*) July 26, 2024**
 
 <p align="center">
-    <!-- <a href="../Assets/SysAdminDay-2023.png"><img src="../Assets/SysAdminDay-2023.png" width="50%" title="SysAdmin Day 2023 (#VirtualEvent)"></a> -->
+    <a href="../Assets/SysAdminDay-2024.png"><img src="../Assets/SysAdminDay-2024.png" width="50%" title="SysAdmin Day 2024 (#VirtualEvent)"></a>
     Waiting...
 </p>
 
