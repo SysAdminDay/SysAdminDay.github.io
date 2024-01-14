@@ -1,4 +1,4 @@
-## System Administrator Appreciation Day ***2024*** - Live in Vientiane
+## System Administrator Appreciation Day ***2024*** - Live in Vientiane : Into the IT-Verse 
 # **(*Friday*) July 26, 2024**
 ### Location : TBD
 

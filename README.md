@@ -1,7 +1,7 @@
 ## SysAdminDay
 
 + [Virtual Event - 2024](/2024/VirtualEvent) (July 26, 2024)
-+ [Live in Vientiane - 2024](/2024/VTE/) (July 26, 2024)
++ [Live in Vientiane - 2024](/2024/VTE/) : Into the IT-Verse (July 26, 2024)
 + [Virtual Event - 2023](/2023/VirtualEvent) (July 28, 2023)
 + [Live in Vientiane - 2023](/2023/VTE/) (July 28, 2023)
 + [Virtual Event - 2022](/2022/VirtualEvent) (July 29, 2022)
