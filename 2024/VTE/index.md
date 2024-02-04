@@ -1,4 +1,4 @@
-## System Administrator Appreciation Day ***2024*** - Live in Vientiane : Multiverse of IT 
+## SysAdmin Day ***2024*** - Live in Vientiane : Multiverse of IT 
 # **(*Friday*) July 26, 2024**
 ### Location : TBD
 
