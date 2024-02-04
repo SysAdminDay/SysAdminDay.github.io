@@ -30,7 +30,7 @@
 + Jack [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
 
 <b>Live in Vientiane (2023)</b>
-<a href="../../2023/VTE/Group.JPG" target="_parent"><img src="../../2023/VTE/Group.JPG" title="SysAdmin Day 2023 - Live in Vientiane"></a>
+<a href="../../2023/VTE/Group.JPG" target="_parent"><img src="../../2023/VTE/Group-wide.JPG" title="SysAdmin Day 2023 - Live in Vientiane"></a>
 
 #### Our supporter(s)
 
