@@ -17,7 +17,7 @@
 | From  |  To   |  Topic                                                                                                                                     |
 |:-----:|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 | 09:15 | *<b>Registration & Lucky Draw</b>*                                                                                                         |
-| xx:xx | xx:xx | *...*                                                                                                              |
+| xx:xx | xx:xx | *<b>The risk of not having administrative control.</b>*<br>*Angkarn Pummarin* (Triple Nine Professional)                                                                                                              |
 | 16:50 | 17:00 | *<b>Lucky Draw & Closing</b>*                                                                                                              |
 
 <p align="right">
