@@ -23,7 +23,7 @@
 | 10:40 | 11:20 | <b>"Identify and Solve Common Firewall Issues"</b><br>[Saingeun KEOVANXAY](https://www.facebook.com/profile.php?id=100084744435960)<br>*IT Security Manager, Lao Airlines*                            |
 | 11:20 | 12:00 | <b>"Connecting to Applications and APIs"</b><br>[Aeknarin Sirisub](https://www.facebook.com/swodsman)<br>*Thai Programmer Association*                                          |
 | 12:00 | 13:00 | *<b>Lunch Break</b>*                                                                                                                       |
-| 13:00 | 13:35 | <b>"Digital Age Networking for Enterprises"</b><br>[Bounkong chanthavi (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)<br>*Telecommunication Consulting Specialist, MKS*             |
+| 13:00 | 13:35 | <b>"Digital Age Networking for Enterprises"</b><br>[Bounkong CHANTHAVI (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)<br>*Telecommunication Consulting Specialist, MKS*             |
 | 13:35 | 14:15 | <b>"Log Analysis: Definition, Methods, Benefits and More"</b><br>[Jedsada Thongkanluang (Tomcisco)](https://www.facebook.com/tomcisco)<br>*Managing Director, TNET IT Solution* | 
 | 14:15 | 14:25 | *<b>Coffee Break</b>*                                                                                                                      |
 | 14:25 | 15:05 | <b>"DevOps and the Public Cloud"</b><br>[Pawat Tanavikrankoon (Nut)](https://www.facebook.com/NutNutNutNutNut)<br>*CTO & Head of DevOps, AMN Corporation*                              |
