@@ -17,7 +17,9 @@
 | From  |  To   |  Topic                                                                                                                                     |
 |:-----:|:-----:|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 | 09:15 | *<b>Registration & Lucky Draw</b>*                                                                                                         |
-| xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin* (TNET IT Solution)                                                                                                              |
+| xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*Souksawat SOULIVANH (Jack)* (UBSL)                                                 |
+| xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*Bounkong chanthavi (Boy)* (MKS)                                                                 |
+| xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)* (TNET IT Solution)                                    |
 | 16:50 | 17:00 | *<b>Lucky Draw & Closing</b>*                                                                                                              |
 
 <p align="right">
