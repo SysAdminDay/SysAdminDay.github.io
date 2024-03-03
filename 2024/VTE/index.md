@@ -14,16 +14,16 @@
 [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T020000Z%2F20240726T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
 [ <a target="_blank" href="./SysAdminDay2024-VTE.ics"><b>iCalendar</b></a> ]
 
-| From  |  To   |  Topic                                                                                                                                    |
-|:-----:|:-----:|:------------------------------------------------------------------------------------------------------------------------------------------|
-| 08:45 | 09:15 | *<b>Registration </b>*                                                                                                                    |
-| 09:15 | 09:30 | *<b>Opening Speech</b>*<br>--*TBD*                                                                                                        |
-| xx:xx | xx:xx | *<b>Easy ways to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*Maykin Warasart*<br>--- Founding President, iKNEX (Thailand)<br>--- Microsoft MVP (Security)                                     |
-| xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*Souksawat SOULIVANH (Jack)*<br> --- Network & Cybersecurity Consulting Specialist, UBSL          |
-| xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*Bounkong CHANTHAVI (Boy)*<br> --- Telecommunication Consulting Specialist, MKS                                                                 |
-| xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- TNET IT Solution                                    |
-| xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*Representative* from CSC                                                      |
-| 16:50 | 17:00 | *<b>Closing</b>*                                                                                                                          |
+| From  |  To   |  Topic                                                                                                                                                                                               |
+|:-----:|:-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 08:45 | 09:15 | *<b>Registration </b>*                                                                                                                                                                               |
+| 09:15 | 09:30 | *<b>Opening Speech</b>*<br>--*TBD*                                                                                                                                                                   |
+| xx:xx | xx:xx | *<b>Easy ways to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*Maykin Warasart*<br>--- Founding President, iKNEX (Thailand)<br>--- Microsoft MVP (Security) |
+| xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*Souksawat SOULIVANH (Jack)*<br> --- Network & Cybersecurity Consulting Specialist, UBSL                                                      |
+| xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*Bounkong CHANTHAVI (Boy)*<br> --- Telecommunication Consulting Specialist, MKS                                                                            |
+| xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- TNET IT Solution                                                                                        |
+| xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*Representative* from CSC                                                                                                                 |
+| 16:50 | 17:00 | *<b>Closing</b>*                                                                                                                                                                                     |
 
 <p align="right">
     [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T020000Z%2F20240726T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
