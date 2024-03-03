@@ -19,7 +19,7 @@
 | 08:45 | 09:15 | *<b>Registration </b>*                                                                                                                    |
 | 09:15 | 09:30 | *<b>Opening Speech</b>*<br>--*TBD*                                                                                                        |
 | xx:xx | xx:xx | *<b>Keep improving (y)ourself (at a low cost) w/ IT Cert(s)</b>*<br>--*Maykin Warasart*, Microsoft MVP (Security)                                     |
-| xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*Souksawat SOULIVANH (Jack)*<br> ----UBSL                                                 |
+| xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*Souksawat SOULIVANH (Jack)*<br> --- UBSL                                                 |
 | xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*Bounkong CHANTHAVI (Boy)*, MKS                                                                 |
 | xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*, TNET IT Solution                                    |
 | xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*Representative* from CSC                                                      |
