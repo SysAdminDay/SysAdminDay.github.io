@@ -18,7 +18,7 @@
 |:-----:|:-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:45 | 09:15 | *<b>Registration </b>*                                                                                                                                                                               |
 | 09:15 | 09:30 | *<b>Opening Speech</b>*<br>--*TBD*                                                                                                                                                                   |
-| xx:xx | xx:xx | *<b>Easy ways to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*Maykin Warasart*<br>--- Founding President, iKNEX (Thailand)<br>--- Microsoft MVP (Security) |
+| xx:xx | xx:xx | *<b>Easy way(s) to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*Maykin Warasart*<br>--- Founding President, iKNEX (Thailand)<br>--- Microsoft MVP (Security) |
 | xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*Souksawat SOULIVANH (Jack)*<br> --- Network & Cybersecurity Consulting Specialist, UBSL                                                      |
 | xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*Bounkong CHANTHAVI (Boy)*<br> --- Telecommunication Consulting Specialist, MKS                                                                            |
 | xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- TNET IT Solution                                                                                        |
