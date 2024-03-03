@@ -21,7 +21,7 @@
 | xx:xx | xx:xx | *<b>Keep improving (y)ourself to boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*Maykin Warasart*, Microsoft MVP (Security)                                     |
 | xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*Souksawat SOULIVANH (Jack)*<br> --- Network & Cybersecurity Consulting Specialist, UBSL          |
 | xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*Bounkong CHANTHAVI (Boy)*<br> --- Telecommunication Consulting Specialist, MKS                                                                 |
-| xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*, TNET IT Solution                                    |
+| xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- TNET IT Solution                                    |
 | xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*Representative* from CSC                                                      |
 | 16:50 | 17:00 | *<b>Closing</b>*                                                                                                                          |
 
