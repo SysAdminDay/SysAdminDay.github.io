@@ -22,7 +22,7 @@
 | xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)*<br> --- Verisette                                                       |
 | xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*[Bounkong CHANTHAVI (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)*<br> --- Telecommunication Consulting Specialist, MKS                                    |
 | xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- Deputy Managing Director, TNET IT Solution                                                                         |
-| xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*Sayphet KEOVANXAY*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
+| xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*[Sayphet KEOVANXAY](https://www.linkedin.com/in/sayphet-keovanxay-aa1649254/)*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
 | 16:50 | 17:00 | *<b>Closing</b>*                                                                                                                                                                                                |
 
 <p align="right">
