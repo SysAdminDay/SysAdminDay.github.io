@@ -69,5 +69,5 @@
     + Microsoft Certified Educator (MCE)
     + Google Certified Educator (GCE)
     + CIW Certified Instructor (CIW-CI)
-    + CertNEXUS Authorized Instructor (CAI)
+    + CertNEXUS Authorized Instructor ([CAI](https://www.credential.net/bc9d4b9c-5e89-44b9-952a-b718c8f6bfc3))
     + Modern Classroom Certified Trainer ([MCCT®](https://www.credential.net/89377485-8685-470c-9362-ae7acbddb323#gs.5p47k8)) 
