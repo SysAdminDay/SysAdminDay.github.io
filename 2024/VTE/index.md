@@ -75,4 +75,6 @@
     + Google Certified Educator ([GCE](https://www.credential.net/e340e8be-28bc-43fd-81e1-6b684234bdff))
     + CIW Certified Instructor ([CIW-CI](https://mayk.in/cert/CIW-CI.html))
     + CertNEXUS Authorized Instructor ([CAI](https://www.credential.net/bc9d4b9c-5e89-44b9-952a-b718c8f6bfc3))
-    
+    + GenMentor (JSD) #5 – Generation Thailand
+    + ETDA Digital Citizen (EDC) Trainer
+    + Thai Media Fund - Media Literacy Expert (MeLEx)
