@@ -14,12 +14,14 @@
 
 | From  |  To   |  Topic                                                                                                                                                                                                          |
 |:-----:|:-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 08:45 | 09:15 | *<b>Registration </b>*                                                                                                                                                                                          |
+| 08:45 | 09:15 | *<b>Registration & Luck Draw</b>*                                                                                                                                                                                          |
 | 09:15 | 09:30 | *<b>Opening Speech</b>*<br>--*TBD*                                                                                                                                                                              |
-| xx:xx | xx:xx | *<b>Easy way(s) to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*[Maykin Warasart](https://mayk.in/)*<br>--- Founding President, iKNEX<br>--- Microsoft MVP (Security) |
-| xx:xx | xx:xx | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)*<br> --- Verisette                                                       |
-| xx:xx | xx:xx | *<b>Benefits of Golf for IT Pro</b>*<br>--*[Bounkong CHANTHAVI (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)*<br> --- Telecommunication Consulting Specialist, MKS                                    |
-| xx:xx | xx:xx | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- Deputy Managing Director, TNET IT Solution                                                                         |
+| 09:30 | 10:00 | *<b>Easy way(s) to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*[Maykin Warasart](https://mayk.in/)*<br>--- Founding President, iKNEX<br>--- Microsoft MVP (Security) |
+| 10:00 | 10:30 | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)*<br> --- Verisette                                                       |
+| 10:30 | 10:45 | *<b>Break</b>*|
+| 10:45 | 11:15 | *<b>Benefits of Golf for IT Pro</b>*<br>--*[Bounkong CHANTHAVI (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)*<br> --- Telecommunication Consulting Specialist, MKS                                    |
+| 11:15 | 11:45 | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- Deputy Managing Director, TNET IT Solution                                                                         |
+| 11:45 | 12:00 | *<b>Lucky Draw</b>*
 | xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*[Sayphet KEOVANXAY](https://www.linkedin.com/in/sayphet-keovanxay-aa1649254/)*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
 | 16:50 | 17:00 | *<b>Closing</b>*                                                                                                                                                                                                |
 
