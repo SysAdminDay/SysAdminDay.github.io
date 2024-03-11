@@ -25,11 +25,11 @@
 | 12:00 | 13:30 | *<b>Lunch Break</b>* |
 | 13:30 | 13:45 | *<b>Lucky Draw by Sponsor</b>* |
 | 13:45 | 14:15 | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*[Sayphet KEOVANXAY](https://www.linkedin.com/in/sayphet-keovanxay-aa1649254/)*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
-| 14:15 | 14:45 | ... |
-| 14:45 | 15:15 | ... |
+| 14:15 | 14:45 | TBA |
+| 14:45 | 15:15 | TBA |
 | 15:15 | 15:30 | *<b>Break</b>*|
-| 15:30 | 15:45 | ... |
-| 15:45 | 16:15 | ... |
+| 15:30 | 15:45 | TBA |
+| 15:45 | 16:15 | TBA |
 | 16:15 | 16:30 | *<b>Closing &amp; Luck Draw</b>*                                                                                                                                                                                                |
 
 <p align="right">
