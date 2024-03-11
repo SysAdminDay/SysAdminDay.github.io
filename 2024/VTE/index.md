@@ -56,3 +56,11 @@
 * [SysAdminDay 2020](/2020/VirtualEvent), Virtual Event
 * [SysAdminDay 2019](/2019/Laos) at Lao PDR
 * [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
+
+#### Free Consultation (ToT/TtT) Session
++ Training of Trainers (ToT) / Train the Trainers (TtT)
++ A free consultation is available if you (who want to be a speaker at this event) need to boost your confidence in delivering your topic smoothly.
++ By Mr. Maykin Warasart
+    + xx
+    + xx
+    + xx
