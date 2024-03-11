@@ -63,7 +63,7 @@
 <a name="consultant"></a>
 #### Free Consultation (ToT/TtT) Session
 + Training of Trainers (ToT) / Train the Trainers (TtT)
-+ Maykin Warasart
++ By Mr. Maykin Warasart
     + CompTIA Certified Technical Trainer (CTT+)
     + Microsoft Certified Trainer (MCT)
     + Microsoft Certified Educator (MCE)
