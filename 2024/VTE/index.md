@@ -21,9 +21,16 @@
 | 10:30 | 10:45 | *<b>Break</b>*|
 | 10:45 | 11:15 | *<b>Benefits of Golf for IT Pro</b>*<br>--*[Bounkong CHANTHAVI (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)*<br> --- Telecommunication Consulting Specialist, MKS                                    |
 | 11:15 | 11:45 | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- Deputy Managing Director, TNET IT Solution                                                                         |
-| 11:45 | 12:00 | *<b>Lucky Draw</b>*
-| xx:xx | xx:xx | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*[Sayphet KEOVANXAY](https://www.linkedin.com/in/sayphet-keovanxay-aa1649254/)*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
-| 16:50 | 17:00 | *<b>Closing</b>*                                                                                                                                                                                                |
+| 11:45 | 12:00 | *<b>Lucky Draw by Sponsor</b>* |
+| 12:00 | 13:30 | *<b>Lunch Break</b>* |
+| 13:30 | 13:45 | *<b>Lucky Draw by Sponsor</b>* |
+| 13:45 | 14:15 | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*[Sayphet KEOVANXAY](https://www.linkedin.com/in/sayphet-keovanxay-aa1649254/)*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
+| 14:15 | 14:45 | ... |
+| 14:45 | 15:15 | ... |
+| 15:15 | 15:30 | *<b>Break</b>*|
+| 15:30 | 15:45 | ... |
+| 15:45 | 16:15 | ... |
+| 16:15 | 16:30 | *<b>Closing &amp; Luck Draw</b>*                                                                                                                                                                                                |
 
 <p align="right">
     [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T020000Z%2F20240726T093000Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202023%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2023%2FVTE"><b>Google Calendar</b></a> ]
