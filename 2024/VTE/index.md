@@ -59,12 +59,15 @@
 * [SysAdminDay 2019](/2019/Laos) at Lao PDR
 * [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
 
+
 <a name="consultant"></a>
 #### Free Consultation (ToT/TtT) Session
 + Training of Trainers (ToT) / Train the Trainers (TtT)
-+ By Mr. Maykin Warasart
++ Maykin Warasart
     + CompTIA Certified Technical Trainer (CTT+)
     + Microsoft Certified Trainer (MCT)
     + Microsoft Certified Educator (MCE)
     + Google Certified Educator (GCE)
     + CIW Certified Instructor (CIW-CI)
+    + CertNEXUS Authorized Instructor (CAI)
+    + Modern Classroom Certified Trainer (MCCT) 
