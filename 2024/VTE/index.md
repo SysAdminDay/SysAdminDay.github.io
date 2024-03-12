@@ -20,7 +20,7 @@
 | 10:00 | 10:30 | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)*<br> --- Verisette                                                       |
 | 10:30 | 10:45 | *<b>Break</b>*|
 | 10:45 | 11:15 | *<b>Benefits of Golf for IT Pro</b>*<br>--*[Bounkong CHANTHAVI (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)*<br> --- Telecommunication Consulting Specialist, MKS                                    |
-| 11:15 | 11:45 | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- Deputy Managing Director, TNET IT Solution                                                                         |
+| 11:15 | 11:45 | *<b>The risk of not having administrative control</b>*<br>--*[Angkarn Pummarin (Man)](https://www.facebook.com/in8l00p)*<br> --- Deputy Managing Director, TNET IT Solution                                                                         |
 | 11:45 | 12:00 | *<b>Lucky Draw by Sponsor</b>* |
 | 12:00 | 13:00 | *<b>Lunch Break</b>* |
 | 13:00 | 13:15 | *<b>Lucky Draw by Sponsor</b>* |
