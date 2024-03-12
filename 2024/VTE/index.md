@@ -4,7 +4,7 @@
 
 <p align="center">
     <!-- <a href="../../Assets/SysAdminDay-2023-VTE-White.png"><img src="../../Assets/SysAdminDay-2023-VTE-Black.png" width="50%" title="SysAdmin Day 2023 - Live in Vientiane"></a> -->
-    **Calling for Speaker(s)**
+    !!! <b>*Calling for Speaker(s)*</b> !!!
 </p>
 
 + *[A free consultation is available if you (who want to be a speaker at this event) need to boost your confidence in delivering your topic smoothly.](#consultant)*
