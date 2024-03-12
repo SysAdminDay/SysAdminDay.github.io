@@ -22,8 +22,9 @@
 | 10:45 | 11:15 | *<b>Benefits of Golf for IT Pro</b>*<br>--*[Bounkong CHANTHAVI (Boy)](https://www.linkedin.com/in/bounkong-chanthavi/)*<br> --- Telecommunication Consulting Specialist, MKS                                    |
 | 11:15 | 11:45 | *<b>The risk of not having administrative control</b>*<br>--*Angkarn Pummarin (Man)*<br> --- Deputy Managing Director, TNET IT Solution                                                                         |
 | 11:45 | 12:00 | *<b>Lucky Draw by Sponsor</b>* |
-| 12:00 | 13:30 | *<b>Lunch Break</b>* |
-| 13:30 | 13:45 | *<b>Lucky Draw by Sponsor</b>* |
+| 12:00 | 13:00 | *<b>Lunch Break</b>* |
+| 13:00 | 13:15 | *<b>Lucky Draw by Sponsor</b>* |
+| 13:15 | 13:40 | *<b>TBA</b>* |
 | 13:45 | 14:15 | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*[Sayphet KEOVANXAY](https://www.linkedin.com/in/sayphet-keovanxay-aa1649254/)*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
 | 14:15 | 14:45 | *<b>TBA</b>* |
 | 15:15 | 15:30 | *<b>Break</b>*|
