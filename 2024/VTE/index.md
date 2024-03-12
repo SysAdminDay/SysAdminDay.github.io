@@ -27,7 +27,7 @@
 | 13:45 | 14:15 | *<b>User Experience (UX) and Why Does It Matter?</b>*<br>--*[Sayphet KEOVANXAY](https://www.linkedin.com/in/sayphet-keovanxay-aa1649254/)*<br> --- Sr. Business Analyst & Product Owner, CSC Lao                                                                            |
 | 14:15 | 14:45 | *<b>TBA</b>* |
 | 15:15 | 15:30 | *<b>Break</b>*|
-| 15:30 | 16:30 | *<b>IT Career Clinic</b>*<br>-Included Topics: <br>---Software Development<br>---Software Testing<br>---Business/System Analysis<br>---Project Management<br>---Cybersecurity<br>---IT Infrastructure<br>-Panelist(s)<br> ---*[Sengphachanh SIPHAXAI (Ham)](https://www.linkedin.com/in/sengphachanh-siphaxai-622652254/)*, Software Development Specialist, CSC Lao<br>---*[Jedsada Thongkanluang (Tom)](https://www.facebook.com/tomcisco)*, Managing Director, TNET IT Solution<br>---*TBA*<br>---*TBA*<br>---*TBA*<br>---*TBA*|
+| 15:30 | 16:30 | *<b>IT Career Clinic</b>*<br>- <b>*Included Topics:*</b> <br>---Software Development<br>---Software Testing<br>---Business/System Analysis<br>---Project Management<br>---Cybersecurity<br>---IT Infrastructure<br>- <b>*Panelist(s)*</b><br> ---*[Sengphachanh SIPHAXAI (Ham)](https://www.linkedin.com/in/sengphachanh-siphaxai-622652254/)*, Software Development Specialist, CSC Lao<br>---*[Jedsada Thongkanluang (Tom)](https://www.facebook.com/tomcisco)*, Managing Director, TNET IT Solution<br>---*TBA*<br>---*TBA*<br>---*TBA*<br>---*TBA*|
 | 16:30 | 16:45 | *<b>Closing &amp; Luck Draw</b>*                                                                                                                                                                                                |
 
 <p align="right">
