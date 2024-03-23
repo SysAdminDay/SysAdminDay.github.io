@@ -3,6 +3,7 @@
 
 <p align="center">
     <a href="../Assets/SysAdminDay-2024.png"><img src="../Assets/SysAdminDay-2024.png" width="50%" title="SysAdmin Day 2024 (#VirtualEvent)"></a>
+    <br>
     Waiting...
 </p>
 
