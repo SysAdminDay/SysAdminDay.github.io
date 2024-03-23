@@ -78,4 +78,4 @@
     + CertNEXUS Authorized Instructor ([CAI](https://www.credential.net/bc9d4b9c-5e89-44b9-952a-b718c8f6bfc3))
     + GenMentor (JSD) #5 – Generation Thailand
     + ETDA Digital Citizen (EDC) Trainer
-    + Thai Media Fund - Media Literacy Expert (MeLEx)
+    + Media Literacy Expert (MeLEx) - Thai Media Fund
