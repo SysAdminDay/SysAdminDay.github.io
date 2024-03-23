@@ -15,7 +15,7 @@
 | From  |  To   |  Topic                                                                                                                                                                                                          |
 |:-----:|:-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:45 | 09:15 | *<b>Registration &amp; Luck Draw</b>*                                                                                                                                                                                          |
-| 09:15 | 09:30 | *<b>Opening Speech</b>*<br>--*TBA*                                                                                                                                                                              |
+| 09:15 | 09:30 | *<b>Opening Remarks</b>*<br>--*TBA*                                                                                                                                                                              |
 | 09:30 | 10:00 | *<b>Easy way(s) to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*[Maykin Warasart](https://mayk.in/)*<br>--- [iNSTiLA](https://insti.la/)<br>--- Microsoft MVP (Security) |
 | 10:00 | 10:30 | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)*<br> --- Verisette                                                       |
 | 10:30 | 10:45 | *<b>Coffee Break</b>*|
