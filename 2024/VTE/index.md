@@ -14,7 +14,7 @@
 
 | From  |  To   |  Topic                                                                                                                                                                                                          |
 |:-----:|:-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 08:45 | 09:15 | *<b>Registration &amp; Luck Draw</b>*                                                                                                                                                                                          |
+| 08:45 | 09:15 | *<b>Registration &amp; Lucky Draw</b>*                                                                                                                                                                                          |
 | 09:15 | 09:30 | *<b>Opening Remarks</b>*<br>--*TBA*                                                                                                                                                                              |
 | 09:30 | 10:00 | *<b>Easy way(s) to improve (y)ourself &amp; boost (y)our career(s) at a low cost w/ IT Cert(s)</b>*<br>--*[Maykin Warasart](https://mayk.in/)*<br>--- [iNSTiLA](https://insti.la/)<br>--- Microsoft MVP (Security) |
 | 10:00 | 10:30 | *<b>How Bodybuilding made me a better IT Pro</b>*<br>--*[Souksawat SOULIVANH (Jack)](https://www.linkedin.com/in/souksawat-soulivanh/)*<br> --- Verisette                                                       |
@@ -29,7 +29,7 @@
 | 14:15 | 14:45 | *<b>TBA</b>* |
 | 15:15 | 15:30 | *<b>Coffee Break</b>*|
 | 15:30 | 16:30 | *<b>IT Career Clinic</b>*<br>- <b>*Included Topics:*</b> Software Development, Software Testing, Business/System Analysis, Solution Architecture, Design Thingking, Project Management, Generative AI, Cybersecurity, IT Infrastructure<br>- <b>*Panelist:*</b><br> ---*[Sengphachanh SIPHAXAI (Ham)](https://www.linkedin.com/in/sengphachanh-siphaxai-622652254/)*, Software Development Specialist, CSC Lao<br>---*[Jedsada Thongkanluang (Tom)](https://www.facebook.com/tomcisco)*, Managing Director, TNET IT Solution<br>---*[Maykin Warasart](https://www.facebook.com/maeklong/)*, Chief Technology Evangelist, MKS & UBSL<br>---*[Narate Ketram](https://www.facebook.com/koonnarate)*, DomeCloud<br>---*TBA*<br>---*TBA*|
-| 16:30 | 16:45 | *<b>Closing &amp; Luck Draw</b>*                                                                                                                                                                                                |
+| 16:30 | 16:45 | *<b>Closing &amp; Lucky Draw</b>*                                                                                                                                                                                                |
 
 <p align="right">
     [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T014500Z%2F20240726T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202024%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2024%2FVTE"><b>Google Calendar</b></a> ]
