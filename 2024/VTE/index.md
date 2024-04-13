@@ -46,7 +46,7 @@
 | 16:30 | 16:45 | *<b>Closing &amp; Lucky Draw</b>*                          |
 
 <p align="right">
-    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240727T014500Z%2F20240727T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20(Day+1)%202024%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2024%2FVTE"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240727T014500Z%2F20240727T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20(Day%2B1)%202024%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2024%2FVTE"><b>Google Calendar</b></a> ]
     [ <a target="_blank" href="./SysAdminDay+12024-VTE.ics"><b>iCalendar</b></a> ]
 </p>
 
