@@ -33,7 +33,7 @@
     [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T014500Z%2F20240726T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202024%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2024%2FVTE"><b>Google Calendar</b></a> ]
     [ <a target="_blank" href="./SysAdminDay2024-VTE.ics"><b>iCalendar</b></a> ]
 </p>
-
+<br><br>
 
 ## SysAdmin (Day+1) ***2024***
 # **(*Saturday*) July 27, 2024**
@@ -41,7 +41,7 @@
 | From  |  To   |  Topic                                                                                                                                                                                                          |
 |:-----:|:-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:45 | 09:15 | *<b>Registration &amp; Lucky Draw</b>*                                                                                                                                                                                          |
-| ..... | ..... | *<b>TBA</b>* |
+| ..... | ..... | *<b>TBD</b>*<br>--*Wanchanok Sunthorn*<br> --- Assistant Professor at the Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)<br> --- PhD candidate in Data Science and Artificial Intelligence, Asian Institute of Technology  |
 | ..... | ..... | *<b>TBA</b>* |
 | 16:30 | 16:45 | *<b>Closing &amp; Lucky Draw</b>*                          |
 
