@@ -42,7 +42,7 @@
 |:-----:|:-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:45 | 09:15 | *<b>Registration &amp; Lucky Draw</b>*                                                                                                                                                                                          |
 | ..... | ..... | *<b>TBA</b>* |
-| ..... | ..... | *<b>Selected topic in Data Science and AI</b>*<br>--*Asst.Prof. Wanchanok Sunthorn*<br> --- Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)<br> --- PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology |
+| ..... | ..... | *<b>Selected topic in Data Science and AI</b>*<br>--*Asst.Prof. Wanchanok Sunthorn*<br> --- Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)<br> --- PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT) |
 | ..... | ..... | *<b>TBA</b>* |
 | 16:30 | 16:45 | *<b>Closing &amp; Lucky Draw</b>*                          |
 
