@@ -41,7 +41,7 @@
 | From  |  To   |  Topic                                                                                                                                                                                                          |
 |:-----:|:-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:45 | 09:15 | *<b>Registration &amp; Lucky Draw</b>*                                                                                                                                                                                          |
-| ..... | ..... | *<b>TBD</b>*<br>--*Wanchanok Sunthorn*<br> --- Assistant Professor at the Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)<br> --- PhD candidate in Data Science and Artificial Intelligence, Asian Institute of Technology  |
+| ..... | ..... | *<b>Selectec topic in Data Science and AI</b>*<br>--*Wanchanok Sunthorn*<br> --- Assistant Professor at the Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)<br> --- PhD candidate in Data Science and Artificial Intelligence, Asian Institute of Technology  |
 | ..... | ..... | *<b>TBA</b>* |
 | 16:30 | 16:45 | *<b>Closing &amp; Lucky Draw</b>*                          |
 
