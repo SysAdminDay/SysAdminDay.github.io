@@ -1,4 +1,4 @@
-## SysAdmin Day ***2024*** - Live in Vientiane : Multiverse of IT Pro
+## SysAdmin Day ***2024*** - Live in Vientiane : Multiverse of Cybersecurity
 # **(*Friday*) July 26, 2024**
 ### Location : TBD
 
