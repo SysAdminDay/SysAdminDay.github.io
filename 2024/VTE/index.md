@@ -1,6 +1,6 @@
 ## SysAdmin Day ***2024*** - Live in Vientiane : Multiverse of Cybersecurity
 # **(*Friday*) July 26, 2024**
-### Location : LTC Coworking Space
+### Location : Lao Telecom Co-Working Space
 
 <p align="center">
     <a href="../../Assets/SysAdminDay-2024-VTE.png"><img src="../../Assets/SysAdminDay-2024-VTE.png" width="40%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
