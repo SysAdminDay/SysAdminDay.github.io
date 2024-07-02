@@ -1,6 +1,6 @@
 ## SysAdmin Day ***2024*** - Live in Vientiane : Multiverse of Cybersecurity
 # **(*Friday*) July 26, 2024**
-### Location : TBD
+### Location : LTC Coworking Space
 
 <p align="center">
     <a href="../../Assets/SysAdminDay-2024-VTE.png"><img src="../../Assets/SysAdminDay-2024-VTE.png" width="40%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
@@ -13,8 +13,8 @@
 | From  |  To   |  Topic                                                                                                                                                                                                          |
 |:-----:|:-----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 08:30 | 08:45 | *<b>Registration &amp; Lucky Draw</b>*                                                                                                                                                                                          |
-| 08:45 | 09:00 | *<b>Opening Remarks</b>*<br>--*VIP Guest*                                                                                                                                                                              |
-| 09:30 | ...   | ... |
+| 08:45 | ...   | ... |
+| ...   | ...   | ... |
 | ...   | ...   | ... |
 | 16:30 | 16:45 | *<b>Closing &amp; Lucky Draw</b>*                                                                                                                                                                                                |
 
