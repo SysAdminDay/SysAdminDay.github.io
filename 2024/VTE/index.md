@@ -35,7 +35,7 @@
 #### Our supporter(s)
 
 <p align="center">
-    <a href="https://verisette.com/" target="_blank"><img src="Supporters/verisette-logo.png" width="420" title="Verisette Co., Ltd."></a><br><br><br>
+    <a href="https://verisette.com/" target="_blank"><img src="Supporters/verisette-logo.png" width="315" title="Verisette Co., Ltd."></a><br><br><br>
     <a href="https://insti.la" target="blank"><img src="Supporters/instila.png" width="318" title="iNSTiLA Academy"></a><br><br>
     <a href="https://VolunteX.github.io" target="_blank"><img src="Supporters/VolunteX.png" width="320" title="Voluntary eXchange of Thailand"></a>
 </p>
