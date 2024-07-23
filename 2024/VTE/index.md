@@ -26,7 +26,7 @@
 #### Our supporter(s)
 
 <p align="center">
-    <a href="#" target="_blank"><img src="Supporters/EXTec.jpg" width="315" title="EX Tec Co., Ltd."></a><br><br><br>
+    <a href="#" target="_blank"><img src="Supporters/EXTec.png" width="315" title="EX Tec Co., Ltd."></a><br><br><br>
     <a href="https://verisette.com/" target="_blank"><img src="Supporters/verisette-logo.png" width="315" title="Verisette Co., Ltd."></a><br><br><br>
     <a href="https://insti.la" target="blank"><img src="Supporters/instila.png" width="318" title="iNSTiLA Academy"></a><br><br>
     <a href="https://VolunteX.github.io" target="_blank"><img src="Supporters/VolunteX.png" width="320" title="Voluntary eXchange of Thailand"></a>
