@@ -43,18 +43,3 @@
 * [SysAdminDay 2019](/2019/Laos) at Lao PDR
 * [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
 
-
-<a name="consultant"></a>
-#### Free Consultation (ToT/TtT) Session
-+ Training of Trainers (ToT) / Train the Trainers (TtT)
-+ By Mr. Maykin Warasart
-    + Modern Classroom Certified Trainer ([MCCT®](https://www.credential.net/89377485-8685-470c-9362-ae7acbddb323#gs.5p47k8)) 
-    + CompTIA Certified Technical Trainer ([CTT+](https://www.credly.com/badges/312dcfff-2b9e-4a5d-856e-40cf9f96f1dc))
-    + Microsoft Certified Trainer ([MCT](https://mayk.in/cert/?P=MCT-*))
-    + Microsoft Certified Educator ([MCE](https://mayk.in/cert/MCE.html))
-    + Google Certified Educator ([GCE](https://www.credential.net/e340e8be-28bc-43fd-81e1-6b684234bdff))
-    + CIW Certified Instructor ([CIW-CI](https://mayk.in/cert/CIW-CI.html))
-    + CertNEXUS Authorized Instructor ([CAI](https://www.credential.net/bc9d4b9c-5e89-44b9-952a-b718c8f6bfc3))
-    + GenMentor (JSD) #5 – Generation Thailand
-    + ETDA Digital Citizen (EDC) Trainer
-    + Media Literacy Expert (MeLEx) - Thai Media Fund
