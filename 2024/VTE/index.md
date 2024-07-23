@@ -3,7 +3,7 @@
 ### Location : [Lao Telecom Co-Working Space - 9th Floor, Lao Telecom (HQ) - Saylom Road](https://maps.app.goo.gl/uKV73P7cQy7GqbCF6)
 
 <p align="center">
-    <a href="Logo/logo-black-text.png"><img src="Logo/logo-black-text.png" width="40%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Logo/logo-black-text.png"><img src="Logo/logo-black-text.png" title="SysAdmin Day 2024 - Live in Vientiane"></a>
     <!-- !!! <b>Calling for Speaker(s)</b> !!! -->
 </p>
 
