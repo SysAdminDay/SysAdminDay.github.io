@@ -4,7 +4,7 @@
     <h1> Session Attendance Form </h1>
     <br>
     <br>
-    <h1> >>> <a href="#">Enter</a> <<< </h1>
+    <h1> >>> <a href="https://gen-cert.csclao.com/register">Enter</a> <<< </h1>
     <br>
     <br>
     <br>
