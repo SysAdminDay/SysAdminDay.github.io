@@ -1,5 +1,6 @@
 ## SysAdminDay
 
++ 2025 : (July 25, 2025)
 + [Live in Vientiane - 2024](/2024/VTE/) : Multiverse of Cybersecurity (July 26, 2024)
 + [Virtual Event - 2023](/2023/VirtualEvent) (July 28, 2023)
 + [Live in Vientiane - 2023](/2023/VTE/) (July 28, 2023)
