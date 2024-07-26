@@ -34,7 +34,6 @@
  
 ---
 
-* SysAdminDay 2024, [Virtual Event](/2024/VirtualEvent)
 * SysAdminDay 2023, [Live in Vientiane](/2023/VTE)
 * SysAdminDay 2023, [Virtual Event](/2023/VirtualEvent)
 * [SysAdminDay 2022](/2022/VirtualEvent), Virtual Event
