@@ -22,7 +22,7 @@
 #### More info: 
 + Jack EX TEC [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
 + Boy, Verisette Lao 
-+ MK, iKNEX 
++ Maykin, iKNEX 
 
 #### Our supporter(s)
 
