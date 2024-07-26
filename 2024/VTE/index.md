@@ -20,10 +20,9 @@
 </p>
 
 #### More info: 
-+ Jack [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
-
-<b>Live in Vientiane (2023)</b>
-<a href="../../2023/VTE/Group.JPG" target="_parent"><img src="../../2023/VTE/Group-wide.JPG" title="SysAdmin Day 2023 - Live in Vientiane"></a>
++ Jack EX TEC [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
++ Boy, Verisette Lao 
++ MK, iKNEX 
 
 #### Our supporter(s)
 
