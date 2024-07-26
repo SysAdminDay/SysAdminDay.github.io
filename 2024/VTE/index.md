@@ -3,11 +3,9 @@
 ### Location : [Lao Telecom Co-Working Space - 9th Floor, Lao Telecom (HQ) - Saylom Road](https://maps.app.goo.gl/uKV73P7cQy7GqbCF6)
 
 <p align="center">
-    <a href="Logo/logo-black-text.png"><img src="Logo/logo-black-text.png" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Logo/logo-black-text.png"><img src="Logo/logo-black-text.png" width="40%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
     <!-- !!! <b>Calling for Speaker(s)</b> !!! -->
 </p>
-
-
 
 <p align="right">
     [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20240726T014500Z%2F20240726T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202024%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2024%2FVTE"><b>Google Calendar</b></a> ]
