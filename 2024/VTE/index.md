@@ -15,7 +15,9 @@
 </p>
 <br>
 
-
+<p align="center">
+    <img src="Group.jpg" title="SysAdmin Day 2024 - Live in Vientiane">
+</p>
 
 #### More info: 
 + Jack [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
