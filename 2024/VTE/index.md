@@ -29,6 +29,7 @@
 + **Easy way(s) to improve (y)ourself & boost (y)our career(s) at low cost w/ IT Cert(s)**
     + Maykin Warasart
     + Microsoft MVP - Security
+    + [ISC2 CC](https://www.isc2.org/landing/1mcc), [CloudNetX](https://www.comptia.org/certifications/become-a-subject-matter-expert/comptia-cloudnetx-beta-exam)
 
 <p align="center">
     <a href="Photo/01-Cert.JPG"><img src="Photo/01-Cert_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
