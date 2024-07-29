@@ -63,6 +63,88 @@
     <a href="Photo/03-CSOC.JPG"><img src="Photo/03-CSOC_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
+---
+
++ **Air sight - Instrument  Landing System (ILS) and System Wide Information Management (SWIM)**
+    + Noppadol PRINGVANICH 
+        + BearCat
+
+<p align="center">
+    <a href="Photo/04-Air.JPG"><img src="Photo/04-Air_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
+---
+
++ **xxxxx**
+    + xxxx 
+        + xxxx
+    + xxxx
+        + xxxx
+
+<p align="center">
+    <a href="Photo/05-xxxx.JPG"><img src="Photo/05-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
+---
+
++ **xxxxx**
+    + xxxx 
+        + xxxx
+    + xxxx
+        + xxxx
+
+<p align="center">
+    <a href="Photo/06-xxxx.JPG"><img src="Photo/0x-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
+---
+
++ **xxxxx**
+    + xxxx 
+        + xxxx
+    + xxxx
+        + xxxx
+
+<p align="center">
+    <a href="Photo/07-xxxx.JPG"><img src="Photo/07-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
+---
+
++ **xxxxx**
+    + xxxx 
+        + xxxx
+    + xxxx
+        + xxxx
+
+<p align="center">
+    <a href="Photo/08-xxxx.JPG"><img src="Photo/08-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
+---
+
++ **xxxxx**
+    + xxxx 
+        + xxxx
+    + xxxx
+        + xxxx
+
+<p align="center">
+    <a href="Photo/09-xxxx.JPG"><img src="Photo/09-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
+---
+
++ **xxxxx**
+    + xxxx 
+        + xxxx
+    + xxxx
+        + xxxx
+
+<p align="center">
+    <a href="Photo/10-xxxx.JPG"><img src="Photo/10-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
 
 
 #### More info: 
