@@ -16,6 +16,7 @@
     <img src="Group.jpg" title="SysAdmin Day 2024 - Live in Vientiane">
 </p>
 
+---
 
 + **Kick-off**
     + Souksawat (Jack) Soulivanh, EX-TEC
@@ -26,6 +27,8 @@
     <a href="Photo/00-Kick-off_small.JPG"><img src="Photo/00-Kick-off_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane Kick-off"></a>
 </p>
 
+---
+
 + **Easy way(s) to improve (y)ourself & boost (y)our career(s) at low cost w/ IT Cert(s)**
     + Maykin Warasart
     + Microsoft MVP - Security
@@ -35,6 +38,7 @@
     <a href="Photo/01-Cert.JPG"><img src="Photo/01-Cert_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
+---
 
 + **Cybersecurity in an AI-turbocharged era**
     + Asst.Prof. Wanchanok Sunthorn
@@ -47,13 +51,16 @@
     <a href="Photo/02-AI.JPG"><img src="Photo/02-AI_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
+---
 
-+ **XXX**
-    + xxxx
-    + xxxx
++ **Building a CSOC and incident response cases**
+    + Alee XAYKAOTHOR 
+        + Deputy Chief of LTC CSOC
+    + Thongsavanh VILAYVONG
+        + Tier 2 Cyber Specialist
 
 <p align="center">
-    <a href="Photo/#.JPG"><img src="Photo/#.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/03-CSOC.JPG"><img src="Photo/03-CSOC_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 
