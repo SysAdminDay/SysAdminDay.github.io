@@ -17,9 +17,9 @@
 </p>
 
 + Kick-off
-++ Souksawat (Jack) Soulivanh, EX-TEC
-++ Dr. Veerasith Wongkarn
-++ Bounkong (Boy) Chanthavi, Verisette Lao
+    + Souksawat (Jack) Soulivanh, EX-TEC
+    + Dr. Veerasith Wongkarn
+    + Bounkong (Boy) Chanthavi, Verisette Lao
 
 <p align="center">
     <a href="Photo/00-Kick-off_small.JPG"><img src="Photo/00-Kick-off_small.JPG" title="SysAdmin Day 2024 - Live in Vientiane Kick-off"></a>
