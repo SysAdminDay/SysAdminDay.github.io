@@ -95,26 +95,22 @@
 
 ---
 
-+ **xxxxx**
-    + xxxx 
-        + xxxx
-    + xxxx
-        + xxxx
++ **The risk of not having administrative control**
+    + Angkarn Pummarin (Man) 
+        + Deputy Managing Director, TNET IT Solution
 
 <p align="center">
-    <a href="Photo/07-xxxx.JPG"><img src="Photo/07-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/07-Control.JPG"><img src="Photo/07-Control_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 ---
 
-+ **xxxxx**
-    + xxxx 
-        + xxxx
-    + xxxx
-        + xxxx
++ **The starting point to protect against cyber attacks with threat intelligence**
+    + Jedsada Thongkanluang 
+        + Managing Director, TNET IT Solution
 
 <p align="center">
-    <a href="Photo/08-xxxx.JPG"><img src="Photo/08-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/08-CTI.JPG"><img src="Photo/08-CTI_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 ---
