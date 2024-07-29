@@ -36,12 +36,15 @@
 </p>
 
 
-+ **XXX**
-    + xxxx
-    + xxxx
++ **Cybersecurity in an AI-turbocharged era**
+    + Asst.Prof. Wanchanok Sunthorn
+        + Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
+        + PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)
+    + M., Warasart
+        + Founding President, iKNEX (Thailand)
 
 <p align="center">
-    <a href="Photo/#.JPG"><img src="Photo/#.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/02-AI.JPG"><img src="Photo/02-AI_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 
