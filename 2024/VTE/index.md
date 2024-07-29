@@ -22,7 +22,7 @@
 ++ Bounkong (Boy) Chanthavi, Verisette Lao
 
 <p align="center">
-    <a href="Photo/00-Kick-off_small.jpg"><img src="Photo/00-Kick-off_small.jpg" title="SysAdmin Day 2024 - Live in Vientiane Kick-off"></a>
+    <a href="Photo/00-Kick-off_small.JPG"><img src="Photo/00-Kick-off_small.JPG" title="SysAdmin Day 2024 - Live in Vientiane Kick-off"></a>
 </p>
 
 
