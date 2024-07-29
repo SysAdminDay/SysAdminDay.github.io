@@ -115,15 +115,24 @@
 
 ---
 
-+ **xxxxx**
-    + xxxx 
-        + xxxx
-    + xxxx
-        + xxxx
++ **Barcode Solution**
+    + Thana Sangsakul 
+        + Labelone Center 
 
 <p align="center">
-    <a href="Photo/09-xxxx.JPG"><img src="Photo/09-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/09-Label.JPG"><img src="Photo/09-Label_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
+
+---
+
++ **Internet of Life**
+    + Meedam Phongthai 
+        + Internet Infrastructure Specialist, MKS
+
+<p align="center">
+    <a href="Photo/11-Internet.JPG"><img src="Photo/11-Internet_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
 
 ---
 
@@ -134,7 +143,7 @@
         + xxxx
 
 <p align="center">
-    <a href="Photo/10-xxxx.JPG"><img src="Photo/10-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/12-Walk.JPG"><img src="Photo/12-Walk_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 
