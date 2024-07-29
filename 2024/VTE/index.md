@@ -54,10 +54,10 @@
 ---
 
 + **Building a CSOC and incident response cases**
-    + Alee XAYKAOTHOR 
-        + Deputy Chief of LTC CSOC
     + Thongsavanh VILAYVONG
         + Tier 2 Cyber Specialist
+    + Alee XAYKAOTHOR 
+        + Deputy Chief of LTC CSOC
 
 <p align="center">
     <a href="Photo/03-CSOC.JPG"><img src="Photo/03-CSOC_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
