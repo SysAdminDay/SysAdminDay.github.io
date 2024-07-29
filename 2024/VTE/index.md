@@ -136,11 +136,9 @@
 
 ---
 
-+ **xxxxx**
-    + xxxx 
-        + xxxx
-    + xxxx
-        + xxxx
++ **The new generation of Walkie Talkie**
+    + Sayphet KEOVANXAY 
+        + Spender Sales Specialis
 
 <p align="center">
     <a href="Photo/12-Walk.JPG"><img src="Photo/12-Walk_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
