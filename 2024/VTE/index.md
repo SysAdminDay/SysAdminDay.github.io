@@ -4,7 +4,6 @@
 
 <p align="center">
     <a href="Logo/logo-black-text.png"><img src="Logo/logo-black-text.png" width="40%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
-    <!-- !!! <b>Calling for Speaker(s)</b> !!! -->
 </p>
 
 <p align="right">
@@ -16,6 +15,18 @@
 <p align="center">
     <img src="Group.jpg" title="SysAdmin Day 2024 - Live in Vientiane">
 </p>
+
++ Kick-off
+++ Souksawat (Jack) Soulivanh, EX-TEC
+++ Dr. Veerasith Wongkarn
+++ Bounkong (Boy) Chanthavi, Verisette Lao
+
+<p align="center">
+    <a href="photos/00-Kick-off_small.jpg"><img src="Photo/00-Kick-off_small.jpg" title="SysAdmin Day 2024 - Live in Vientiane Kick-off"></a>
+</p>
+
+
+
 
 #### More info: 
 + Jack EX TEC [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
