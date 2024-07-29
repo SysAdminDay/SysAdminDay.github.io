@@ -26,12 +26,12 @@
     <a href="Photo/00-Kick-off_small.JPG"><img src="Photo/00-Kick-off_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane Kick-off"></a>
 </p>
 
-+ **XXX**
-    + xxxx
-    + xxxx
++ **Easy way(s) to improve (y)ourself & boost (y)our career(s) at low cost w/ IT Cert(s)**
+    + Maykin Warasart
+    + Microsoft MVP - Security
 
 <p align="center">
-    <a href="Photo/#.JPG"><img src="Photo/#.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/01-Cert.JPG"><img src="Photo/01-Cert_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 
