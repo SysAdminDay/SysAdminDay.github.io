@@ -44,7 +44,7 @@
     + Asst.Prof. Wanchanok Sunthorn
         + Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
         + PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)
-    + M., Warasart
+    + Maykin Warasart
         + Founding President, iKNEX (Thailand)
 
 <p align="center">
