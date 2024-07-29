@@ -75,14 +75,12 @@
 
 ---
 
-+ **xxxxx**
-    + xxxx 
-        + xxxx
-    + xxxx
-        + xxxx
-
++ **Designing a Wireless Network: Key Considerations for Success**
+    + Prakasit Chaisiripongsakon 
+        + MTTP
+        
 <p align="center">
-    <a href="Photo/05-xxxx.JPG"><img src="Photo/05-xxxx_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/05-Wireless.JPG"><img src="Photo/05-Wireless_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 ---
