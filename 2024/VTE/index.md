@@ -110,7 +110,7 @@
         + Managing Director, TNET IT Solution
 
 <p align="center">
-    <a href="Photo/08-CTI.JPG"><img src="Photo/08-CTI_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+    <a href="Photo/08-CTI.jpg"><img src="Photo/08-CTI_small.jpg" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
 </p>
 
 ---
