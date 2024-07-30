@@ -149,7 +149,7 @@
 ---
 
 <p align="center">
-    <img src="Poster.jpg">
+    <a href="Poster.jpg"><img src="Poster_small.jpg"></a>
 </p>
 
 
