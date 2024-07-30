@@ -16,6 +16,7 @@
     <img src="Group.jpg" title="SysAdmin Day 2024 - Live in Vientiane">
 </p>
 
+
 ---
 
 + **Kick-off**
@@ -142,6 +143,13 @@
 
 <p align="center">
     <a href="Photo/12-Walk.jpg"><img src="Photo/12-Walk_small.jpg" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
+</p>
+
+
+---
+
+<p align="center">
+    <img src="Poster.jpg">
 </p>
 
 
