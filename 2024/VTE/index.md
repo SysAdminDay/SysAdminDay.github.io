@@ -65,7 +65,7 @@
 
 ---
 
-+ **Air sight - Instrument  Landing System (ILS) and System Wide Information Management (SWIM)**
++ **Airside - System Wide Information Management (SWIM)**
     + Noppadol PRINGVANICH 
         + BearCat
 
