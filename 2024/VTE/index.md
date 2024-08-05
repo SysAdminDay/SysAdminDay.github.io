@@ -109,6 +109,7 @@
 + **The starting point to protect against cyber attacks with threat intelligence**
     + Jedsada Thongkanluang 
         + Managing Director, TNET IT Solution
+    + [Slide](Slides/Threat-Intelligence.pdf)
 
 <p align="center">
     <a href="Photo/08-CTI.jpg"><img src="Photo/08-CTI_small.jpg" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
