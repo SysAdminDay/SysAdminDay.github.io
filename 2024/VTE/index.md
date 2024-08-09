@@ -119,7 +119,7 @@
 
 + **Barcode Solution**
     + Thana Sangsakul 
-        + Labelone Center 
+        + LabelOne Center 
 
 <p align="center">
     <a href="Photo/09-Label.JPG"><img src="Photo/09-Label_small.JPG" width="70%" title="SysAdmin Day 2024 - Live in Vientiane"></a>
