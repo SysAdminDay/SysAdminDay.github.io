@@ -96,7 +96,7 @@
 
 ---
 
-+ **The risk of not having administrative control**
++ **The risk of not having administrative control** -- **[Slide](Slides/Administrative_Control.pdf)**
     + Angkarn Pummarin (Man) 
         + Deputy Managing Director, TNET IT Solution
 
@@ -108,7 +108,7 @@
 
 + **The starting point to protect against cyber attacks with threat intelligence** -- **[Slide](Slides/Threat-Intelligence.pdf)**
     + Jedsada Thongkanluang 
-        + Managing Director, TNET IT Solution
+        + Managing Director, TNET IT Solution 
 
 
 <p align="center">
