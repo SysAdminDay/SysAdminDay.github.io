@@ -157,7 +157,6 @@
 
 #### More info: 
 + Mouk, Doungtavanh Thatsaphone (020 5909 0095)
-+ Jack EX TEC [(WhatsApp)](https://wa.me/qr/ZIXUWJ53MMJBP1)
 + Boy, Verisette Lao 
 + Maykin, VolunteX by iKNEX 
 
