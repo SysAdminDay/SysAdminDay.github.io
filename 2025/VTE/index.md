@@ -31,9 +31,7 @@ Agenda : TBA
 
 #### Our supporter(s)
 
-<p align="center">
-    <a href="https://verisette.com/" target="_blank"><img src="Supporters/verisette-logo.png" width="315" title="Verisette Lao Co., Ltd."></a><br>
-</p>
++ Calling for Support(s)
  
 ---
 
