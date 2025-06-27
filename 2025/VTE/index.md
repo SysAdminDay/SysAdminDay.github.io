@@ -30,7 +30,7 @@ Agenda : TBA
 + Mouk, Doungtavanh Thatsaphone
 + Boy, Mangkone Technology
 + Chit, UBS LAO
-+ Maykin, VolunteX by iKNEX
++ Maykin, iNSTi.LA
 
 #### Our supporter(s)
 
