@@ -3,7 +3,7 @@
 ### Location : TBA
 
 <p align="center">
-    <img src="Logo/logo-small.png" title="SysAdmin Day 2025 - Live in Vientiane">
+    <a href="Logo/logo-big.png"><img src="Logo/logo-small.png" title="SysAdmin Day 2025 - Live in Vientiane"></a>
 </p>
 
 <p align="right">
