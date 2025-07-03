@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Maykin Warasart//NONSGML SysAdmin Day Event Calendar//EN
+X-WR-CALNAME:SysAdmin Day 2025 - Virtual Event
+X-WR-TIMEZONE:Asia/Bangkok
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:https://sysadminday.github.io/2025/VirtualEvent
+DTSTAMP:20250704T014503Z
+ORGANIZER;CN=Maykin Warasart:MAILTO:maykin@owasp.org
+LOCATION:Zoom Meeting
+URL:https://sysadminday.github.io/2025/VirtualEvent
+DTSTART:20250725T173000Z
+DTEND:20250725T213000Z
+SUMMARY:SysAdmin Day 2025 - Virtual Event
+DESCRIPTION:Click here for more info.: https://sysadminday.github.io/2025/VirtualEvent
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

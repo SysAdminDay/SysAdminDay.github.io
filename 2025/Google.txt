@@ -1,0 +1,6 @@
+https://calendar.google.com/calendar/u/0/r/eventedit?pli=1&sf=true&output=xml
+&text=SysAdmin+Day+2025+-+Virtual+Event+
+&details=
+Click+here+for+more+info.:+https://sysadminday.github.io/2025/VirtualEvent.
+&location=Zoom Meeting
+&dates=20250725T173000Z/20250725T213000Z
