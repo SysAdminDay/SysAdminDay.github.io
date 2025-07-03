@@ -1,6 +1,11 @@
 ## ***Virtual Event*** : System Administrator Appreciation Day ***2025***
 # **(*Friday*) July 25, 2025**
 
+<p align="right">
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250725T014500Z%2F20250725T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202025%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2025%2FVTE"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="./iCalendar.ics"><b>iCalendar</b></a> ]
+</p>
+
 | From    |    To    |  Topic                                                                                                                                                                                                                                                                                         |    
 |:-------:|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|    
 | 17:45   |  18:00   | <b id="Maykin">Greeting</b> |    
@@ -8,6 +13,11 @@
 | 18:45   |  19:30   |  |    
 | 19:30   |  20:15   |  |    
 | 20:15   |  21:00   |  |    
+
+<p>
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250725T103000Z%2F20250725T143000Z&ctz=Asia/Bangkok&text=SysAdmin%20Day%202025%20%3A%20Virtual%20Event&location=Zoom&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2025"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="./iCalendar.ics"><b>iCalendar</b></a> ]
+</p>
 
 #### More info: [Maykin Warasart](https://line.me/R/ti/p/%40maykin)
 
