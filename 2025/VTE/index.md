@@ -11,12 +11,6 @@
     [ <a target="_blank" href="./SysAdminDay2025-VTE.ics"><b>iCalendar</b></a> ]
 </p>
 <br>
-
-<p align="center">
-    <img src="Group.jpg" title="SysAdmin Day 2024 - Live in Vientiane">
-</p>
-
-
 ---
 
 ## Confirmed Topics:
@@ -41,6 +35,12 @@
 + Mouk, Doungtavanh Thatsaphone
 + Boy, Mangkone Technology
 + Chit, UBSLAO
+
+
+<p align="center">
+    <img src="Group.jpg" title="SysAdmin Day 2024 - Live in Vientiane">
+</p>
+
 
 #### Our supporter(s)
 
