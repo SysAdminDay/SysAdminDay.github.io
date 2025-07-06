@@ -25,12 +25,16 @@ Agenda : TBA
 
 :)
 
+<p>
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250725T014500Z%2F20250725T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202025%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2025%2FVTE"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="./SysAdminDay2025-VTE.ics"><b>iCalendar</b></a> ]
+</p>
+
 
 #### More info: 
 + Mouk, Doungtavanh Thatsaphone
 + Boy, Mangkone Technology
-+ Chit, UBS LAO
-+ Maykin, iNSTi.LA
++ Chit, UBSLAO
 
 #### Our supporter(s)
 
