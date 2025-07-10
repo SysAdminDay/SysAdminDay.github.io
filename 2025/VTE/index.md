@@ -31,9 +31,9 @@
 ---
 
 #### More info: 
-+ Mouk, Doungtavanh Thatsaphone
-+ Boy, Mangkone Technology
-+ Chit, UBSLAO
++ Mouk (02052026253)
++ Boy (02054485937)
++ Chit (02059720444)
 
 
 <p align="center">
