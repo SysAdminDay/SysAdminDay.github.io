@@ -31,9 +31,9 @@
 ---
 
 #### More info: 
-+ Mouk (02052026253)
-+ Boy (02054485937)
-+ Chit (02059720444)
++ [Mouk](https://api.whatsapp.com/send?phone=8562052026253)
++ [Boy](https://api.whatsapp.com/send?phone=8562054485937)
++ [Chit](https://api.whatsapp.com/send?phone=8562059720444)
 
 
 <p align="center">
