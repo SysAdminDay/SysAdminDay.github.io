@@ -44,7 +44,7 @@
 #### Our supporter(s)
 
 <p align="center">
-    <a href="https://mayk.la/o/" target="_blank"><img src="supporter/MAYK.png" title="MAYK Learning Academy"></a>
+    <a href="https://mayk.la/o/" target="_blank"><img src="Supporters/MAYK.png" title="MAYK Learning Academy"></a>
 </p>
  
 ---
