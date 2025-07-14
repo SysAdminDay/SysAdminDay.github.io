@@ -45,7 +45,7 @@
 
 <p align="center">
     <a href="https://mangkone.com" target="_blank"><img src="Supporters/mks.png" title="Mangkone Technology" width="70%"></a><br>
-    <a href="https://mayk.la/o/" target="_blank"><img src="Supporters/MAYK.png" title="MAYK Learning Academy" width="80%"></a>
+    <a href="https://mayk.la/o/" target="_blank"><img src="Supporters/MAYK.png" title="MAYK Learning Academy" width="85%"></a>
 </p>
  
 ---
