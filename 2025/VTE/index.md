@@ -1,6 +1,6 @@
 ## SysAdmin Day ***2025*** - Live in Vientiane
 # **(*Friday*) July 25, 2025**
-### Location : ICTC
+### Location : [ICTC Lao-Japan](https://maps.app.goo.gl/bwnDzqPgzep7d8YJ8)
 
 <div align="center">
     <a href="Logo/logo-small.png" target="_blank"><img src="Logo/logo-smallest.png" title="SysAdmin Day 2025 - Live in Vientiane" width="70%"></a>
