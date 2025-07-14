@@ -1,6 +1,6 @@
 ## SysAdmin Day ***2025*** - Live in Vientiane
 # **(*Friday*) July 25, 2025**
-### Location : TBA
+### Location : ICTC
 
 <div align="center">
     <a href="Logo/logo-small.png" target="_blank"><img src="Logo/logo-smallest.png" title="SysAdmin Day 2025 - Live in Vientiane" width="70%"></a>
@@ -14,7 +14,7 @@
 </p>
 
 ## Confirmed Topics:
-- 2025 Key Tech Adoption Trends
+- Key Tech Adoption Trends of 2025
 - Humans and AI: Winning Together in Tomorrow’s Workplace
 - Virtualization Migration: Lessons Learned from Transitioning Platforms
 - Professional Network Solutions for SMEs and Beyond
