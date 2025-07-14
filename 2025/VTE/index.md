@@ -3,7 +3,7 @@
 ### Location : ICTC Lao-Japan - [Map](https://maps.app.goo.gl/bwnDzqPgzep7d8YJ8)
 
 <div align="center">
-    <a href="Logo/logo-small.png" target="_blank"><img src="Logo/logo-smallest.png" title="SysAdmin Day 2025 - Live in Vientiane" width="70%"></a>
+    <a href="Logos/SAD-logo-big.png" target="_blank"><img src="Logos/SAD-logo-small.png" title="SysAdmin Day 2025 - Live in Vientiane" width="70%"></a>
 </div>
 
 ---
