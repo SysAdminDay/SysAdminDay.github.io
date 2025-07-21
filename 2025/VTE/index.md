@@ -48,7 +48,7 @@
     <a href="https://verisette.com" target="_blank"><img src="Supporters/verisette-logo.png" title="Verisette" width="70%"></a><br><br><br>
     <a href="https://mayk.la/o/" target="_blank"><img src="Supporters/MAYK.png" title="MAYK Learning Academy" width="85%"></a><br>
     <a href="https://insti.la/o/" target="_blank"><img src="Supporters/insti.png" title="iNSTiLA" width="90%"></a><br>
-    <a href="https://voluntex.github.io/" target="_blank"><img src="Supporters/VolunteX.png" title="Voluntary eXchange of Thailand" width="75%"></a><br>
+    <a href="https://voluntex.github.io/" target="_blank"><img src="Supporters/VolunteX-Black-Text-Blue.png" title="Voluntary eXchange of Thailand" width="75%"></a><br>
 </p>
  
 ---
