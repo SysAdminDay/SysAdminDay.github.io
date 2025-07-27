@@ -125,6 +125,36 @@
 </div>
 <br>
 
+<div align="center">
+   <img src="Photos/_08.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="Photos/_08-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="Photos/_08-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="Photos/_08-4.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="Photos/_09-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="Photos/_09-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
 ### Our supporter(s)
 
 <p align="center">
