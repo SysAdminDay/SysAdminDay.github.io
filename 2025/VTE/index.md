@@ -39,6 +39,11 @@
 </div>
 <br>
 
+<div align="center">
+   <img src="Photos/_01.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
 ### Our supporter(s)
 
 <p align="center">
