@@ -6,6 +6,10 @@
     <a href="Logos/SAD-logo-big.png" target="_blank"><img src="Logos/SAD-logo-smallest.png" title="SysAdmin Day 2025 - Live in Vientiane" width="70%"></a>
 </div>
 
+<div align="center">
+    <a href="Group_1-o.jpg" target="_blank"><img src="Group_1.jpg" title="SysAdmin Day 2025 - Live in Vientiane"></a>
+</div>
+
 ---
 
 <p align="right">
@@ -41,9 +45,9 @@
 + [Mouk](https://api.whatsapp.com/send?phone=8562052026253)
 
 
-<p align="center">
-    <img src="Group.jpg" title="SysAdmin Day 2024 - Live in Vientiane">
-</p>
+<div align="center">
+    <a href="Group_2-o.JPG" target="_blank"><img src="Group_2.JPG" title="SysAdmin Day 2025 - Live in Vientiane"></a>
+</div>
 
 
 #### Our supporter(s)
