@@ -40,7 +40,7 @@
 <br>
 
 <div align="center">
-   <img src="Photos/_00.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_00.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
