@@ -45,112 +45,112 @@
 <br>
 
 <div align="center">
-   <img src="Photos/_01.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_03-0.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_03-0.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_03-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_03-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_04.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_04.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_05.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_05.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_05-1.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_05-1.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_05-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_05-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_05-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_05-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_05-4.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_05-4.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_05-5.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_05-5.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_05-6.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_05-6.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_06.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_06.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_06-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_06-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_07.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_07.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_07-1.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_07-1.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_07-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_07-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_08.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_08.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_08-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_08-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_08-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_08-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_08-4.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_08-4.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_09-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_09-2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
 <div align="center">
-   <img src="Photos/_09-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_09-3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
