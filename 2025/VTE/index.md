@@ -45,7 +45,32 @@
 <br>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01_2.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01_3.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01_4.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01_5.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01_6.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
+</div>
+<br>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/SysAdminDay/SysAdminDay.github.io/refs/heads/master/2025/VTE/Photos/_01_9.jpg" title="SysAdmin Day 2025 - Live in Vientiane">
 </div>
 <br>
 
