@@ -1,5 +1,6 @@
 ## SysAdminDay
 
++ [Live in Vientiane - 2026](/2026/VTE/) : (July 31, 2026)
 + [Live in Vientiane - 2025](/2025/VTE/) : (July 25, 2025)
 + [Virtual Event - 2025](/2025/VirtualEvent) (Evening of July 25, 2025)
 + [Live in Vientiane - 2024](/2024/VTE/) : Multiverse of Cybersecurity (July 26, 2024)
