@@ -1,6 +1,6 @@
 ## SysAdmin Day ***2026*** - Live in Vientiane
 # **(*Friday*) July 31, 2026**
-### Location : Lao Digital Park (LDP) - [[Map](https://maps.app.goo.gl/Bn83rof8AqxBoyP69)]
+### Location : Lao Digital Park (LDP) - [Map](https://maps.app.goo.gl/Bn83rof8AqxBoyP69)
 
 
  
