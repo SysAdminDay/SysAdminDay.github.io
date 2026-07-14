@@ -3,10 +3,10 @@
 ### Location : [Lao Digital Park (LDP)](https://maps.app.goo.gl/Bn83rof8AqxBoyP69)
  
 ### Topics
-+ **Digital Forensics After Real-World Cyber Incidents**
++ **"Digital Forensics After Real-World Cyber Incidents"**
 	+ ***Thongsavanh Vilayvong***
 		+ *Lao Telecom*
-+ **Linux Isn't Boring Anymore**
++ **"Linux Isn't Boring Anymore"**
 	+ Maykin Warasart, PhD
 		+ *[LPI - Approved Trainer](https://people.lpi.org/m/848713d8-e33b-44bd-9590-1bc3e2355e1b)*
 	+ Chit Phommisay
