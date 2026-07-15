@@ -24,6 +24,11 @@
 + Linux Corner
 + Pokémon Trainer Meetup: Let's Celebrate the 10th Anniversary of Pokémon GO
 
+## Special Gift
++ SecAI+ Courseware
+	+ 5 accounts will be given to the first 5 people who arrive
+	+ 10 more accounts will be given away in a lucky draw during the event
+
 ---
 
 * SysAdminDay 2025, [Live in Vientiane](/2025/VTE)
@@ -35,4 +40,3 @@
 * [SysAdminDay 2020](/2020/VirtualEvent), Virtual Event
 * [SysAdminDay 2019](/2019/Laos) at Lao PDR
 * [SysAdminDay 2017](https://www.facebook.com/sysadminthailand/photos/?tab=album&album_id=303193886821648), Powered by [Netway Communication](https://netway.co.th/)
-
