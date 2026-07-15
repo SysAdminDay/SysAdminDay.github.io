@@ -5,9 +5,9 @@
 ## Topics
 
 + **"Your New Coworker Doesn't Sleep: Living with AI Agents in IT Ops"**
-	+ [Asst.Prof.Wanchanok Sunthorn]
-		+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
-		+ PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)
+	+ [Asst.Prof.Wanchanok Sunthorn](#)
+		+ *Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)*
+		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
 
 + **"Linux Isn't Boring Anymore"**
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
