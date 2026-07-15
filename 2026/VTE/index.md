@@ -21,8 +21,8 @@
 
 
 ## Activities
-+ Linux Corner
-+ Pokémon Trainer Meetup: Let's Celebrate the 10th Anniversary of Pokémon GO
++ **Linux Corner:** Linux Lovers' Clinic
++ **Pokémon Trainer Meetup:** Let's Celebrate the **10th Anniversary** of **Pokémon GO**
 
 ## Special Gift
 + SecAI+ Courseware
