@@ -19,6 +19,11 @@
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Lao Telecom*
 
+
+## Activities
++ Linux Corner
++ Pokémon Trainer Meetup: Let's Celebrate the 10th Anniversary of Pokémon GO
+
 ---
 
 * SysAdminDay 2025, [Live in Vientiane](/2025/VTE)
