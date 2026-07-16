@@ -16,12 +16,17 @@
 
 ## Topics
 
++ **"Opening Speech: When AI Becomes the Prefix in Cybersecurity"**
+	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
+		+ *Field CIO & Technology Advocate, Verisette*
+		+ *Principal Cybersecurity Advisor, TNTs*
+
 + **"Your New Coworker Doesn't Sleep: Living with AI Agents in IT Ops"**
-	+ [Asst.Prof.Wanchanok Sunthorn](#)
+	+ [Asst.Prof.Wanchanok Sunthorn](https://www.google.com/search?q="วรรณชนก สุนทร")
 		+ *Creative Media Technology Programme, Rajamangala University of Technology Thanyaburi (RMUTT)*
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
-		+ *Field CIO & Technology Advocate, Verisette*
+		+ *AI Advocate, MBro Global*
 		+ *Proofpoint Certified* ***{*** *AI/ML, AI Agent Security, AI Data Security* ***}*** *Specialist, CompTIA SecAI+, ISTQB - CT-GenAI, CPRE - AI4RE*
 
 + **"Linux Isn't Boring Anymore"**
