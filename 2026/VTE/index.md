@@ -40,6 +40,7 @@
 ## Activities
 + **Linux Corner:** Linux Lovers' Clinic
 + **Pokémon Trainer Meetup:** Let's Celebrate the **10th Anniversary** of **Pokémon GO**
+    + Show me the buddy!!!
 
 ## Special Gift
 + SecAI+ Courseware
