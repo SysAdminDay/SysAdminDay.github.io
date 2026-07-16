@@ -36,7 +36,7 @@
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Deputy CSOC Manager, Lao Telecom*
 
-+ **Low-Cost AI Information Security Governance Architecture**
++ **"Low-Cost AI Information Security Governance Architecture"**
 	+ [Angkarn Pummarin](#)
 		+ *Deputy Managing Director, TNET IT Solution*
 
