@@ -16,7 +16,7 @@
 
 ## Topics
 
-+ **"Opening Speech: When AI Becomes the Prefix in Cybersecurity"**
++ **Opening Speech:** ***"When AI Becomes the Prefix in Cybersecurity"***
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
 		+ *Field CIO & Technology Advocate, Verisette*
         + *Former Ministry CSOC Manager*
