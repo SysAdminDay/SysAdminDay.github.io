@@ -37,7 +37,7 @@
 		+ *Deputy CSOC Manager, Lao Telecom*
 
 + **"Low-Cost AI Information Security Governance Architecture"**
-	+ [Angkarn Pummarin](#)
+	+ [Angkarn Pummarin](https://www.google.com/search?q="อังคาร ภุมรินทร์")
 		+ *Deputy Managing Director, TNET-IT Solution*
 
 ## Activities
