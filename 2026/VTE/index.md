@@ -8,6 +8,10 @@
 	+ [Asst.Prof.Wanchanok Sunthorn](#)
 		+ *Creative Media Technology Programme, Rajamangala University of Technology Thanyaburi (RMUTT)*
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
+	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
+		+ *Proofpoint Certified AI/ML Specialist*
+		+ *Certified CompTIA SecAI+*
+		+ *ISTQB - CT-GenAI*
 
 + **"Linux Isn't Boring Anymore"**
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
