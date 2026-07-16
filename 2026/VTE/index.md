@@ -14,7 +14,7 @@
 
 + **"Linux Isn't Boring Anymore"**
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
-		+ *[LPI - Approved Trainer](https://people.lpi.org/m/848713d8-e33b-44bd-9590-1bc3e2355e1b)*
+		+ *[Approved Trainer, Linux Professional Institute](https://people.lpi.org/m/848713d8-e33b-44bd-9590-1bc3e2355e1b)*
 	+ [Chit Phommisay](https://www.facebook.com/jid.phommixay.7)
 		+ *General Manager, Telcoms Solution*
 
