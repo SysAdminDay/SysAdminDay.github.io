@@ -10,7 +10,7 @@
 ---
 
 <p>
-    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T014500Z%2F20260731T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202026%20%3A%20Live%20in%20Vientiane&location=https://maps.app.goo.gl/ypE3JUx2bcqvq4U46&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2026%2FVTE"><b><img src="../../Asst/Google-Calendar-icon.png" Google Calendar</b></a> ]
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T014500Z%2F20260731T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202026%20%3A%20Live%20in%20Vientiane&location=https://maps.app.goo.gl/ypE3JUx2bcqvq4U46&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2026%2FVTE"><b><img src="../../Assets/Google-Calendar-icon.png" Google Calendar</b></a> ]
     [ <a target="_blank" href="./SysAdminDay2026-VTE.ics"><b>iCalendar</b></a> ]
 </p>
 
