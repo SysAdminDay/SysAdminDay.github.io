@@ -42,7 +42,7 @@
 
 ## Activities
 + **Linux Corner:** Linux **Lovers**' Clinic
-	<a href="Linux-Copilot_o.png"><img src="Linux-Copilot.png"></a>
+	<br><a href="Linux-Copilot_o.png"><img src="Linux-Copilot.png"></a></br>
 + **Pokémon Trainer Meetup:** Let's Celebrate the **10th Anniversary** of **Pokémon GO**
     + Show me the **buddy**!!!
     <img src="Pokemon-GO-10th.png">
