@@ -1,7 +1,18 @@
 ## SysAdmin Day ***2026*** - Live in Vientiane
 ### **(*Friday*) July 31, 2026**
 ### Location : Lao Digital Park (LDP) - [Map]](https://maps.app.goo.gl/Bn83rof8AqxBoyP69)
- 
+
+<div align="center">
+    <a href="Logos/SysAdminDay2026_big.png" target="_blank"><img src="Logos/SysAdminDay2026_small.png" title="SysAdmin Day 2026 - Live in Vientiane" width="100%"></a>
+</div>
+
+---
+
+<p align="right">
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T014500Z%2F20250725T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202026%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2026%2FVTE"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="./SysAdminDay2026-VTE.ics"><b>iCalendar</b></a> ]
+</p>
+
 ## Topics
 
 + **"Your New Coworker Doesn't Sleep: Living with AI Agents in IT Ops"**
@@ -26,7 +37,6 @@
 	+ [Angkarn Pummarin](#)
 		+ *Deputy Managing Director, TNET IT Solution*
 
-
 ## Activities
 + **Linux Corner:** Linux Lovers' Clinic
 + **Pokémon Trainer Meetup:** Let's Celebrate the **10th Anniversary** of **Pokémon GO**
@@ -35,6 +45,11 @@
 + SecAI+ Courseware
 	+ 5 accounts will be given to the first 5 people who arrive
 	+ 10 more accounts will be given away in a lucky draw during the event
+
+<p>
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T014500Z%2F20250725T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202026%20%3A%20Live%20in%20Vientiane&location=TBD&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2026%2FVTE"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="./SysAdminDay2026-VTE.ics"><b>iCalendar</b></a> ]
+</p>
 
 ---
 
