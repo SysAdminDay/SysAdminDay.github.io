@@ -17,7 +17,7 @@
 ## Topics
 
 + **Opening Speech:** ***"When AI Becomes the Prefix in Cybersecurity"***
-	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
+	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
 		+ *Field CIO & Technology Advocate, Verisette*
         + *Former Ministry CSOC Manager*
 
@@ -25,7 +25,7 @@
 	+ [Asst.Prof.Wanchanok Sunthorn](https://www.google.com/search?q="วรรณชนก สุนทร")
 		+ *Creative Media Technology Programme, Rajamangala University of Technology Thanyaburi (RMUTT)*
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
-	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
+	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
 		+ *AI Advocate, MBro Global*
 		+ *Proofpoint Certified* ***{*** *AI/ML, AI Agent Security, AI Data Security* ***}*** *Specialist, CompTIA SecAI+, ISTQB - CT-GenAI, CPRE - AI4RE*
 
@@ -33,10 +33,10 @@
 	+ [Chit Phommisay](https://www.facebook.com/jid.phommixay.7)
 		+ *General Manager, Telcoms Solution*
         + *Former Project Management & Solution Delivery Manager at LCSC*
-	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
+	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
 		+ *[Approved Trainer, Linux Professional Institute](https://people.lpi.org/m/848713d8-e33b-44bd-9590-1bc3e2355e1b)*
         + *[Former Microsoft MVP](https://www.credly.com/badges/be03be84-65a7-4803-b793-005330bc0daf) (Security, Cloud and Datacenter Managerment)*
-        
+
 + **"Digital Forensics After Real-World Cyber Incidents"**
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Deputy CSOC Manager, Lao Telecom*
