@@ -9,9 +9,10 @@
 		+ *Creative Media Technology Programme, Rajamangala University of Technology Thanyaburi (RMUTT)*
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
-		+ *Proofpoint Certified AI/ML Specialist*
+		+ *Proofpoint Certified {AI/ML, AI Agent Security, AI Data Security} Specialist*
 		+ *Certified CompTIA SecAI+*
 		+ *ISTQB - CT-GenAI*
+		+ *CPRE - AI4RE*
 
 + **"Linux Isn't Boring Anymore"**
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
