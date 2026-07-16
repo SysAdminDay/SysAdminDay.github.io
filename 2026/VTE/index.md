@@ -5,7 +5,8 @@
 <div align="center">
     <a href="Logos/SysAdminDay2026.png" target="_blank"><img src="Logos/SysAdminDay2026_small.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
 </div>
-
+<br>
+<br>
 
 ---
 
