@@ -44,7 +44,7 @@
 + **Linux Corner:** Linux **Lovers**' Clinic
 	<br><br><a href="Linux-Copilot_o.png"><img src="Linux-Copilot.png"></a><br><br>
 + **Pokémon Trainer Meetup:** Let's Celebrate the **10th Anniversary** of **Pokémon GO**
-    + Show me the **buddy**!!!
+    + *Show me the* **buddy** *!!!*
     <img src="Pokemon-GO-10th.png">
 
 ## Special Gift
