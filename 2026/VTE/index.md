@@ -40,12 +40,12 @@
 		+ *Deputy Managing Director, TNET IT Solution*
 
 ## Activities
-+ **Linux Corner:** Linux Lovers' Clinic
++ **Linux Corner:** Linux **Lovers**' Clinic
 + **Pokémon Trainer Meetup:** Let's Celebrate the **10th Anniversary** of **Pokémon GO**
-    + Show me the buddy!!!
+    + Show me the **buddy**!!!
 
 ## Special Gift
-+ SecAI+ Courseware
++ **SecAI+** Courseware
 	+ 5 accounts will be given to the first 5 people who arrive
 	+ 10 more accounts will be given away in a lucky draw during the event
 
