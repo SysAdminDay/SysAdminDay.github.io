@@ -38,7 +38,7 @@
 
 + **"Low-Cost AI Information Security Governance Architecture"**
 	+ [Angkarn Pummarin](#)
-		+ *Deputy Managing Director, TNET IT Solution*
+		+ *Deputy Managing Director, TNET-IT Solution*
 
 ## Activities
 + **Linux Corner:** Linux **Lovers**' Clinic
