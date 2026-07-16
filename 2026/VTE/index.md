@@ -30,7 +30,7 @@
         + *[Former Microsoft MVP](https://www.credly.com/badges/be03be84-65a7-4803-b793-005330bc0daf) (Security, Cloud and Datacenter Managerment)*
 	+ [Chit Phommisay](https://www.facebook.com/jid.phommixay.7)
 		+ *General Manager, Telcoms Solution*
-        + *Former Project Management & Solution Deliver Manager at LCSC*
+        + *Former Project Management & Solution Delivery Manager at LCSC*
 + **"Digital Forensics After Real-World Cyber Incidents"**
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Lao Telecom*
