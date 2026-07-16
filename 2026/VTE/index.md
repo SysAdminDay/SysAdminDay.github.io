@@ -10,7 +10,7 @@
 ---
 
 <p>
-    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T014500Z%2F20260731T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202026%20%3A%20Live%20in%20Vientiane&location=https://maps.app.goo.gl/Bn83rof8AqxBoyP69&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2026%2FVTE"><b>Google Calendar</b></a> ]
+    [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T014500Z%2F20260731T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202026%20%3A%20Live%20in%20Vientiane&location=https://maps.app.goo.gl/ypE3JUx2bcqvq4U46&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2026%2FVTE"><b>Google Calendar</b></a> ]
     [ <a target="_blank" href="./SysAdminDay2026-VTE.ics"><b>iCalendar</b></a> ]
 </p>
 
@@ -27,9 +27,10 @@
 + **"Linux Isn't Boring Anymore"**
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
 		+ *[Approved Trainer, Linux Professional Institute](https://people.lpi.org/m/848713d8-e33b-44bd-9590-1bc3e2355e1b)*
+        + *Former Microsoft MVP (Security)*
 	+ [Chit Phommisay](https://www.facebook.com/jid.phommixay.7)
 		+ *General Manager, Telcoms Solution*
-
+        + *Former Project Management & Solution Deliver Manager at LCSC*
 + **"Digital Forensics After Real-World Cyber Incidents"**
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Lao Telecom*
