@@ -50,7 +50,7 @@
 ## Special Gift
 + **SecAI+** Courseware
 	+ 5 accounts will be given to the first 5 people who arrive
-	+ 10 more accounts will be given away in a lucky draw during the event
+	+ 5 or more accounts will be given away in a lucky draw during the event
 
 <p>
     [ <a target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20260731T014500Z%2F20260731T094500Z&ctz=Asia/Vientiane&text=SysAdmin%20Day%202026%20%3A%20Live%20in%20Vientiane&location=https://maps.app.goo.gl/ypE3JUx2bcqvq4U46&details=For%20details%2C%20link%20here%3A%20https%3A%2F%2FSysAdminDay.github.io%2F2026%2FVTE"><strong><img src="../../Assets/Google-Calendar-icon.png" width="12"> Google Calendar</strong></a> ]
