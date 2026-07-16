@@ -53,6 +53,11 @@
 
 ---
 
+#### More info: 
++ [Boy](https://api.whatsapp.com/send?phone=8562054485937)
++ [Chit](https://api.whatsapp.com/send?phone=8562059720444)
++ [Mouk](https://api.whatsapp.com/send?phone=8562052026253)
+
 * SysAdminDay 2025, [Live in Vientiane](/2025/VTE)
 * SysAdminDay 2024, [Live in Vientiane](/2024/VTE)
 * SysAdminDay 2023, [Live in Vientiane](/2023/VTE)
