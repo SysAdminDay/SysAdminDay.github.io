@@ -10,7 +10,7 @@
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
 		+ *Field CIO & Technology Advocate, Verisette*
-		+ *Proofpoint Certified {AI/ML, AI Agent Security, AI Data Security} Specialist, Certified CompTIA SecAI+, ISTQB - CT-GenAI, CPRE - AI4RE*
+		+ *Proofpoint Certified {AI/ML, AI Agent Security, AI Data Security} Specialist, CompTIA SecAI+, ISTQB - CT-GenAI, CPRE - AI4RE*
 
 + **"Linux Isn't Boring Anymore"**
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), PhD
