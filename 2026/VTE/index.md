@@ -41,10 +41,11 @@
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Deputy CSOC Manager, Lao Telecom*
 
-+ **""**
++ **"Dev Exp"**
 	+ Xong
+		+ *Associate Software Engineer, Verisette Dev Team*
 	+ Sayphet Keovanxay
-		+ *Product Owner, Verisette Dev Team (previously CSCLAO)*
+		+ *Business Development & Sr. Product Owner, Verisette Dev Team (previously CSCLAO)*
 
 + **"Low-Cost AI Information Security Governance Architecture"**
 	+ [Angkarn Pummarin](https://www.google.com/search?q="อังคาร ภุมรินทร์")
