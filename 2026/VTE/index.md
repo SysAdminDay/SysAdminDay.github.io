@@ -44,7 +44,7 @@
 + **"Dev Exp"**
 	+ Xong
 		+ *Associate Software Engineer, Verisette Dev Team*
-	+ Sayphet Keovanxay
+	+ [Sayphet Keovanxay](https://www.google.com/search?q=Sayphet+Keovanxay)
 		+ *Business Development & Sr. Product Owner, Verisette Dev Team (previously CSCLAO)*
 
 + **"Low-Cost AI Information Security Governance Architecture"**
