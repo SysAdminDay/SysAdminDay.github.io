@@ -41,8 +41,8 @@
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Deputy CSOC Manager, Lao Telecom*
 
-+ **"Dev Exp"**
-	+ Xong
++ **"AI Saved Me: A Junior Developer's Story"**
+	+ Xiongpor Her
 		+ *Associate Software Engineer, Verisette Dev Team*
 	+ [Sayphet Keovanxay](https://www.google.com/search?q=Sayphet+Keovanxay)
 		+ *Business Development & Sr. Product Owner, Verisette Dev Team (previously CSCLAO)*
