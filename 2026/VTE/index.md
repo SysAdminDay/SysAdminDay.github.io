@@ -61,7 +61,7 @@
 		+ *Founding Committee, [iKNEX (Thailand)](https://iknex.or.th)*
 
 + **When AI Becomes the Attack Surface: AI Red Teaming Panel**
-	+ Panelist : TBA
+	+ Panelist(s) : ***TBA***
 
 ## Activities
 + **Linux Corner:** Linux **Lovers**' Clinic
