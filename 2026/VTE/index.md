@@ -56,7 +56,7 @@
 		+ *Graduate Student at the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 
 + **"AI Hacking vs Human Hacking"**
-	+ Jedsada Thongkanluang
+	+ [Jedsada Thongkanluang](https://www.google.com/search?q=%E0%B9%80%E0%B8%88%E0%B8%A9%E0%B8%8E%E0%B8%B2+%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87)
 		+ *Managing Director, [TNET-IT Solution](https://www.tnetitsolution.co.th/)*
 		+ *Founding Committee, [iKNEX (Thailand)](https://iknex.or.th)*
 
