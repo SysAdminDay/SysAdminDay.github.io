@@ -44,6 +44,7 @@
 + **"AI Saved Me: A Junior Developer's Story"**
 	+ Xiongpor Her
 		+ *Associate Software Engineer, Verisette Dev Team*
+		+ *Final-Year Student from Faculty of Engineering, NUoL*
 	+ [Sayphet Keovanxay](https://www.google.com/search?q=Sayphet+Keovanxay)
 		+ *Business Development & Sr. Product Owner, Verisette Dev Team (previously CSCLAO)*
 
