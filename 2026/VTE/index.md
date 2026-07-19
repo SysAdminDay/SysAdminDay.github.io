@@ -51,10 +51,12 @@
 + **"Low-Cost AI Information Security Governance Architecture"**
 	+ [Angkarn Pummarin](https://www.google.com/search?q="อังคาร ภุมรินทร์")
 		+ *Deputy Managing Director, TNET-IT Solution*
+		+ *Founding Committee, [iKNEX (Thailand)](https://iknex.or.th)*
 
 + **AI Hacking vs Human Hacking**
 	+ Jedsada Thongkanluang
 		+ *Managing Director, TNET-IT Solution*
+		+ *Founding Committee, [iKNEX (Thailand)](https://iknex.or.th)*
 
 ## Activities
 + **Linux Corner:** Linux **Lovers**' Clinic
