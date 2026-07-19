@@ -25,7 +25,7 @@
 	+ [Asst.Prof.Wanchanok Sunthorn](https://www.google.com/search?q="วรรณชนก สุนทร")
 		+ *Creative Media Technology Programme, [Rajamangala University of Technology Thanyaburi (RMUTT)](https://www.rmutt.ac.th/)*
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. [Asian Institute of Technology (AIT)](https://ait.ac.th/)*
-	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
+	+ [Maykin Warasart](https://scholar.google.co.th/citations?user=5jucaYsAAAAJ&hl=en), *PhD*
 		+ *AI Advocate, [MBro Global](https://www.mbroglobal.com/)*
 		+ *Proofpoint* ***{*** *[AI/ML](https://www.credly.com/badges/39a4f736-b8e5-46fd-ab3a-df6d80c42155), [AI Agent Security](https://www.credly.com/badges/5c528bb5-ba1f-44a8-8bba-e866c8fb4e28), [AI Data Security](https://www.credly.com/badges/167bd9c0-3a4d-4595-ad11-61ea698b9d92), [AI Email Security](https://www.credly.com/badges/38dc1c6b-9583-4979-a7cc-9bfe410ff1e7)* ***}*** *Specialist*
 
