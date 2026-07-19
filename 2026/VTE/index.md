@@ -40,6 +40,7 @@
 + **"Digital Forensics After Real-World Cyber Incidents"**
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
 		+ *Deputy CSOC Manager, Lao Telecom*
+		+ *Speaker at [LANOG 2.0](https://nog.la/lanog-2/presentations/) & [LANOG 3.0](https://nog.la/lanog-3/presentations/)*
 
 + **"AI Saved Me: A Junior Developer's Story"**
 	+ Xiongpor Her
