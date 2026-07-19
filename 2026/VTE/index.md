@@ -18,7 +18,7 @@
 
 + **Opening Speech:** ***"When AI Becomes the Prefix in Cybersecurity"***
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
-		+ *Field CIO & Technology Advocate, [Verisette](https://verisette.com/*
+		+ *Field CIO & Technology Advocate, [Verisette](https://verisette.com/)*
         + *Former Ministry CSOC Manager*
 
 + **"Your New Coworker Doesn't Sleep: Living with AI Agents in IT Ops"**
