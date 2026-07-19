@@ -49,10 +49,10 @@
 
 + **"AI Saved Me: A Junior Developer's Story"**
 	+ Xiongpor Her
-		+ *Associate Software Engineer, [Verisette](https://verisette.com) Dev Team*
+		+ *Associate Software Engineer, [Verisette](https://verisette.com) (Dev Team)*
 		+ *Final-Year Student from the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 	+ [Sayphet Keovanxay](https://www.google.com/search?q=Sayphet+Keovanxay)
-		+ *Business Development & Sr. Product Owner, [Verisette](https://verisette.com) Dev Team (previously CSC LAO)*
+		+ *Business Development & Sr. Product Owner, [Verisette](https://verisette.com) (Dev Team, previously CSC LAO)*
 		+ *Graduate Student at the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 
 + **"AI Hacking vs Human Hacking"**
