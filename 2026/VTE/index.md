@@ -51,6 +51,10 @@
 	+ [Angkarn Pummarin](https://www.google.com/search?q="อังคาร ภุมรินทร์")
 		+ *Deputy Managing Director, TNET-IT Solution*
 
++ **AI Hacking vs Human Hacking**
+	+ Jedsada Thongkanluang
+		+ *Managing Director, TNET-IT Solution*
+
 ## Activities
 + **Linux Corner:** Linux **Lovers**' Clinic
 	<br><br><a href="Linux-Copilot_o.png"><img src="Linux-Copilot.png"></a><br><br>
