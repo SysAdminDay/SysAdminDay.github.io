@@ -27,7 +27,7 @@
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
 		+ *AI Advocate, MBro Global*
-		+ *Proofpoint Certified* ***{*** *AI/ML, AI Agent Security, AI Data Security* ***}*** *Specialist, CompTIA SecAI+, ISTQB - CT-GenAI, CPRE - AI4RE*
+		+ *Proofpoint Certified* ***{*** *AI/ML, AI Agent Security, AI Data Security* ***}*** *Specialist*
 
 + **"Linux Isn't Boring Anymore"**
 	+ [Chit Phommisay](https://www.facebook.com/jid.phommixay.7)
