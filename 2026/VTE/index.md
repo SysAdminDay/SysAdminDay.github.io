@@ -44,18 +44,19 @@
 + **"AI Saved Me: A Junior Developer's Story"**
 	+ Xiongpor Her
 		+ *Associate Software Engineer, Verisette Dev Team*
-		+ *Final-Year Student from Faculty of Engineering, NUoL*
+		+ *Final-Year Student from the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 	+ [Sayphet Keovanxay](https://www.google.com/search?q=Sayphet+Keovanxay)
 		+ *Business Development & Sr. Product Owner, Verisette Dev Team (previously CSCLAO)*
+		+ *Graduate Student at the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 
 + **"Low-Cost AI Information Security Governance Architecture"**
 	+ [Angkarn Pummarin](https://www.google.com/search?q="อังคาร ภุมรินทร์")
-		+ *Deputy Managing Director, TNET-IT Solution*
+		+ *Deputy Managing Director, [TNET-IT Solution](https://www.tnetitsolution.co.th/)*
 		+ *Founding Committee, [iKNEX (Thailand)](https://iknex.or.th)*
 
 + **AI Hacking vs Human Hacking**
 	+ Jedsada Thongkanluang
-		+ *Managing Director, TNET-IT Solution*
+		+ *Managing Director, [TNET-IT Solution](https://www.tnetitsolution.co.th/)*
 		+ *Founding Committee, [iKNEX (Thailand)](https://iknex.or.th)*
 
 ## Activities
