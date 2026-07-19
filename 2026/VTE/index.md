@@ -55,12 +55,12 @@
 		+ *Business Development & Sr. Product Owner, Verisette Dev Team (previously CSCLAO)*
 		+ *Graduate Student at the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 
-+ **AI Hacking vs Human Hacking**
++ **"AI Hacking vs Human Hacking"**
 	+ Jedsada Thongkanluang
 		+ *Managing Director, [TNET-IT Solution](https://www.tnetitsolution.co.th/)*
 		+ *Founding Committee, [iKNEX (Thailand)](https://iknex.or.th)*
 
-+ **When AI Becomes the Attack Surface: AI Red Teaming Panel**
++ ***"When AI Becomes the Attack Surface"*** : **AI Red Teaming Panel**
 	+ Panelist(s) : ***TBA***
 
 ## Activities
