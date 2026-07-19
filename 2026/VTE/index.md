@@ -18,7 +18,7 @@
 
 + **Opening Speech:** ***"When AI Becomes the Prefix in Cybersecurity"***
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
-		+ *Field CIO & Technology Advocate, Verisette*
+		+ *Field CIO & Technology Advocate, [Verisette](https://verisette.com/*
         + *Former Ministry CSOC Manager*
 
 + **"Your New Coworker Doesn't Sleep: Living with AI Agents in IT Ops"**
@@ -26,12 +26,12 @@
 		+ *Creative Media Technology Programme, Rajamangala University of Technology Thanyaburi (RMUTT)*
 		+ *PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)*
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
-		+ *AI Advocate, MBro Global*
+		+ *AI Advocate, [MBro Global](https://www.mbroglobal.com/)*
 		+ *Proofpoint Certified* ***{*** *AI/ML, AI Agent Security, AI Data Security* ***}*** *Specialist*
 
 + **"Linux Isn't Boring Anymore"**
 	+ [Chit Phommisay](https://www.facebook.com/jid.phommixay.7)
-		+ *General Manager, Telcoms Solution*
+		+ *General Manager, [Telcoms Solution](https://telcoms.net)*
         + *Former Project Management & Solution Delivery Manager at LCSC*
 	+ [Maykin Warasart](https://www.google.com/search?q=%22Maykin+Warasart%22), *PhD*
 		+ *[Approved Trainer, Linux Professional Institute (LPI)](https://people.lpi.org/m/848713d8-e33b-44bd-9590-1bc3e2355e1b)*
@@ -49,10 +49,10 @@
 
 + **"AI Saved Me: A Junior Developer's Story"**
 	+ Xiongpor Her
-		+ *Associate Software Engineer, Verisette Dev Team*
+		+ *Associate Software Engineer, [Verisette](https://verisette.com) Dev Team*
 		+ *Final-Year Student from the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 	+ [Sayphet Keovanxay](https://www.google.com/search?q=Sayphet+Keovanxay)
-		+ *Business Development & Sr. Product Owner, Verisette Dev Team (previously CSCLAO)*
+		+ *Business Development & Sr. Product Owner, [Verisette](https://verisette.com) Dev Team (previously CSC LAO)*
 		+ *Graduate Student at the Department of Computer Engineering and IT, Faculty of Engineering, NUoL*
 
 + **"AI Hacking vs Human Hacking"**
