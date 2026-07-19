@@ -62,6 +62,7 @@
 
 + ***"When AI Becomes the Attack Surface"*** : **AI Red Teaming Panel**
 	+ Panelist(s) : ***TBA***
+	+ Moderated by : ***TBA***
 
 ## Activities
 + **Linux Corner:** Linux **Lovers**' Clinic
