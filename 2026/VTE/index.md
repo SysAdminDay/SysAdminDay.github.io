@@ -35,7 +35,7 @@
         + *Former Project Management & Solution Delivery Manager at LCSC*
 	+ [Maykin Warasart](https://www.lpi.org/blog/2026/02/18/how-maykin-went-from-demoralization-to-lpi-trainer/), *PhD*
 		+ *[Approved Trainer, Linux Professional Institute (LPI)](https://people.lpi.org/m/848713d8-e33b-44bd-9590-1bc3e2355e1b)*
-        + *[Former Microsoft MVP](https://www.credly.com/badges/be03be84-65a7-4803-b793-005330bc0daf) (Security, Cloud and Datacenter Managerment)*
+        + *[Former Microsoft MVP](https://www.credly.com/badges/be03be84-65a7-4803-b793-005330bc0daf) (Security, Cloud and Datacenter Management)*
 
 + **"Digital Forensics After Real-World Cyber Incidents"**
 	+ [Thongsavanh Vilayvong](https://www.facebook.com/profile.php?id=100050492919052)
