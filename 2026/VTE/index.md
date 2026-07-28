@@ -84,7 +84,7 @@
 
 <p align="center">
     <a href="https://verisette.com" target="_blank"><img src="../../2025/VTE/Supporters/verisette-logo.png" title="Verisette" width="70%"></a><br><br><br>
-    <a href="https://iknex.or.th" target="_blank"><img src="Supporters/iKNEX-TH.png" titel="iKNEX (Thailand)"></a><br>
+    <a href="https://iknex.or.th" target="_blank"><img src="Supporters/iKNEX-TH.png" titel="iKNEX (Thailand)" width="80%"></a><br>
     <a href="https://telcoms.net" target="_blank"><img src="Supporters/Telcoms.png" title="Telcoms" width="70%"></a><br><br><br>
     <img src="Supporters/ANS.png" title="ANS Technology" width="70%"><br><br>
     <a href="https://mayk.la/o/" target="_blank"><img src="../../2025/VTE/Supporters/MAYK.png" title="MAYK Learning Academy" width="85%"></a><br>
