@@ -30,7 +30,7 @@
 		+ *Proofpoint* ***{*** *[AI/ML](https://www.credly.com/badges/39a4f736-b8e5-46fd-ab3a-df6d80c42155), [AI Agent Security](https://www.credly.com/badges/5c528bb5-ba1f-44a8-8bba-e866c8fb4e28), [AI Data Security](https://www.credly.com/badges/167bd9c0-3a4d-4595-ad11-61ea698b9d92), [AI Email Security](https://www.credly.com/badges/38dc1c6b-9583-4979-a7cc-9bfe410ff1e7)* ***}*** *Specialist*
 
 + **"Linux Isn't Boring Anymore"**
-	+ [Chit Phommisay](https://www.facebook.com/jid.phommixay.7)
+	+ [Somchit Phommixay](https://www.facebook.com/jid.phommixay.7)
 		+ *General Manager, [Telcoms Solution](https://telcoms.net)*
         + *Former Project Management & Solution Delivery Manager at LCSC*
 	+ [Maykin Warasart](https://www.lpi.org/blog/2026/02/18/how-maykin-went-from-demoralization-to-lpi-trainer/), *PhD*
