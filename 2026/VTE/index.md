@@ -108,7 +108,7 @@
 <br><br>
 <a href="Gift2_o.png" target="_blank"><img src="Gift2.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
 
-<br><br>
+
 
 #### Pass Events: 
 * SysAdminDay 2025, [Live in Vientiane](/2025/VTE)
