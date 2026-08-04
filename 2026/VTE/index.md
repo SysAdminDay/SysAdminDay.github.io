@@ -124,6 +124,8 @@
 <br><br>
 <a href="016_o.png" target="_blank"><img src="016.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
 <br><br>
+<a href="017_o.png" target="_blank"><img src="016.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
+<br><br>
 <a href="Gift1_o.png" target="_blank"><img src="Gift1.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
 <br><br>
 <a href="Gift2_o.png" target="_blank"><img src="Gift2.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
