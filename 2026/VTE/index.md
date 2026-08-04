@@ -96,7 +96,11 @@
     <a href="https://voluntex.github.io/" target="_blank"><img src="../../2025/VTE/Supporters/VolunteX-Black-Text-Blue.png" title="Voluntary eXchange of Thailand" width="75%"></a><br>
 </p>
 
- <a href="SysAdminDay2026_o.png" target="_blank"><img src="SysAdminDay2026.png" titel="SysAdmin Day 2026"></a>
+<a href="SysAdminDay2026_o.png" target="_blank"><img src="SysAdminDay2026.png" titel="SysAdmin Day 2026"></a>
+
+<a href="Gift2_o.png" target="_blank"><img src="Gift2.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
+
+<br>
 
 #### Pass Events: 
 * SysAdminDay 2025, [Live in Vientiane](/2025/VTE)
