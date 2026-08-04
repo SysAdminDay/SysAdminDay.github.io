@@ -8,7 +8,7 @@
 <br>
 <br>
 <div align="center">
-    <a href="Group_o" target="_blank"><img src="Group_m.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
+    <a href="Group_o.png" target="_blank"><img src="Group_m.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
 </div>
 <br>
 
