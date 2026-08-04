@@ -98,6 +98,8 @@
 
 <a href="SysAdminDay2026_o.png" target="_blank"><img src="SysAdminDay2026.png" titel="SysAdmin Day 2026"></a>
 <br>
+<a href="001_o.png" target="_blank"><img src="001.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
+<br>
 <a href="Gift1_o.png" target="_blank"><img src="Gift1.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
 <br>
 <a href="Gift2_o.png" target="_blank"><img src="Gift2.png" title="SysAdmin Day 2026 - Live in Vientiane" ></a>
